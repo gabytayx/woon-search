@@ -1,9 +1,309 @@
 {
-  "bijgewerkt": "24 Jun 2026 om 07:53",
-  "bijgewerkt_iso": "2026-06-24T07:53:26.784533",
-  "aantal": 100,
-  "nieuw": 100,
+  "bijgewerkt": "24 Jun 2026 om 10:02",
+  "bijgewerkt_iso": "2026-06-24T10:02:53.474870",
+  "aantal": 119,
+  "nieuw": 30,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Vijzelstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/15936cb0/vijzelstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Lijnbaansgracht",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/290209ff/lijnbaansgracht/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Filips van Almondestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/eb736a4f/filips-van-almondestraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Pontsteiger",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/fbc06a37/pontsteiger/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Geervliet",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5523e745/geervliet/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Spilbergenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/a3705192/van-spilbergenstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Distelweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/731dce0b/distelweg/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Osdorpplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1e5f77e6/osdorpplein/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Watteaustraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/bbf60204/watteaustraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Smalschipstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/61f58337/smalschipstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Reijnier Vinkeleskade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/97cfc849/reijnier-vinkeleskade/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement IJsselmeerstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5d59935f/ijsselmeerstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Crynssenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/21d909ba/crynssenstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Postjeskade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/260c0799/postjeskade/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Silodam",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/50a3d830/silodam/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Herman Poortstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d26e49a4/herman-poortstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Linnaeuskade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/27a3f0d4/linnaeuskade/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Markengouw",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5f724598/markengouw/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Jisperveldstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/3a0d6273/jisperveldstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Distelweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/85ff26fe/distelweg/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Stadionweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1f114c86/stadionweg/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Veerstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b3fede97/veerstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bestevâerstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6971217d/bestevaerstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Vechtstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/38556a08/vechtstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ruimzicht",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1c4ead9e/ruimzicht/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Jan Pieter Heijestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0fb0dca/jan-pieter-heijestraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Akbarstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/207d4173/akbarstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Postjesweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/58abed55/postjesweg/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement De Kempenaerstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4d425dc4/de-kempenaerstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement John Blankensteinstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/908d0aee/john-blankensteinstraat/",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -11,7 +311,7 @@
       "prijs": "€ 3.950 per maand",
       "details": "120 m² · 4 kamers · Gestoffeerd of gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b46823d0/lijnbaansgracht",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -21,7 +321,7 @@
       "prijs": "€ 3.095 per maand",
       "details": "100 m² · 5 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/3b968422/van-spilbergenstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -31,7 +331,7 @@
       "prijs": "€ 2.650 per maand",
       "details": "84 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/975ddbc4/faas-wilkesstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -41,7 +341,7 @@
       "prijs": "€ 2.950 per maand",
       "details": "91 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ec28f2e1/distelweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -51,7 +351,7 @@
       "prijs": "€ 2.200 per maand",
       "details": "91 m² · 4 kamers · Gestoffeerd of gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bda7b00c/osdorpplein",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -61,7 +361,7 @@
       "prijs": "€ 3.950 per maand",
       "details": "108 m² · 6 kamers · 1934",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f70c01f0/boterdiepstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -71,7 +371,7 @@
       "prijs": "€ 2.850 per maand",
       "details": "90 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b49ed3e8/bovenover",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -81,7 +381,7 @@
       "prijs": "€ 3.800 per maand",
       "details": "106 m² · 4 kamers · 1927",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/88cc459d/crynssenstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -91,7 +391,7 @@
       "prijs": "€ 3.450 per maand",
       "details": "80 m² · 4 kamers · 1923",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1f2643c4/reijnier-vinkeleskade",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -101,7 +401,7 @@
       "prijs": "€ 2.100 per maand",
       "details": "110 m² · 5 kamers · 2010",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ed13df8f/insulindeweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -111,7 +411,7 @@
       "prijs": "€ 3.500 per maand",
       "details": "100 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/325f4d05/ijsselmeerstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -121,7 +421,7 @@
       "prijs": "€ 3.325 per maand",
       "details": "56 m² · 4 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8b750196/delistraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -131,7 +431,7 @@
       "prijs": "€ 3.500 per maand",
       "details": "144 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e7ee9df9/sarphatistraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -141,7 +441,7 @@
       "prijs": "€ 3.000 per maand",
       "details": "125 m² · 5 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/2a43b401/j-f-berghoefplantsoen",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -151,7 +451,7 @@
       "prijs": "€ 2.100 per maand",
       "details": "92 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/774def72/hofgeest",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -161,7 +461,7 @@
       "prijs": "€ 3.250 per maand",
       "details": "90 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/c263a01b/herman-poortstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -171,7 +471,7 @@
       "prijs": "€ 2.950 per maand",
       "details": "102 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1f0deb04/linnaeuskade",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -181,7 +481,7 @@
       "prijs": "€ 2.250 per maand",
       "details": "84 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a43bbc00/jisperveldstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -191,7 +491,7 @@
       "prijs": "€ 3.495 per maand",
       "details": "110 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e2527c0d/veerstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -201,7 +501,7 @@
       "prijs": "€ 2.075 per maand",
       "details": "134 m² · 5 kamers · 2007",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/2b4b7619/marius-meijboomstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -211,7 +511,7 @@
       "prijs": "€ 3.250 per maand",
       "details": "76 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/cf72f031/bestevaerstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -221,7 +521,7 @@
       "prijs": "€ 3.000 per maand",
       "details": "106 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1420c131/cornelis-zillesenlaan",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -231,7 +531,7 @@
       "prijs": "€ 3.500 per maand",
       "details": "101 m² · 4 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/84952b45/vechtstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -241,7 +541,7 @@
       "prijs": "€ 3.500 per maand",
       "details": "130 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/62e7387c/cornelis-zillesenlaan",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -251,7 +551,7 @@
       "prijs": "€ 2.400 per maand",
       "details": "97 m² · 4 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f1606044/ruimzicht",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -261,7 +561,7 @@
       "prijs": "€ 2.565 per maand",
       "details": "85 m² · 4 kamers · 15 m²",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/d8147226/distelweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -271,7 +571,7 @@
       "prijs": "€ 2.565 per maand",
       "details": "85 m² · 4 kamers · 15 m²",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bccc98c3/distelweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -281,7 +581,7 @@
       "prijs": "€ 2.565 per maand",
       "details": "85 m² · 4 kamers · 15 m²",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ca883006/distelweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -291,7 +591,7 @@
       "prijs": "€ 2.565 per maand",
       "details": "85 m² · 4 kamers · 15 m²",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/dfdd5d03/distelweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -301,7 +601,7 @@
       "prijs": "€ 2.665 per maand",
       "details": "85 m² · 4 kamers · 15 m²",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/4a2efd1e/distelweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -311,7 +611,7 @@
       "prijs": "€ 3.500 per maand",
       "details": "166 m² · 5 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/32ba3150/tintorettostraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -321,7 +621,7 @@
       "prijs": "€ 3.250 per maand",
       "details": "167 m² · 5 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/44726459/bernabeuhof",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -331,7 +631,7 @@
       "prijs": "€ 2.950 per maand",
       "details": "119 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/bdc676cc/karl-groegersingel",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -341,7 +641,7 @@
       "prijs": "€ 3.850 per maandTransparantMeer informatie",
       "details": "120 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/05ba7dcd/lindenhoevestraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -351,7 +651,7 @@
       "prijs": "€ 3.000 per maand",
       "details": "110 m² · 5 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8e09a3dc/ceintuurbaan",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -361,7 +661,7 @@
       "prijs": "€ 2.650 per maand",
       "details": "110 m² · 5 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/df8ee561/groenburgwal",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -371,7 +671,7 @@
       "prijs": "€ 3.000 per maand",
       "details": "101 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/eb76144d/anna-blamansingel",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -381,7 +681,7 @@
       "prijs": "€ 3.950 per maand",
       "details": "72 m² · 5 kamers · Gestoffeerd of gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e5475429/lodewijk-tripstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -391,7 +691,7 @@
       "prijs": "€ 4.000 per maand",
       "details": "160 m² · 6 kamers · 1903",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e6c954a2/wethouder-frankeweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -401,7 +701,7 @@
       "prijs": "€ 3.950 per maand",
       "details": "170 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/c728c709/h-stolleplantsoen",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -411,7 +711,7 @@
       "prijs": "€ 3.250 per maand",
       "details": "107 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/658e0d90/le-tourmalet",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -421,7 +721,7 @@
       "prijs": "€ 2.100 per maand",
       "details": "101 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f60e278e/vleutenstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -431,7 +731,7 @@
       "prijs": "€ 3.750 per maand",
       "details": "159 m² · 6 kamers · 1005",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/577e73b6/oude-spiegelstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -441,7 +741,7 @@
       "prijs": "€ 3.799 per maand",
       "details": "185 m² · 5 kamers · 1995",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/ee36e784/watermaalpad",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -451,7 +751,7 @@
       "prijs": "€ 3.950 per maand",
       "details": "145 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a79b4628/linnaeusstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -461,7 +761,7 @@
       "prijs": "€ 3.850 per maand",
       "details": "115 m² · 5 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/2e2a3dcf/admiraal-de-ruijterweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -471,7 +771,7 @@
       "prijs": "€ 3.300 per maand",
       "details": "167 m² · 7 kamers · 105 m²",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/3a244ad3/admiraal-de-ruijterweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -481,7 +781,7 @@
       "prijs": "€ 3.800 per maand",
       "details": "127 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/0db8123f/narva-eiland",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -491,7 +791,7 @@
       "prijs": "€ 3.800 per maand",
       "details": "116 m² · 5 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/29293fcb/martini-van-geffenstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -501,7 +801,7 @@
       "prijs": "€ 2.650 per maand",
       "details": "125 m² · 6 kamers · Gestoffeerd of gemeubileerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/1e623f1d/bijlmerdreef",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -511,7 +811,7 @@
       "prijs": "€ 3.000 per maand",
       "details": "85 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/45310335/kalmoesstraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -521,7 +821,7 @@
       "prijs": "€ 3.000 per maand",
       "details": "122 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/bdc9cf5c/boomgaardlaan",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -531,7 +831,7 @@
       "prijs": "€ 4.000 per maand",
       "details": "115 m² · 4 kamers · Gestoffeerd",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/ec2da69d/nilda-pintostraat",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -541,7 +841,7 @@
       "prijs": "€ 3.850 per maand",
       "details": "150 m² · 7 kamers · Gestoffeerd of gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/82703d39/papaverweg",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -551,7 +851,7 @@
       "prijs": "€ 3.000 per maand",
       "details": "71 m² · 5 kamers · Gemeubileerd",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b0d0b6b0/dickenslaan",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -561,7 +861,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.vesteda.com/nl/huurwoningen-amsterdam/churchilllaan-amsterdam",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -571,7 +871,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.vesteda.com/nl/huurwoningen-amsterdam/de-enter",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -581,7 +881,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.vesteda.com/nl/huurwoningen-amsterdam/detroit",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -591,7 +891,7 @@
       "prijs": "per maand",
       "details": "",
       "link": "https://www.vesteda.com",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -601,117 +901,7 @@
       "prijs": "(prijsrange)",
       "details": "",
       "link": "https://www.vesteda.com#item.url",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Zie link",
-      "prijs": "Zie website",
-      "details": "",
-      "link": "https://ikwilhuren.nu#",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Appartement Pontsteiger 327",
-      "prijs": "",
-      "details": "",
-      "link": "https://ikwilhuren.nu/object/amsterdam-1014zp-327-pontsteiger-2ffe2976bcc60271e03103aaaa394e6c/",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Appartement Haringbuisdijk 129",
-      "prijs": "",
-      "details": "",
-      "link": "https://ikwilhuren.nu/object/amsterdam-1086va-129-haringbuisdijk-086b3f7327f141f7623e5178ff5b9980/",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Appartement Mary van der Sluisstraat 240",
-      "prijs": "",
-      "details": "",
-      "link": "https://ikwilhuren.nu/object/amsterdam-1095me-240-mary-van-der-sluisstraat-05a0c4918b5d07542bcc8050e0699189/",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Appartement Buyskade 206",
-      "prijs": "",
-      "details": "",
-      "link": "https://ikwilhuren.nu/object/amsterdam-1051me-206-buyskade-f0c81bb9afb7a990221111dc221a1230/",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Appartement George Gershwinlaan 649",
-      "prijs": "",
-      "details": "",
-      "link": "https://ikwilhuren.nu/object/amsterdam-1082mt-649-george-gershwinlaan-5691763ddee933b181847afa78be598e/",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Appartement Kees Broekmanstraat 78",
-      "prijs": "",
-      "details": "",
-      "link": "https://ikwilhuren.nu/object/amsterdam-1095ms-78-kees-broekmanstraat-bd8e440e635010470ce166538970a191/",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Appartement Pontsteiger 213",
-      "prijs": "",
-      "details": "",
-      "link": "https://ikwilhuren.nu/object/amsterdam-1014zp-213-pontsteiger-d4863ff8eba0265c46dc83034001ae51/",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Appartement Haringbuisdijk 363",
-      "prijs": "",
-      "details": "",
-      "link": "https://ikwilhuren.nu/object/amsterdam-1086va-363-haringbuisdijk-c0e09f6de535a09f5b4e450714aacfd2/",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Appartement Sumatrakade 1147",
-      "prijs": "",
-      "details": "",
-      "link": "https://ikwilhuren.nu/object/amsterdam-1019rg-1147-sumatrakade-9a2fdef4feb27fc307f51de094e51fa0/",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "MVGM",
-      "bron_url": "https://ikwilhuren.nu",
-      "titel": "Appartement Tt. Vasumweg 36 M4",
-      "prijs": "",
-      "details": "",
-      "link": "https://ikwilhuren.nu/object/amsterdam-1033sc-36-m4-tt-vasumweg-c785a22c562b1f78024175753bba4489/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -721,7 +911,7 @@
       "prijs": "Minimale prijsMaximale prijs",
       "details": "",
       "link": "https://fris.nl/volledige-woningaanbod/berlaarstraat-197-amsterdam/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -731,7 +921,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.friswonen.nl/woning/heringa-state-38-amsterdam/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -741,7 +931,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.friswonen.nl/woning/bos-en-lommerweg-336-amsterdam/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -751,7 +941,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.friswonen.nl/woning/berlaarstraat-97-amsterdam/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -761,7 +951,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.friswonen.nl/woning/elandsstraat-24c-amsterdam/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -771,7 +961,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.friswonen.nl/woning/berlaarstraat-193-amsterdam/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -781,7 +971,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.friswonen.nl/woning/hoogoord-39-amsterdam/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -791,7 +981,7 @@
       "prijs": "€ 995.000,- k.k.",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-amsteldijk-162-1/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -801,7 +991,7 @@
       "prijs": "€ 1.850,- p/m",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-osdorpplein-935/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -811,7 +1001,7 @@
       "prijs": "€ 795.000,- v.o.n.",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-grasweg-384/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -821,7 +1011,7 @@
       "prijs": "€ 2.565,- p/m",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-distelweg-78r-93/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -831,7 +1021,7 @@
       "prijs": "€ 2.565,- p/m",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-distelweg-78r-96/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -841,7 +1031,7 @@
       "prijs": "€ 489.000,- v.o.n.",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/hoofddorp-nieuweweg-59b/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -851,7 +1041,7 @@
       "prijs": "€ 2.565,- p/m",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-distelweg-78r-94/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -861,7 +1051,7 @@
       "prijs": "€ 2.665,- p/m",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-distelweg-78r-101/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -871,7 +1061,7 @@
       "prijs": "€ 2.565,- p/m",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-distelweg-78r-95/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -881,7 +1071,7 @@
       "prijs": "€ 2.665,- p/m",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-distelweg-78r-103/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -891,7 +1081,7 @@
       "prijs": "€ 795.000,- v.o.n.",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-grasweg-402/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -901,7 +1091,7 @@
       "prijs": "€ 2.665,- p/m",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-distelweg-78r-104/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -911,7 +1101,7 @@
       "prijs": "€ 435.000,- k.k.",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-hiraistraat-5b-18/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -921,7 +1111,7 @@
       "prijs": "€ 860.000,- v.o.n.",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-grasweg-386/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -931,7 +1121,7 @@
       "prijs": "€ 475.000,- k.k.",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/utrecht-van-lennepstraat-14bs/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -941,7 +1131,7 @@
       "prijs": "€ 550.000,- k.k.",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amsterdam-keizersgracht-517n/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -951,7 +1141,7 @@
       "prijs": "€ 810.000,- v.o.n.",
       "details": "",
       "link": "https://www.eefjevoogd.nl/nl/woning/amstelveen-ouderkerkerlaan-245/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -961,7 +1151,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.eigenhaard.nl#",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -971,7 +1161,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.rochdale.nl/woning-zoeken/sociale-huur/een-sociale-huurwoning-zoeken/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -981,7 +1171,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.rochdale.nl/mijn-woning/reparaties-onderhoud/reparatie-melden/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -991,7 +1181,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.rochdale.nl/over-ons/contact-met-rochdale/contact-opnemen/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
@@ -1001,7 +1191,7 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.rochdale.nl/over-ons/over-rochdale/koers-2025-2030/",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     }
   ]
