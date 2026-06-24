@@ -1,0 +1,40 @@
+name: Woning Alert Scan
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Elk uur (GitHub Actions minimaal ~1 min vertraging)
+  workflow_dispatch:        # Handmatig starten via GitHub UI
+
+permissions:
+  contents: write           # Nodig om data.json + gezien.json te committen
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Dependencies installeren
+        run: |
+          pip install requests beautifulsoup4 playwright
+          playwright install chromium --with-deps
+
+      - name: Scraper draaien
+        run: python scraper/scrape.py
+
+      - name: Resultaten committen
+        run: |
+          git config user.name  "Woning Alert Bot"
+          git config user.email "bot@woning-alert"
+          git add docs/data.json docs/gezien.json
+          git diff --staged --quiet || git commit -m "🏠 Aanbod bijgewerkt $(date +'%d-%m-%Y %H:%M')"
+          git push
