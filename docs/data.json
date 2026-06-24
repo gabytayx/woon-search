@@ -1,19 +1,52 @@
 {
-  "bijgewerkt": "24 Jun 2026 om 11:00",
-  "bijgewerkt_iso": "2026-06-24T11:00:24.253785",
+  "bijgewerkt": "24 Jun 2026 om 12:01",
+  "bijgewerkt_iso": "2026-06-24T12:01:17.812438",
   "aantal": 87,
-  "nieuw": 1,
+  "nieuw": 4,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Spaarndammerdijk",
+      "prijs": "€ 3.450 per maand",
+      "details": "100 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/6f39ba37/spaarndammerdijk",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T12:01:17.812376"
+    },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Van Hogendorpstraat",
+      "titel": "Huis Spaarndammerdijk",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/fc87b46d/van-hogendorpstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/21ebcf5c/spaarndammerdijk/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-06-24T11:00:24.253715"
+      "gezien_sinds": "2026-06-24T12:01:17.812376"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ennemaborg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/7788e535/ennemaborg/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T12:01:17.812376"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/bercylaan-645-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-06-24T12:01:17.812376"
     },
     {
       "bron": "Pararius",
@@ -610,39 +643,6 @@
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Minimale prijsMaximale prijs",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/berlaarstraat-197-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vijzelstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/15936cb0/vijzelstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T10:02:53.474785"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Lijnbaansgracht",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/290209ff/lijnbaansgracht/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T10:02:53.474785"
-    },
-    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Filips van Almondestraat",
@@ -940,17 +940,6 @@
       "gezien_sinds": "2026-06-24T10:02:53.474785"
     },
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Distelweg 78 R 103",
-      "prijs": "€ 2.665 per maand",
-      "details": "85 m² · 4 kamers · 15 m²",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/3e5676f5/distelweg",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T10:27:53.552902"
-    },
-    {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
       "titel": "Distelweg 78R 104",
@@ -960,6 +949,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-06-24T10:27:53.552902"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Hogendorpstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/fc87b46d/van-hogendorpstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-24T11:00:24.253715"
     }
   ]
 }
