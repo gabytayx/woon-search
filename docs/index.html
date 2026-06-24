@@ -57,12 +57,47 @@
     font-size: 12px;
     color: #888;
     text-align: right;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .header-meta-tekst {
+    text-align: right;
   }
 
   .header-meta strong {
     color: white;
     display: block;
     font-size: 13px;
+  }
+
+  .refresh-btn {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.15);
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 7px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: background 0.15s, border-color 0.15s;
+    white-space: nowrap;
+  }
+
+  .refresh-btn:hover {
+    background: var(--rood);
+    border-color: var(--rood);
+  }
+
+  .refresh-icon {
+    font-size: 14px;
+    display: inline-block;
   }
 
   /* ── Hero-balk ── */
@@ -310,6 +345,21 @@
     line-height: 1.5;
   }
 
+  .kaart-datum {
+    font-size: 11px;
+    color: var(--grijs-3);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: auto;
+    padding-top: 4px;
+  }
+
+  .kaart-datum::before {
+    content: "📅";
+    font-size: 11px;
+  }
+
   .kaart-footer {
     padding: 12px 16px;
     border-top: 1px solid var(--grijs-1);
@@ -402,8 +452,13 @@
 <header>
   <div class="logo">Woning<span>Alert</span></div>
   <div class="header-meta">
-    <strong id="bijgewerkt-header">Laden...</strong>
-    Amsterdam · Elk uur bijgewerkt
+    <div class="header-meta-tekst">
+      <strong id="bijgewerkt-header">Laden...</strong>
+      Amsterdam · Elk kwartier bijgewerkt
+    </div>
+    <a id="refresh-btn" class="refresh-btn" href="https://github.com/gaby438/house-alert/actions/workflows/scan.yml" target="_blank" rel="noopener">
+      <span class="refresh-icon">↻</span> Scan nu
+    </a>
   </div>
 </header>
 
@@ -571,6 +626,10 @@ function kaartHtml(w) {
     ? `<div class="kaart-details">${esc(w.details)}</div>`
     : '';
 
+  const datum = w.plaatsingsdatum
+    ? `<div class="kaart-datum">${esc(w.plaatsingsdatum)}</div>`
+    : '';
+
   return `
     <div class="kaart ${w.nieuw ? 'is-nieuw' : ''}">
       ${nieuwBadge}
@@ -578,6 +637,7 @@ function kaartHtml(w) {
         <div class="kaart-bron">${esc(w.bron)}</div>
         <div class="kaart-titel">${esc(w.titel)}</div>
         ${details}
+        ${datum}
       </div>
       <div class="kaart-footer">
         <div class="kaart-prijs">${esc(w.prijs) || '–'}</div>
