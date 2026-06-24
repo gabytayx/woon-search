@@ -68,46 +68,79 @@ def extraheer_prijs(tekst: str) -> int | None:
 
 def extraheer_datum(item) -> str:
     """
-    Probeer de plaatsingsdatum uit een listing-item te halen.
-    Kijkt naar <time> elementen, datetime attributen, en datum-achtige tekst.
+    Extraheer plaatsingsdatum uit een listing-item.
+    Strategie: van specifiek naar generiek.
     """
-    # 1. <time datetime="2026-06-24"> attribuut
-    time_el = item.select_one("time[datetime]")
-    if time_el:
-        dt = time_el.get("datetime", "")
+    maanden = ["", "jan", "feb", "mrt", "apr", "mei", "jun",
+               "jul", "aug", "sep", "okt", "nov", "dec"]
+
+    def iso_naar_leesbaar(dt: str) -> str:
         m = re.match(r'(\d{4})-(\d{2})-(\d{2})', dt)
         if m:
-            maanden = ["", "jan", "feb", "mrt", "apr", "mei", "jun",
-                       "jul", "aug", "sep", "okt", "nov", "dec"]
             return f"{int(m.group(3))} {maanden[int(m.group(2))]} {m.group(1)}"
+        return ""
 
-    # 2. <time> zonder datetime attribuut
-    time_el = item.select_one("time")
-    if time_el:
-        tekst = time_el.get_text(strip=True)
-        if tekst and len(tekst) < 40:
-            return tekst
+    # 1. <time datetime="2026-06-24">
+    for el in item.select("time[datetime]"):
+        leesbaar = iso_naar_leesbaar(el.get("datetime", ""))
+        if leesbaar:
+            return leesbaar
 
-    # 3. Klassen met datum-achtige namen
-    datum_el = item.select_one(
+    # 2. Elementen met datum-classes (breed gezocht)
+    datum_selectors = (
         "[class*='date'], [class*='datum'], [class*='Date'], "
         "[class*='since'], [class*='posted'], [class*='placed'], "
-        "[class*='listed'], [class*='aangeboden'], [class*='plaatsingsdatum']"
+        "[class*='listed'], [class*='aangeboden'], [class*='plaatsingsdatum'], "
+        "[class*='available'], [class*='beschikbaar'], [class*='online']"
     )
-    if datum_el:
-        tekst = datum_el.get_text(strip=True)
-        if tekst and len(tekst) < 40:
-            return tekst
+    for el in item.select(datum_selectors):
+        tekst = el.get_text(strip=True)
+        if tekst and len(tekst) < 60:
+            # ISO datum erin?
+            leesbaar = iso_naar_leesbaar(tekst)
+            if leesbaar:
+                return leesbaar
+            # Datum-achtig patroon?
+            if re.search(r'\d{1,2}[-/. ]\d{1,2}[-/. ]\d{2,4}', tekst):
+                return tekst.strip()
+            if re.search(r'\d{1,2}\s+(?:jan|feb|mrt|apr|mei|jun|jul|aug|sep|okt|nov|dec)', tekst, re.I):
+                return tekst.strip()
 
-    # 4. Datumpatronen in platte tekst
+    # 3. Zoek in platte tekst naar datum-labels
+    # Pararius: "Aangeboden sinds 15 mei 2026"
+    # Funda: "Beschikbaar per 01-06-2026" / "Aangeboden op 20-05-2026"
+    # Huurwoningen.nl: "Datum: 24-06-2026"
+    # MVGM/Vesteda: "Available since June 1"
     tekst = item.get_text(separator=" ")
+
+    label_patronen = [
+        # Label + datum in één patroon vangen
+        r'(?:aangeboden\s+(?:sinds|op|per)|beschikbaar\s+(?:per|vanaf|sinds)|'
+        r'datum[:\s]+|geplaatst\s+(?:op|per)|online\s+(?:per|sinds|vanaf)|'
+        r'listed\s+(?:on|since)|available\s+(?:per|since|from))'
+        r'\s*:?\s*'
+        r'(\d{1,2}[-/. ]\d{1,2}[-/. ]\d{2,4}|\d{1,2}\s+\w+\s+\d{4}|\d{4}-\d{2}-\d{2})',
+    ]
+    for patroon in label_patronen:
+        m = re.search(patroon, tekst, re.IGNORECASE)
+        if m:
+            datum_str = m.group(1).strip()
+            leesbaar = iso_naar_leesbaar(datum_str)
+            return leesbaar if leesbaar else datum_str
+
+    # 4. Fallback: elk datumpatroon in de tekst
     for patroon in [
         r'\b(\d{1,2}[-/]\d{1,2}[-/]\d{4})\b',
-        r'\b(\d{1,2}\s+(?:jan|feb|mrt|apr|mei|jun|jul|aug|sep|okt|nov|dec)[a-z]*\.?\s+\d{4})\b',
+        r'\b(\d{4}-\d{2}-\d{2})\b',
+        r'\b(\d{1,2}\s+(?:jan(?:uari)?|feb(?:ruari)?|mrt|maart|apr(?:il)?|mei|jun(?:i)?|'
+        r'jul(?:i)?|aug(?:ustus)?|sep(?:tember)?|okt(?:ober)?|nov(?:ember)?|dec(?:ember)?)'
+        r'\s+\d{4})\b',
     ]:
         m = re.search(patroon, tekst, re.IGNORECASE)
         if m:
-            return m.group(1)
+            datum_str = m.group(1).strip()
+            leesbaar = iso_naar_leesbaar(datum_str)
+            return leesbaar if leesbaar else datum_str
 
     return ""
 
@@ -642,6 +675,10 @@ def main():
     gefilterd = [w for w in alle if voldoet(w)]
     gefilterd = list({w["link"]: w for w in gefilterd}.values())
     print(f"  Totaal na filter+dedup: {len(gefilterd)}")
+
+    # Debug: toon hoeveel datums gevonden zijn
+    met_datum = sum(1 for w in gefilterd if w.get("plaatsingsdatum"))
+    print(f"  Met plaatsingsdatum: {met_datum}/{len(gefilterd)}")
 
     # Markeer nieuw vs. gezien
     nu = datetime.now().isoformat()
