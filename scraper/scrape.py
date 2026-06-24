@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Woning Alert — scraper
-Haalt woningen op van alle bronnen en schrijft naar docs/data.json
+Haalt huurwoningen op van alle bronnen en schrijft naar docs/data.json
 """
 
 import json
@@ -13,7 +13,6 @@ from pathlib import Path
 ZOEKEISEN = {
     "max_prijs":  4000,
     "min_kamers": 3,
-    "types": ["appartement", "woonhuis", "eengezinswoning"],
 }
 
 HEADERS = {
@@ -23,9 +22,15 @@ HEADERS = {
     "Connection": "keep-alive",
 }
 
-OUTPUT_DIR = Path(__file__).parent.parent / "docs"
-DATA_FILE  = OUTPUT_DIR / "data.json"
+OUTPUT_DIR  = Path(__file__).parent.parent / "docs"
+DATA_FILE   = OUTPUT_DIR / "data.json"
 GEZIEN_FILE = OUTPUT_DIR / "gezien.json"
+
+# Woorden die duiden op KOOP — deze woningen skippen we
+KOOP_SIGNALEN = [
+    "k.k.", "v.o.n.", "koopprijs", "vraagprijs", "koop",
+    "te koop", "for sale", "verkoop",
+]
 
 # ─── Helpers ──────────────────────────────────────────────
 
@@ -53,13 +58,73 @@ def playwright_fetch(url: str, wacht: float = 2.5) -> str:
         return ""
 
 def extraheer_prijs(tekst: str) -> int | None:
-    for m in re.finditer(r'\d{3,5}', tekst.replace(".", "").replace(",", "")):
+    """Haal een getal uit prijstekst zoals '€ 2.500 /mnd'"""
+    for m in re.finditer(r'\d{3,6}', tekst.replace(".", "").replace(",", "")):
         g = int(m.group())
         if 300 < g < 20000:
             return g
     return None
 
+
+def extraheer_datum(item) -> str:
+    """
+    Probeer de plaatsingsdatum uit een listing-item te halen.
+    Kijkt naar <time> elementen, datetime attributen, en datum-achtige tekst.
+    """
+    # 1. <time datetime="2026-06-24"> attribuut
+    time_el = item.select_one("time[datetime]")
+    if time_el:
+        dt = time_el.get("datetime", "")
+        m = re.match(r'(\d{4})-(\d{2})-(\d{2})', dt)
+        if m:
+            maanden = ["", "jan", "feb", "mrt", "apr", "mei", "jun",
+                       "jul", "aug", "sep", "okt", "nov", "dec"]
+            return f"{int(m.group(3))} {maanden[int(m.group(2))]} {m.group(1)}"
+
+    # 2. <time> zonder datetime attribuut
+    time_el = item.select_one("time")
+    if time_el:
+        tekst = time_el.get_text(strip=True)
+        if tekst and len(tekst) < 40:
+            return tekst
+
+    # 3. Klassen met datum-achtige namen
+    datum_el = item.select_one(
+        "[class*='date'], [class*='datum'], [class*='Date'], "
+        "[class*='since'], [class*='posted'], [class*='placed'], "
+        "[class*='listed'], [class*='aangeboden'], [class*='plaatsingsdatum']"
+    )
+    if datum_el:
+        tekst = datum_el.get_text(strip=True)
+        if tekst and len(tekst) < 40:
+            return tekst
+
+    # 4. Datumpatronen in platte tekst
+    tekst = item.get_text(separator=" ")
+    for patroon in [
+        r'\b(\d{1,2}[-/]\d{1,2}[-/]\d{4})\b',
+        r'\b(\d{1,2}\s+(?:jan|feb|mrt|apr|mei|jun|jul|aug|sep|okt|nov|dec)[a-z]*\.?\s+\d{4})\b',
+    ]:
+        m = re.search(patroon, tekst, re.IGNORECASE)
+        if m:
+            return m.group(1)
+
+    return ""
+
+def is_koopwoning(w: dict) -> bool:
+    """Detecteer koopwoningen op basis van prijs/titel/link tekst."""
+    tekst = (w.get("prijs", "") + " " + w.get("titel", "") + " " + w.get("link", "")).lower()
+    return any(sig in tekst for sig in KOOP_SIGNALEN)
+
+def is_huur_url(href: str) -> bool:
+    """Check of een URL waarschijnlijk een huurwoning is (niet koop)."""
+    koop_url_signalen = ["/koop/", "/koopwoning/", "/te-koop/", "/for-sale/", "/buy/", "/verkoop/"]
+    return not any(sig in href.lower() for sig in koop_url_signalen)
+
 def voldoet(w: dict) -> bool:
+    """Filtert op prijs en sluit koopwoningen uit."""
+    if is_koopwoning(w):
+        return False
     prijs = extraheer_prijs(w.get("prijs", ""))
     if prijs and prijs > ZOEKEISEN["max_prijs"]:
         return False
@@ -98,6 +163,7 @@ def scrape_pararius() -> list[dict]:
                     "titel": a.get_text(strip=True),
                     "prijs": prijs_el.get_text(strip=True) if prijs_el else "",
                     "details": details,
+                    "plaatsingsdatum": extraheer_datum(item),
                     "link": "https://www.pararius.nl" + a["href"],
                 })
             except Exception:
@@ -109,6 +175,7 @@ def scrape_funda() -> list[dict]:
     from bs4 import BeautifulSoup
     max_p = ZOEKEISEN["max_prijs"]
     min_k = ZOEKEISEN["min_kamers"]
+    # /huur/ in de URL zorgt dat Funda alleen huurwoningen toont
     url = (f"https://www.funda.nl/zoeken/huur/?selected_area=%5B%22amsterdam%22%5D"
            f"&price_max={max_p}&rooms_min={min_k}"
            "&object_type%5B%5D=apartment&object_type%5B%5D=house&sort=date_down")
@@ -128,6 +195,9 @@ def scrape_funda() -> list[dict]:
             href = a.get("href", "")
             if not href.startswith("http"):
                 href = "https://www.funda.nl" + href
+            # Zorg dat het een huurwoning-URL is
+            if "/huur/" not in href and "/huurwoning" not in href:
+                continue
             titel_el = (item.select_one("[data-test-id='street-name-house-number']") or
                         item.select_one("h2") or item.select_one("[class*='title']"))
             prijs_el = (item.select_one("[data-test-id='price-rent']") or
@@ -137,6 +207,7 @@ def scrape_funda() -> list[dict]:
                 "titel": titel_el.get_text(strip=True) if titel_el else "Zie link",
                 "prijs": prijs_el.get_text(strip=True) if prijs_el else "",
                 "details": "", "link": href,
+                    "plaatsingsdatum": extraheer_datum(item),
             })
         except Exception:
             pass
@@ -147,26 +218,32 @@ def scrape_huurwoningen() -> list[dict]:
     max_p = ZOEKEISEN["max_prijs"]
     min_k = ZOEKEISEN["min_kamers"]
     url = f"https://www.huurwoningen.nl/in/amsterdam/?price=0-{max_p}&bedrooms={min_k}"
-    html = playwright_fetch(url)
+    html = playwright_fetch(url, wacht=4)  # langer wachten voor JS-prijzen
     if not html:
         return []
     soup = BeautifulSoup(html, "html.parser")
     resultaten = []
     for item in soup.select(".listing-search-item, [class*='listing']"):
         try:
-            a = item.select_one("a[href*='/huurwoning/']") or item.select_one("a")
+            a = item.select_one("a[href*='/huren/']") or item.select_one("a[href*='/huurwoning/']") or item.select_one("a")
             if not a:
                 continue
             href = a.get("href", "")
             if not href.startswith("http"):
                 href = "https://www.huurwoningen.nl" + href
-            titel_el = item.select_one("h2, [class*='title']")
-            prijs_el = item.select_one("[class*='price'], [class*='prijs']")
+            if "/huren/" not in href and "/huurwoning/" not in href:
+                continue
+            titel_el = item.select_one("h2, [class*='title'], [class*='address'], [class*='street']")
+            # Prijzen zitten in spans met data-attributen of aparte price class
+            prijs_el = (item.select_one("[class*='price']") or
+                        item.select_one("[data-price]") or
+                        item.select_one("[class*='rent']"))
             resultaten.append({
                 "bron": "Huurwoningen.nl", "bron_url": "https://www.huurwoningen.nl",
                 "titel": titel_el.get_text(strip=True) if titel_el else "Zie link",
                 "prijs": prijs_el.get_text(strip=True) if prijs_el else "",
                 "details": "", "link": href,
+                    "plaatsingsdatum": extraheer_datum(item),
             })
         except Exception:
             pass
@@ -199,6 +276,7 @@ def scrape_huislijn() -> list[dict]:
                 "titel": titel_el.get_text(strip=True) if titel_el else "Zie link",
                 "prijs": prijs_el.get_text(strip=True) if prijs_el else "",
                 "details": "", "link": href,
+                    "plaatsingsdatum": extraheer_datum(item),
             })
         except Exception:
             pass
@@ -208,6 +286,7 @@ def scrape_jaap() -> list[dict]:
     from bs4 import BeautifulSoup
     max_p = ZOEKEISEN["max_prijs"]
     min_k = ZOEKEISEN["min_kamers"]
+    # /huurhuizen/ in URL = alleen huur
     url = f"https://www.jaap.nl/huurhuizen/amsterdam/+{min_k}slaapkamers/+0mnd-{max_p}mnd/"
     html = playwright_fetch(url)
     if not html:
@@ -222,6 +301,9 @@ def scrape_jaap() -> list[dict]:
             href = a.get("href", "")
             if not href.startswith("http"):
                 href = "https://www.jaap.nl" + href
+            # Jaap: alleen huurwoningen-URLs meenemen
+            if "/huurhuizen/" not in href and "/huurwoning" not in href:
+                continue
             titel_el = item.select_one("h2, h3, [class*='address']")
             prijs_el = item.select_one("[class*='price'], [class*='prijs']")
             resultaten.append({
@@ -229,6 +311,7 @@ def scrape_jaap() -> list[dict]:
                 "titel": titel_el.get_text(strip=True) if titel_el else "Zie link",
                 "prijs": prijs_el.get_text(strip=True) if prijs_el else "",
                 "details": "", "link": href,
+                    "plaatsingsdatum": extraheer_datum(item),
             })
         except Exception:
             pass
@@ -236,12 +319,32 @@ def scrape_jaap() -> list[dict]:
 
 def scrape_vesteda() -> list[dict]:
     from bs4 import BeautifulSoup
-    html = playwright_fetch("https://www.vesteda.com/nl/huurwoningen-amsterdam", wacht=3)
+    # Vesteda toont per project; elk project heeft meerdere woningen
+    # We scrapen de overzichtspagina en pakken projectlinks
+    url = "https://www.vesteda.com/nl/huurwoningen-amsterdam"
+    html = playwright_fetch(url, wacht=4)
     if not html:
         return []
     soup = BeautifulSoup(html, "html.parser")
     resultaten = []
-    for item in soup.select("[class*='complex'], [class*='project'], [class*='card'], article"):
+
+    # Vesteda gebruikt data-testid attributen op hun kaarten
+    selectors = [
+        "[data-testid*='complex']",
+        "[data-testid*='unit']",
+        "[class*='ComplexCard']",
+        "[class*='UnitCard']",
+        "[class*='complex-card']",
+        "[class*='unit-card']",
+        "article",
+    ]
+    items = []
+    for sel in selectors:
+        items = soup.select(sel)
+        if items:
+            break
+
+    for item in items:
         try:
             a = item.select_one("a[href*='/nl/huurwoningen']") or item.select_one("a")
             if not a:
@@ -249,31 +352,51 @@ def scrape_vesteda() -> list[dict]:
             href = a.get("href", "")
             if not href.startswith("http"):
                 href = "https://www.vesteda.com" + href
-            if "vesteda.com" not in href:
+            if "vesteda.com" not in href or "/nl/huurwoningen" not in href:
                 continue
-            naam_el = item.select_one("h2, h3, [class*='title'], [class*='name']")
-            prijs_el = item.select_one("[class*='price'], [class*='prijs'], [class*='rent']")
+
+            naam_el = item.select_one("h2, h3, h4, [class*='title'], [class*='name'], [class*='Title'], [class*='Name']")
+            prijs_el = item.select_one("[class*='price'], [class*='Price'], [class*='rent'], [class*='Rent']")
+
+            naam = naam_el.get_text(strip=True) if naam_el else ""
+            prijs = prijs_el.get_text(strip=True) if prijs_el else "Zie website"
+
+            # Skip lege/nutteloze kaarten
+            if not naam or naam.lower() in ["", "zie link", "zie website"]:
+                continue
+
             resultaten.append({
                 "bron": "Vesteda", "bron_url": "https://www.vesteda.com",
-                "titel": naam_el.get_text(strip=True) if naam_el else "Zie link",
-                "prijs": prijs_el.get_text(strip=True) if prijs_el else "Zie website",
-                "details": "", "link": href,
+                "titel": naam,
+                "prijs": prijs,
+                "details": "",
+                    "plaatsingsdatum": extraheer_datum(item),
+                "link": href,
             })
         except Exception:
             pass
-    return resultaten
+
+    # Dedup op link
+    return list({r["link"]: r for r in resultaten}.values())
 
 def scrape_mvgm() -> list[dict]:
     from bs4 import BeautifulSoup
-    html = playwright_fetch("https://ikwilhuren.nu/aanbod/amsterdam", wacht=3)
+    url = "https://ikwilhuren.nu/aanbod/amsterdam"
+    html = playwright_fetch(url, wacht=3)
     if not html:
         return []
     soup = BeautifulSoup(html, "html.parser")
     resultaten = []
-    for item in soup.select("[class*='listing'], [class*='property'], [class*='woning'], article, .card"):
+
+    # MVGM gebruikt li-elementen met woninginfo als platte tekst
+    # Probeer specifiekere selectors eerst
+    items = (soup.select("li[class*='listing']") or
+             soup.select("[class*='property-item']") or
+             soup.select("article"))
+
+    for item in items:
         try:
-            a = (item.select_one("a[href*='ikwilhuren']") or
-                 item.select_one("a[href*='/aanbod/']") or item.select_one("a"))
+            a = item.select_one("a")
             if not a:
                 continue
             href = a.get("href", "")
@@ -283,30 +406,38 @@ def scrape_mvgm() -> list[dict]:
                 continue
             titel_el = item.select_one("h2, h3, [class*='address'], [class*='title'], [class*='straat']")
             prijs_el = item.select_one("[class*='price'], [class*='prijs'], [class*='huur']")
+            if not titel_el:
+                continue
             resultaten.append({
                 "bron": "MVGM", "bron_url": "https://ikwilhuren.nu",
-                "titel": titel_el.get_text(strip=True) if titel_el else "Zie link",
+                "titel": titel_el.get_text(strip=True),
                 "prijs": prijs_el.get_text(strip=True) if prijs_el else "Zie website",
                 "details": "", "link": href,
+                    "plaatsingsdatum": extraheer_datum(item),
             })
         except Exception:
             pass
+
+    # Fallback: regex op platte tekst (MVGM rendert listings als tekst)
     if not resultaten:
-        tekst = soup.get_text()
-        for m in re.finditer(r'(Appartement|Eengezinswoning)\s+([A-Z][^\n]{5,60}Amsterdam)', tekst):
+        tekst = soup.get_text(separator="\n")
+        for m in re.finditer(r'(Appartement|Eengezinswoning)\s+([A-Z][^\n]{5,60}Amsterdam[^\n]*)', tekst):
             resultaten.append({
                 "bron": "MVGM", "bron_url": "https://ikwilhuren.nu",
                 "titel": f"{m.group(1)} {m.group(2).strip()}",
                 "prijs": "Zie website", "details": "",
                 "link": "https://ikwilhuren.nu/aanbod/amsterdam",
             })
+
     return resultaten[:30]
 
 def scrape_fris() -> list[dict]:
     from bs4 import BeautifulSoup
     resultaten = []
-    for url, base in [("https://fris.nl/volledige-woningaanbod/", "https://fris.nl"),
-                      ("https://www.friswonen.nl/woningen/", "https://www.friswonen.nl")]:
+    for url, base in [
+        ("https://fris.nl/volledige-woningaanbod/", "https://fris.nl"),
+        ("https://www.friswonen.nl/woningen/", "https://www.friswonen.nl"),
+    ]:
         html = playwright_fetch(url)
         if not html:
             continue
@@ -319,15 +450,22 @@ def scrape_fris() -> list[dict]:
                 href = a.get("href", "")
                 if not href.startswith("http"):
                     href = base + href
-                if "amsterdam" not in item.get_text().lower():
+                tekst = item.get_text().lower()
+                if "amsterdam" not in tekst:
+                    continue
+                # Skip koop
+                if any(sig in tekst for sig in KOOP_SIGNALEN):
                     continue
                 titel_el = item.select_one("h2, h3, [class*='address'], [class*='title']")
                 prijs_el = item.select_one("[class*='price'], [class*='prijs'], [class*='huur']")
+                if not titel_el:
+                    continue
                 resultaten.append({
                     "bron": "Fris", "bron_url": base,
-                    "titel": titel_el.get_text(strip=True) if titel_el else "Zie link",
+                    "titel": titel_el.get_text(strip=True),
                     "prijs": prijs_el.get_text(strip=True) if prijs_el else "Zie website",
                     "details": "", "link": href,
+                    "plaatsingsdatum": extraheer_datum(item),
                 })
             except Exception:
                 pass
@@ -335,34 +473,54 @@ def scrape_fris() -> list[dict]:
 
 def scrape_eefjevoogd() -> list[dict]:
     from bs4 import BeautifulSoup
-    html = playwright_fetch("https://www.eefjevoogd.nl/nl/woningen/")
-    if not html:
-        return []
-    soup = BeautifulSoup(html, "html.parser")
-    resultaten = []
-    for item in soup.select("[class*='woning'], [class*='property'], [class*='listing'], article, li"):
-        try:
-            a = item.select_one("a[href*='/woning']") or item.select_one("a[href*='/nl/']") or item.select_one("a")
-            if not a:
-                continue
-            href = a.get("href", "")
-            if not href.startswith("http"):
-                href = "https://www.eefjevoogd.nl" + href
-            if "eefjevoogd.nl" not in href:
-                continue
-            titel_el = item.select_one("h2, h3, [class*='address'], [class*='title']")
-            prijs_el = item.select_one("[class*='price'], [class*='prijs'], [class*='huur']")
-            if not titel_el:
-                continue
-            resultaten.append({
-                "bron": "Eefje Voogd", "bron_url": "https://www.eefjevoogd.nl",
-                "titel": titel_el.get_text(strip=True),
-                "prijs": prijs_el.get_text(strip=True) if prijs_el else "Zie website",
-                "details": "", "link": href,
-            })
-        except Exception:
-            pass
-    return resultaten
+    # Gebruik de expliciete huur-URL met availability filter
+    urls = [
+        "https://www.eefjevoogd.nl/nl/woningen/?availability=for-rent",
+        "https://www.eefjevoogd.nl/nl/woningen/huur/",
+        "https://www.eefjevoogd.nl/nl/rent/",
+    ]
+    for url in urls:
+        html = playwright_fetch(url, wacht=3)
+        if not html or len(html) < 1000:
+            continue
+        soup = BeautifulSoup(html, "html.parser")
+        resultaten = []
+
+        for item in soup.select("[class*='woning'], [class*='property'], [class*='listing'], article, .card, li"):
+            try:
+                a = item.select_one("a")
+                if not a:
+                    continue
+                href = a.get("href", "")
+                if not href.startswith("http"):
+                    href = "https://www.eefjevoogd.nl" + href
+                if "eefjevoogd.nl" not in href:
+                    continue
+                # Skip koop-URLs
+                if not is_huur_url(href):
+                    continue
+                tekst = item.get_text().lower()
+                # Skip als koop-signalen in tekst
+                if any(sig in tekst for sig in KOOP_SIGNALEN):
+                    continue
+                titel_el = item.select_one("h2, h3, [class*='address'], [class*='title']")
+                prijs_el = item.select_one("[class*='price'], [class*='prijs'], [class*='huur'], [class*='rent']")
+                if not titel_el:
+                    continue
+                resultaten.append({
+                    "bron": "Eefje Voogd", "bron_url": "https://www.eefjevoogd.nl",
+                    "titel": titel_el.get_text(strip=True),
+                    "prijs": prijs_el.get_text(strip=True) if prijs_el else "Zie website",
+                    "details": "", "link": href,
+                    "plaatsingsdatum": extraheer_datum(item),
+                })
+            except Exception:
+                pass
+
+        if resultaten:
+            return resultaten
+
+    return []
 
 def scrape_vanderlinden() -> list[dict]:
     from bs4 import BeautifulSoup
@@ -373,7 +531,7 @@ def scrape_vanderlinden() -> list[dict]:
     resultaten = []
     for item in soup.select("[class*='woning'], [class*='property'], [class*='listing'], article, .card"):
         try:
-            a = item.select_one("a[href*='/woning']") or item.select_one("a[href*='/huur']") or item.select_one("a")
+            a = item.select_one("a")
             if not a:
                 continue
             href = a.get("href", "")
@@ -381,7 +539,10 @@ def scrape_vanderlinden() -> list[dict]:
                 href = "https://www.vanderlinden.nl" + href
             if "vanderlinden.nl" not in href:
                 continue
-            if "amsterdam" not in item.get_text().lower():
+            tekst = item.get_text().lower()
+            if "amsterdam" not in tekst:
+                continue
+            if any(sig in tekst for sig in KOOP_SIGNALEN):
                 continue
             titel_el = item.select_one("h2, h3, [class*='address'], [class*='title']")
             prijs_el = item.select_one("[class*='price'], [class*='prijs'], [class*='huur']")
@@ -392,19 +553,26 @@ def scrape_vanderlinden() -> list[dict]:
                 "titel": titel_el.get_text(strip=True),
                 "prijs": prijs_el.get_text(strip=True) if prijs_el else "Zie website",
                 "details": "", "link": href,
+                    "plaatsingsdatum": extraheer_datum(item),
             })
         except Exception:
             pass
     return resultaten
 
 def scrape_corporatie(naam, url, base_url, link_filter) -> list[dict]:
+    """Generieke scraper voor woningcorporaties."""
     from bs4 import BeautifulSoup
     html = playwright_fetch(url, wacht=3)
     if not html:
         return []
     soup = BeautifulSoup(html, "html.parser")
     resultaten = []
-    for item in soup.select("[class*='woning'], [class*='property'], [class*='listing'], article, .card, li"):
+
+    # Sla navigatie-elementen en footer over
+    for nav in soup.select("nav, footer, header, [class*='nav'], [class*='footer'], [class*='menu']"):
+        nav.decompose()
+
+    for item in soup.select("[class*='woning'], [class*='property'], [class*='listing'], article, .card"):
         try:
             a = item.select_one(f"a[href*='{link_filter}']") or item.select_one("a")
             if not a:
@@ -419,11 +587,16 @@ def scrape_corporatie(naam, url, base_url, link_filter) -> list[dict]:
             prijs_el = item.select_one("[class*='price'], [class*='prijs'], [class*='huur']")
             if not titel_el:
                 continue
+            titel = titel_el.get_text(strip=True)
+            # Skip navigatie-achtige titels
+            if len(titel) < 5 or titel.lower() in ["inloggen", "contact", "zoeken", "menu", "aanbod"]:
+                continue
             resultaten.append({
                 "bron": naam, "bron_url": base_url,
-                "titel": titel_el.get_text(strip=True),
+                "titel": titel,
                 "prijs": prijs_el.get_text(strip=True) if prijs_el else "Zie website",
                 "details": "", "link": href,
+                    "plaatsingsdatum": extraheer_datum(item),
             })
         except Exception:
             pass
@@ -465,7 +638,7 @@ def main():
         except Exception as e:
             print(f"     ⚠️  {e}")
 
-    # Filter + dedup
+    # Filter op huur + prijs + dedup op link
     gefilterd = [w for w in alle if voldoet(w)]
     gefilterd = list({w["link"]: w for w in gefilterd}.values())
     print(f"  Totaal na filter+dedup: {len(gefilterd)}")
@@ -480,10 +653,9 @@ def main():
         else:
             w["gezien_sinds"] = gezien[w["link"]]
 
-    # Sorteer: nieuw bovenaan, dan op datum
-    gefilterd.sort(key=lambda w: (not w["nieuw"], w.get("gezien_sinds", "")), reverse=False)
+    # Sorteer: nieuw bovenaan
+    gefilterd.sort(key=lambda w: (not w["nieuw"], w.get("gezien_sinds", "")))
 
-    # Sla op
     data = {
         "bijgewerkt": datetime.now().strftime("%d %b %Y om %H:%M"),
         "bijgewerkt_iso": datetime.now().isoformat(),
