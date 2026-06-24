@@ -2,16 +2,18 @@ name: Woning Alert Scan
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Elk uur (GitHub Actions minimaal ~1 min vertraging)
-  workflow_dispatch:        # Handmatig starten via GitHub UI
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write           # Nodig om data.json + gezien.json te committen
+  contents: write
 
 jobs:
   scan:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      TZ: Europe/Amsterdam
 
     steps:
       - name: Checkout repo
@@ -21,7 +23,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-         
 
       - name: Dependencies installeren
         run: |
