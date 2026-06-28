@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "28 Jun 2026 om 22:00",
-  "bijgewerkt_iso": "2026-06-28T22:00:36.269776",
+  "bijgewerkt": "29 Jun 2026 om 01:50",
+  "bijgewerkt_iso": "2026-06-29T01:50:18.774135",
   "aantal": 86,
   "nieuw": 0,
   "woningen": [
@@ -511,17 +511,6 @@
       "gezien_sinds": "2026-06-24T10:02:53.474785"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Markengouw",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5f724598/markengouw/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T10:02:53.474785"
-    },
-    {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
       "titel": "Distelweg 78R 104",
@@ -616,6 +605,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/2a797fda/tussen-meer/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-25T11:25:08.381783"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Snelleveldstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d85a46d8/snelleveldstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-06-25T11:25:08.381783"
@@ -799,10 +799,10 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Eosstraat",
+      "titel": "Appartement Artemisstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/35e3546c/eosstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/be62163d/artemisstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-06-26T14:02:55.889632"
