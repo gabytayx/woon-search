@@ -1,41 +1,19 @@
 {
-  "bijgewerkt": "27 Jun 2026 om 22:43",
-  "bijgewerkt_iso": "2026-06-27T22:43:19.484736",
-  "aantal": 85,
-  "nieuw": 3,
+  "bijgewerkt": "28 Jun 2026 om 02:18",
+  "bijgewerkt_iso": "2026-06-28T02:18:21.332291",
+  "aantal": 86,
+  "nieuw": 1,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Barbusselaan",
-      "prijs": "",
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/586a5c17/barbusselaan/",
+      "link": "https://fris.nl/volledige-woningaanbod/onacklaan-216-capelle-aan-den-ijssel/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-06-27T22:43:19.484648"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Liendenhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4260a140/liendenhof/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-27T22:43:19.484648"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Het Hoogt",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/0bf24575/het-hoogt/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-06-27T22:43:19.484648"
+      "gezien_sinds": "2026-06-28T02:18:21.332201"
     },
     {
       "bron": "Pararius",
@@ -425,6 +403,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Pontsteiger",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/fbc06a37/pontsteiger/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-24T10:02:53.474785"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Van Spilbergenstraat",
       "prijs": "",
       "details": "",
@@ -544,15 +533,15 @@
       "gezien_sinds": "2026-06-24T10:02:53.474785"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Linnaeuskade",
-      "prijs": "",
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Distelweg 78R 104",
+      "prijs": "€ 2.665,- p/m",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/27a3f0d4/linnaeuskade/",
+      "link": "https://www.eefjevoogd.nl",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-06-24T10:02:53.474785"
+      "gezien_sinds": "2026-06-24T10:27:53.552902"
     },
     {
       "bron": "Pararius",
@@ -656,7 +645,7 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Snelleveldstraat",
+      "titel": "Huis Snelleveldstraat",
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/d85a46d8/snelleveldstraat/",
@@ -693,17 +682,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/eca56055/maasstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-25T19:39:42.224983"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Minimale prijsMaximale prijs",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/elzenhagensingel-294-amsterdam/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-06-25T19:39:42.224983"
@@ -841,6 +819,17 @@
       "gezien_sinds": "2026-06-26T14:02:55.889632"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Millingenhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2b93211c/millingenhof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-26T14:02:55.889632"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement IJdoornlaan 251 T 1",
@@ -938,6 +927,28 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/119a68d9/smalschipstraat",
       "nieuw": false,
       "gezien_sinds": "2026-06-27T18:43:08.642436"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Barbusselaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/586a5c17/barbusselaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-27T22:43:19.484648"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Liendenhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4260a140/liendenhof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-27T22:43:19.484648"
     }
   ]
 }
