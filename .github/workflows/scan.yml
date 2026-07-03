@@ -32,10 +32,18 @@ jobs:
       - name: Scraper draaien
         run: python scraper/scrape.py
 
+      - name: Stuur Telegram alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 notify.py
+
       - name: Resultaten committen
         run: |
           git config user.name  "Woning Alert Bot"
           git config user.email "bot@woning-alert"
-          git add docs/data.json docs/gezien.json
+          git add docs/data.json docs/seen.json docs/gezien.json
           git diff --staged --quiet || git commit -m "🏠 Aanbod bijgewerkt $(date +'%d-%m-%Y %H:%M')"
           git push
+
+          
