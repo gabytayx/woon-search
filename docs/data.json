@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "03 Jul 2026 om 17:32",
-  "bijgewerkt_iso": "2026-07-03T17:32:54.756131",
+  "bijgewerkt": "03 Jul 2026 om 17:47",
+  "bijgewerkt_iso": "2026-07-03T17:47:18.815135",
   "aantal": 63,
   "nieuw": 0,
   "woningen": [
@@ -14,6 +14,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-06-24T10:27:53.552902"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ariana Nozemanstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d3725190/ariana-nozemanstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-26T15:48:12.066909"
     },
     {
       "bron": "Pararius",
@@ -660,17 +671,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/d5ce0bff/jisperveldstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-03T16:07:34.692665"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Terletstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5bdf9835/terletstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-03T16:07:34.692665"
