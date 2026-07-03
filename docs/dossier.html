@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>💖 Huurdersdossier — Woon Search</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --hotpink: #E84393;
+    --blush: #FBD3E4;
+    --babyroze: #FDEEF5;
+    --diep: #8E2A5C;
+    --room: #FFF9FB;
+    --lijn: #F5C2DB;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Nunito", sans-serif;
+    background: var(--babyroze);
+    background-image: radial-gradient(var(--blush) 1.4px, transparent 1.4px);
+    background-size: 26px 26px;
+    color: #4A2036; line-height: 1.6;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 28px 16px 72px; }
+  nav a {
+    color: var(--diep); text-decoration: none; font-weight: 700;
+    background: #fff; border: 2px solid var(--lijn); border-radius: 999px;
+    padding: 8px 18px; display: inline-block; box-shadow: 0 3px 0 var(--lijn);
+  }
+  nav a:hover { transform: translateY(-1px); }
+  header { text-align: center; margin: 26px 0 24px; }
+  h1 {
+    font-family: "Fredoka", sans-serif; font-weight: 700;
+    color: var(--hotpink); font-size: clamp(34px, 6vw, 46px);
+    letter-spacing: .5px;
+  }
+  h1 .sparkle { display: inline-block; animation: twinkle 1.6s ease-in-out infinite; }
+  h1 .sparkle:last-child { animation-delay: .8s; }
+  @keyframes twinkle { 0%,100% { transform: scale(1) rotate(0deg); opacity: 1; }
+                       50% { transform: scale(1.25) rotate(12deg); opacity: .7; } }
+  .sub { color: var(--diep); font-size: 16px; margin-top: 6px; }
+  .toggle { display: flex; gap: 10px; margin-bottom: 22px; flex-wrap: wrap; }
+  .toggle button {
+    flex: 1; min-width: 240px; padding: 14px 12px; font-family: "Fredoka", sans-serif;
+    font-size: 16px; font-weight: 600; color: var(--diep); cursor: pointer;
+    background: #fff; border: 2px solid var(--lijn); border-radius: 999px;
+    box-shadow: 0 4px 0 var(--lijn); transition: all .15s;
+  }
+  .toggle button:hover { transform: translateY(-2px); }
+  .toggle button.actief {
+    background: var(--hotpink); border-color: var(--hotpink); color: #fff;
+    box-shadow: 0 4px 0 var(--diep);
+  }
+  .kaart {
+    background: var(--room); border: 2px solid var(--lijn); border-radius: 22px;
+    padding: 22px; margin-bottom: 18px; box-shadow: 0 5px 0 var(--lijn);
+  }
+  .kaart h2 {
+    font-family: "Fredoka", sans-serif; font-weight: 600;
+    color: var(--diep); font-size: 19px; margin-bottom: 10px;
+  }
+  .pdfknop {
+    display: inline-block; background: var(--hotpink); color: #fff;
+    padding: 13px 24px; border-radius: 999px; text-decoration: none;
+    font-family: "Fredoka", sans-serif; font-weight: 600; font-size: 16px;
+    box-shadow: 0 4px 0 var(--diep); margin: 4px 8px 4px 0; transition: transform .15s;
+  }
+  .pdfknop:hover { transform: translateY(-2px); }
+  pre {
+    white-space: pre-wrap; font-family: "Nunito", sans-serif; font-size: 14.5px;
+    background: #fff; border-radius: 16px; padding: 16px;
+    border: 2px dashed var(--lijn);
+  }
+  .kopieer {
+    margin-top: 10px; padding: 10px 20px; border: none; border-radius: 999px;
+    background: var(--diep); color: #fff; font-family: "Fredoka", sans-serif;
+    font-size: 14px; font-weight: 600; cursor: pointer; box-shadow: 0 3px 0 #5C1A3B;
+    transition: transform .15s;
+  }
+  .kopieer:hover { transform: translateY(-1px); }
+  .kopieer.gedaan { background: var(--hotpink); }
+  .hint { font-size: 13px; color: #A5537D; margin-top: 8px; font-style: italic; }
+  footer { text-align: center; color: #C77BA3; font-size: 13px; margin-top: 30px; }
+  @media (prefers-reduced-motion: reduce) {
+    .sparkle, .toggle button, .pdfknop, .kopieer { animation: none !important; transition: none !important; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav><a href="index.html">🏠 ← Terug naar woningen</a></nav>
+  <header>
+    <h1><span class="sparkle">✨</span> Huurdersdossier <span class="sparkle">💖</span></h1>
+    <p class="sub">Kies de versie, kopieer de tekst, plak de PDF erbij — en scoor dat huis! 🍷🎬</p>
+  </header>
+
+  <div class="toggle">
+    <button id="knop3" class="actief" onclick="wissel(3)">👩‍👩‍👧 Met z'n drieën (Gaby · Tieny · Lewhat)</button>
+    <button id="knop2" onclick="wissel(2)">👯‍♀️ Met z'n tweeën (Gaby · Tieny)</button>
+  </div>
+
+  <div class="kaart">
+    <h2>💼 Reactie — makelaar / agency (zakelijk)</h2>
+    <pre id="tekstZakelijk"></pre>
+    <button class="kopieer" onclick="kopieer('tekstZakelijk', this)">🎀 Kopieer tekst</button>
+    <p class="hint">Vervang [ADRES] door het adres van de woning.</p>
+  </div>
+
+  <div class="kaart">
+    <h2>💕 Reactie — particuliere verhuurder (persoonlijk)</h2>
+    <pre id="tekstPersoonlijk"></pre>
+    <button class="kopieer" onclick="kopieer('tekstPersoonlijk', this)">🎀 Kopieer tekst</button>
+    <p class="hint">Vervang [ADRES] en [NAAM VERHUURDER].</p>
+  </div>
+
+  <footer>gemaakt met 💖 (en lichte woningnood)</footer>
+</div>
+
+<script>
+const TEKSTEN = {
+  3: {
+    zakelijk: `Geachte heer/mevrouw,
+
+Met veel interesse reageren wij op de woning aan [ADRES]. Wij plannen graag zo snel mogelijk een bezichtiging in — wij zijn flexibel, ook 's avonds en in het weekend.
+
+Kort ons profiel:
+• Drie huurders: Gaby, Tieny en Lewhat — drie Nederlandse vriendinnen, alle drie fulltime in loondienst (geen studenten)
+• Gaby: Operations Manager bij Healthy Workers
+• Tieny: Sales Manager bij EDGE Workspaces
+• Lewhat: Financial Coordinator bij BCG
+• Gezamenlijk bruto jaarinkomen: € 117.000
+• Ingangsdatum: per direct mogelijk, huurperiode: lange termijn
+• Positieve referentie van huidige verhuurder beschikbaar (ons huidige contract eindigt wegens verbouwing van het pand)
+• Niet-rokend, geen huisdieren
+
+Ons volledige huurdersdossier (incl. loonstroken en werkgeversverklaringen) sturen wij op verzoek per direct toe — zie ook de bijlage.
+
+Wij horen graag wanneer een bezichtiging mogelijk is. Telefonisch bereikbaar op +31 6 21 66 62 05.
+
+Met vriendelijke groet,
+Gaby, Tieny en Lewhat`,
+    persoonlijk: `Beste [NAAM VERHUURDER],
+
+Wat een mooie woning aan [ADRES] — wij reageren graag! Wij zijn Gaby, Tieny en Lewhat, drie Nederlandse vriendinnen (alle drie fulltime werkzaam, geen studenten) en we zoeken een fijne woning voor de lange termijn.
+
+We zijn rustige, nette huurders — geen feesthuis. Onze avonden bestaan vooral uit samen koken, een film en af en toe een wijntje of een jazzcafé. Ons gezamenlijk bruto jaarinkomen is € 117.000 en we kunnen een positieve referentie van onze huidige verhuurder overleggen: ons contract eindigt alleen omdat het pand verbouwd wordt.
+
+We kunnen per direct intrekken en zijn deze week nog beschikbaar voor een bezichtiging, ook 's avonds. Ons complete huurdersdossier zit in de bijlage.
+
+Hopelijk tot snel!
+
+Hartelijke groet,
+Gaby, Tieny en Lewhat
++31 6 21 66 62 05`
+  },
+  2: {
+    zakelijk: `Geachte heer/mevrouw,
+
+Met veel interesse reageren wij op de woning aan [ADRES]. Wij plannen graag zo snel mogelijk een bezichtiging in — wij zijn flexibel, ook 's avonds en in het weekend.
+
+Kort ons profiel:
+• Twee huurders: Gaby en Tieny — twee Nederlandse vriendinnen, beiden fulltime in loondienst (geen studenten)
+• Gaby: Operations Manager bij Healthy Workers
+• Tieny: Sales Manager bij EDGE Workspaces
+• Gezamenlijk bruto jaarinkomen: € [BEDRAG]
+• Ingangsdatum: per direct mogelijk, huurperiode: lange termijn
+• Positieve referentie van huidige verhuurder beschikbaar (ons huidige contract eindigt wegens verbouwing van het pand)
+• Niet-rokend, geen huisdieren
+
+Ons volledige huurdersdossier (incl. loonstroken en werkgeversverklaringen) sturen wij op verzoek per direct toe — zie ook de bijlage.
+
+Wij horen graag wanneer een bezichtiging mogelijk is. Telefonisch bereikbaar op +31 6 21 66 62 05.
+
+Met vriendelijke groet,
+Gaby en Tieny`,
+    persoonlijk: `Beste [NAAM VERHUURDER],
+
+Wat een mooie woning aan [ADRES] — wij reageren graag! Wij zijn Gaby en Tieny, twee Nederlandse vriendinnen (beiden fulltime werkzaam, geen studenten) en we zoeken een fijne woning voor de lange termijn.
+
+We zijn rustige, nette huurders — geen feesthuis. Onze avonden bestaan vooral uit samen koken, een film en af en toe een wijntje of een jazzcafé. Ons gezamenlijk bruto jaarinkomen is € [BEDRAG] en we kunnen een positieve referentie van onze huidige verhuurder overleggen: ons contract eindigt alleen omdat het pand verbouwd wordt.
+
+We kunnen per direct intrekken en zijn deze week nog beschikbaar voor een bezichtiging, ook 's avonds. Ons complete huurdersdossier zit in de bijlage.
+
+Hopelijk tot snel!
+
+Hartelijke groet,
+Gaby en Tieny
++31 6 21 66 62 05`
+  }
+};
+
+function wissel(n) {
+  document.getElementById("knop3").classList.toggle("actief", n === 3);
+  document.getElementById("knop2").classList.toggle("actief", n === 2);
+  document.getElementById("tekstZakelijk").textContent = TEKSTEN[n].zakelijk;
+  document.getElementById("tekstPersoonlijk").textContent = TEKSTEN[n].persoonlijk;
+}
+
+function kopieer(id, knop) {
+  navigator.clipboard.writeText(document.getElementById(id).textContent).then(() => {
+    knop.textContent = "💖 Gekopieerd!";
+    knop.classList.add("gedaan");
+    setTimeout(() => {
+      knop.textContent = "🎀 Kopieer tekst";
+      knop.classList.remove("gedaan");
+    }, 1800);
+  });
+}
+
+wissel(3);
+</script>
+</body>
+</html>
