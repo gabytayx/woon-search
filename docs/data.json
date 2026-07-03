@@ -1,19 +1,41 @@
 {
-  "bijgewerkt": "03 Jul 2026 om 18:33",
-  "bijgewerkt_iso": "2026-07-03T18:33:05.914401",
-  "aantal": 88,
-  "nieuw": 1,
+  "bijgewerkt": "03 Jul 2026 om 18:47",
+  "bijgewerkt_iso": "2026-07-03T18:47:30.482452",
+  "aantal": 89,
+  "nieuw": 3,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Minervalaan",
+      "prijs": "Prijs op aanvraag",
+      "details": "135 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/24691d6f/minervalaan",
+      "nieuw": true,
+      "gezien_sinds": "2026-07-03T18:47:30.482367"
+    },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Van Spilbergenstraat",
+      "titel": "Appartement Oeverpad",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a6da5d1e/van-spilbergenstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e678ae5a/oeverpad/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-07-03T18:33:05.914321"
+      "gezien_sinds": "2026-07-03T18:47:30.482367"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Minervalaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/61ee5222/minervalaan/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-07-03T18:47:30.482367"
     },
     {
       "bron": "Pararius",
@@ -291,28 +313,6 @@
       "gezien_sinds": "2026-06-27T14:18:44.239572"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Javakade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/67fda67e/javakade/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-27T14:18:44.239572"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Koningin Wilhelminaplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a090c1f9/koningin-wilhelminaplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-27T14:18:44.239572"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Barbusselaan",
@@ -341,17 +341,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/586a5c17/barbusselaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-27T22:43:19.484648"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Liendenhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4260a140/liendenhof/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-06-27T22:43:19.484648"
@@ -951,6 +940,17 @@
       "gezien_sinds": "2026-07-03T16:07:34.692665"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albert Luthulistraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/13d1deab/albert-luthulistraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T16:07:34.692665"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Van Spilbergenstraat 108 3",
@@ -971,6 +971,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/7dac8687/oeverpad",
       "nieuw": false,
       "gezien_sinds": "2026-07-03T17:17:37.007173"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Spilbergenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/a6da5d1e/van-spilbergenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T18:33:05.914321"
     }
   ]
 }
