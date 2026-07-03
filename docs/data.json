@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "03 Jul 2026 om 18:17",
-  "bijgewerkt_iso": "2026-07-03T18:17:33.214338",
+  "bijgewerkt": "03 Jul 2026 om 18:33",
+  "bijgewerkt_iso": "2026-07-03T18:33:05.914401",
   "aantal": 88,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Spilbergenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/a6da5d1e/van-spilbergenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-07-03T18:33:05.914321"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -267,17 +278,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a8f7b928/oude-waal",
       "nieuw": false,
       "gezien_sinds": "2026-06-26T11:16:08.185583"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ariana Nozemanstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d3725190/ariana-nozemanstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-26T15:48:12.066909"
     },
     {
       "bron": "Pararius",
