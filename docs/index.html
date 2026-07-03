@@ -3,35 +3,36 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Woning Alert Amsterdam</title>
+<title>💖 Woning Alert Amsterdam</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
 <style>
   :root {
-    --rood: #E8372A;
-    --rood-zacht: #FDF0EF;
-    --donker: #111111;
-    --grijs-1: #F5F5F5;
-    --grijs-2: #E8E8E8;
-    --grijs-3: #999999;
-    --groen: #1A7A4A;
-    --groen-zacht: #EAF5EF;
-    --tekst: #222222;
-    --kaart-bg: #FFFFFF;
+    --hotpink: #E84393;
+    --blush: #FBD3E4;
+    --babyroze: #FDEEF5;
+    --diep: #8E2A5C;
+    --dieper: #5C1A3B;
+    --room: #FFF9FB;
+    --lijn: #F5C2DB;
+    --tekst: #4A2036;
+    --groen: #2E9E6B;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
   body {
-    font-family: 'Inter', sans-serif;
-    background: var(--grijs-1);
+    font-family: 'Nunito', sans-serif;
+    background: var(--babyroze);
+    background-image: radial-gradient(var(--blush) 1.4px, transparent 1.4px);
+    background-size: 26px 26px;
     color: var(--tekst);
     min-height: 100vh;
   }
 
   /* ── Header ── */
   header {
-    background: var(--donker);
+    background: var(--diep);
     padding: 20px 32px;
     display: flex;
     align-items: center;
@@ -39,32 +40,31 @@
     position: sticky;
     top: 0;
     z-index: 100;
+    gap: 12px;
+    flex-wrap: wrap;
   }
 
   .logo {
-    font-family: 'Syne', sans-serif;
-    font-weight: 800;
-    font-size: 18px;
+    font-family: 'Fredoka', sans-serif;
+    font-weight: 700;
+    font-size: 19px;
     color: white;
-    letter-spacing: -0.3px;
+    letter-spacing: .3px;
   }
 
-  .logo span {
-    color: var(--rood);
-  }
+  .logo span { color: var(--blush); }
 
   .header-meta {
     font-size: 12px;
-    color: #888;
+    color: #E9B7D0;
     text-align: right;
     display: flex;
     align-items: center;
     gap: 12px;
+    flex-wrap: wrap;
   }
 
-  .header-meta-tekst {
-    text-align: right;
-  }
+  .header-meta-tekst { text-align: right; }
 
   .header-meta strong {
     color: white;
@@ -72,78 +72,90 @@
     font-size: 13px;
   }
 
-  .refresh-btn {
-    background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.15);
+  .refresh-btn, .dossier-btn {
+    background: rgba(255,255,255,0.12);
+    border: 2px solid rgba(255,255,255,0.25);
     color: white;
-    font-family: 'Inter', sans-serif;
-    font-size: 12px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 13px;
     font-weight: 600;
-    padding: 7px 14px;
-    border-radius: 8px;
+    padding: 8px 16px;
+    border-radius: 999px;
     cursor: pointer;
     text-decoration: none;
     display: flex;
     align-items: center;
     gap: 6px;
-    transition: background 0.15s, border-color 0.15s;
+    transition: all 0.15s;
     white-space: nowrap;
   }
 
-  .refresh-btn:hover {
-    background: var(--rood);
-    border-color: var(--rood);
+  .refresh-btn:hover, .dossier-btn:hover {
+    background: var(--hotpink);
+    border-color: var(--hotpink);
+    transform: translateY(-1px);
   }
 
-  .refresh-icon {
-    font-size: 14px;
-    display: inline-block;
+  .dossier-btn {
+    background: var(--hotpink);
+    border-color: var(--hotpink);
+    box-shadow: 0 3px 0 var(--dieper);
   }
 
   /* ── Hero-balk ── */
   .hero {
-    background: var(--donker);
+    background: var(--diep);
     padding: 32px 32px 40px;
-    border-bottom: 3px solid var(--rood);
+    border-bottom: 4px solid var(--hotpink);
+    text-align: left;
   }
 
   .hero-titel {
-    font-family: 'Syne', sans-serif;
-    font-size: clamp(28px, 5vw, 48px);
-    font-weight: 800;
+    font-family: 'Fredoka', sans-serif;
+    font-size: clamp(30px, 5vw, 48px);
+    font-weight: 700;
     color: white;
-    line-height: 1.1;
-    letter-spacing: -1px;
-    margin-bottom: 12px;
+    line-height: 1.12;
+    letter-spacing: .3px;
+    margin-bottom: 14px;
   }
 
-  .hero-titel span {
-    color: var(--rood);
+  .hero-titel span { color: var(--blush); }
+
+  .hero-titel .sparkle {
+    display: inline-block;
+    animation: twinkle 1.6s ease-in-out infinite;
+  }
+
+  @keyframes twinkle {
+    0%,100% { transform: scale(1) rotate(0deg); opacity: 1; }
+    50% { transform: scale(1.25) rotate(12deg); opacity: .7; }
   }
 
   .hero-sub {
     font-size: 14px;
-    color: #888;
+    color: #E9B7D0;
     display: flex;
     align-items: center;
-    gap: 16px;
+    gap: 12px;
     flex-wrap: wrap;
   }
 
   .pill {
-    background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.12);
-    color: #ccc;
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.25);
+    color: #FBD3E4;
     border-radius: 100px;
-    padding: 4px 12px;
+    padding: 5px 14px;
     font-size: 12px;
+    font-weight: 600;
     white-space: nowrap;
   }
 
   /* ── Stats balk ── */
   .stats-balk {
-    background: white;
-    border-bottom: 1px solid var(--grijs-2);
+    background: var(--room);
+    border-bottom: 2px solid var(--lijn);
     padding: 16px 32px;
     display: flex;
     align-items: center;
@@ -151,35 +163,26 @@
     flex-wrap: wrap;
   }
 
-  .stat {
-    display: flex;
-    align-items: baseline;
-    gap: 6px;
-  }
+  .stat { display: flex; align-items: baseline; gap: 6px; }
 
   .stat-getal {
-    font-family: 'Syne', sans-serif;
-    font-size: 24px;
-    font-weight: 800;
-    color: var(--donker);
+    font-family: 'Fredoka', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: var(--diep);
   }
 
-  .stat-getal.nieuw {
-    color: var(--rood);
-  }
+  .stat-getal.nieuw { color: var(--hotpink); }
 
   .stat-label {
     font-size: 12px;
-    color: var(--grijs-3);
+    color: #C77BA3;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    font-weight: 700;
   }
 
-  .stat-scheidslijn {
-    width: 1px;
-    height: 28px;
-    background: var(--grijs-2);
-  }
+  .stat-scheidslijn { width: 2px; height: 28px; background: var(--lijn); border-radius: 2px; }
 
   /* ── Filterbar ── */
   .filterbar {
@@ -192,46 +195,51 @@
 
   .filterbar label {
     font-size: 12px;
-    color: var(--grijs-3);
+    color: var(--diep);
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    font-weight: 700;
     margin-right: 4px;
   }
 
   .filter-btn {
     background: white;
-    border: 1px solid var(--grijs-2);
+    border: 2px solid var(--lijn);
     border-radius: 100px;
-    padding: 6px 14px;
+    padding: 7px 16px;
     font-size: 13px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
     cursor: pointer;
-    color: var(--tekst);
+    color: var(--diep);
+    box-shadow: 0 2px 0 var(--lijn);
     transition: all 0.15s;
   }
 
-  .filter-btn:hover { border-color: var(--donker); }
+  .filter-btn:hover { border-color: var(--hotpink); transform: translateY(-1px); }
 
   .filter-btn.actief {
-    background: var(--donker);
-    border-color: var(--donker);
+    background: var(--hotpink);
+    border-color: var(--hotpink);
     color: white;
+    box-shadow: 0 2px 0 var(--diep);
   }
 
   .zoek-input {
     background: white;
-    border: 1px solid var(--grijs-2);
+    border: 2px solid var(--lijn);
     border-radius: 100px;
-    padding: 6px 16px;
+    padding: 7px 16px;
     font-size: 13px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
     color: var(--tekst);
     min-width: 200px;
     outline: none;
     transition: border-color 0.15s;
   }
 
-  .zoek-input:focus { border-color: var(--donker); }
+  .zoek-input:focus { border-color: var(--hotpink); }
 
   /* ── Grid ── */
   .grid-container {
@@ -248,19 +256,15 @@
   }
 
   .sectie-titel {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: var(--grijs-3);
+    color: var(--diep);
   }
 
-  .sectie-lijn {
-    flex: 1;
-    height: 1px;
-    background: var(--grijs-2);
-  }
+  .sectie-lijn { flex: 1; height: 2px; background: var(--lijn); border-radius: 2px; }
 
   .woningen-grid {
     display: grid;
@@ -270,29 +274,31 @@
 
   /* ── Kaart ── */
   .kaart {
-    background: var(--kaart-bg);
-    border: 1px solid var(--grijs-2);
-    border-radius: 12px;
+    background: var(--room);
+    border: 2px solid var(--lijn);
+    border-radius: 20px;
     overflow: hidden;
+    box-shadow: 0 4px 0 var(--lijn);
     transition: transform 0.15s, box-shadow 0.15s;
     display: flex;
     flex-direction: column;
   }
 
   .kaart:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    transform: translateY(-3px);
+    box-shadow: 0 7px 0 var(--lijn);
   }
 
   .kaart.is-nieuw {
-    border-color: var(--rood);
-    border-width: 2px;
+    border-color: var(--hotpink);
+    box-shadow: 0 4px 0 var(--hotpink);
   }
 
   .kaart-nieuw-badge {
-    background: var(--rood);
+    background: var(--hotpink);
     color: white;
-    font-size: 10px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 11px;
     font-weight: 600;
     letter-spacing: 0.8px;
     text-transform: uppercase;
@@ -303,17 +309,14 @@
   }
 
   .kaart-nieuw-badge::before {
-    content: "";
-    width: 6px;
-    height: 6px;
-    background: white;
-    border-radius: 50%;
+    content: "💖";
+    font-size: 10px;
     animation: pulse 1.5s infinite;
   }
 
   @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.3; }
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.4; transform: scale(1.2); }
   }
 
   .kaart-body {
@@ -326,28 +329,28 @@
 
   .kaart-bron {
     font-size: 11px;
-    font-weight: 600;
+    font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.6px;
-    color: var(--grijs-3);
+    color: var(--hotpink);
   }
 
   .kaart-titel {
     font-size: 15px;
-    font-weight: 600;
-    color: var(--donker);
+    font-weight: 700;
+    color: var(--dieper);
     line-height: 1.3;
   }
 
   .kaart-details {
-    font-size: 12px;
-    color: var(--grijs-3);
+    font-size: 12.5px;
+    color: #A5537D;
     line-height: 1.5;
   }
 
   .kaart-datum {
     font-size: 11px;
-    color: var(--grijs-3);
+    color: #C77BA3;
     display: flex;
     align-items: center;
     gap: 4px;
@@ -355,64 +358,56 @@
     padding-top: 4px;
   }
 
-  .kaart-datum::before {
-    content: "📅";
-    font-size: 11px;
-  }
+  .kaart-datum::before { content: "📅"; font-size: 11px; }
 
   .kaart-footer {
     padding: 12px 16px;
-    border-top: 1px solid var(--grijs-1);
+    border-top: 2px dashed var(--lijn);
     display: flex;
     align-items: center;
     justify-content: space-between;
   }
 
   .kaart-prijs {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    color: var(--donker);
+    color: var(--diep);
   }
 
   .kaart-link {
-    background: var(--donker);
+    background: var(--diep);
     color: white;
     text-decoration: none;
+    font-family: 'Fredoka', sans-serif;
     font-size: 12px;
     font-weight: 600;
-    padding: 7px 14px;
-    border-radius: 8px;
-    transition: background 0.15s;
+    padding: 8px 16px;
+    border-radius: 999px;
+    box-shadow: 0 3px 0 var(--dieper);
+    transition: all 0.15s;
     white-space: nowrap;
   }
 
-  .kaart-link:hover { background: var(--rood); }
+  .kaart-link:hover { background: var(--hotpink); transform: translateY(-1px); }
 
   /* ── Leeg state ── */
   .leeg {
     text-align: center;
     padding: 64px 32px;
-    color: var(--grijs-3);
+    color: #A5537D;
   }
 
-  .leeg-icon {
-    font-size: 48px;
-    margin-bottom: 16px;
-    display: block;
-  }
+  .leeg-icon { font-size: 48px; margin-bottom: 16px; display: block; }
 
   /* ── Laden ── */
-  .laden {
-    text-align: center;
-    padding: 80px 32px;
-  }
+  .laden { text-align: center; padding: 80px 32px; }
 
   .spinner {
     width: 36px;
     height: 36px;
-    border: 3px solid var(--grijs-2);
-    border-top-color: var(--rood);
+    border: 3px solid var(--lijn);
+    border-top-color: var(--hotpink);
     border-radius: 50%;
     animation: spin 0.8s linear infinite;
     margin: 0 auto 16px;
@@ -420,21 +415,23 @@
 
   @keyframes spin { to { transform: rotate(360deg); } }
 
-  .laden-tekst {
-    font-size: 14px;
-    color: var(--grijs-3);
-  }
+  .laden-tekst { font-size: 14px; color: #A5537D; font-weight: 600; }
 
   /* ── Footer ── */
   footer {
-    background: var(--donker);
-    color: #555;
+    background: var(--diep);
+    color: #D89BBE;
     text-align: center;
     padding: 24px;
-    font-size: 12px;
+    font-size: 12.5px;
   }
 
-  footer a { color: #888; text-decoration: none; }
+  footer a { color: #FBD3E4; text-decoration: none; font-weight: 700; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .sparkle, .kaart, .filter-btn, .kaart-link, .refresh-btn, .dossier-btn,
+    .kaart-nieuw-badge::before { animation: none !important; transition: none !important; }
+  }
 
   /* ── Responsive ── */
   @media (max-width: 640px) {
@@ -450,25 +447,26 @@
 <body>
 
 <header>
-  <div class="logo">Woning<span>Alert</span></div>
+  <div class="logo">Woning<span>Alert</span> 💖</div>
   <div class="header-meta">
     <div class="header-meta-tekst">
       <strong id="bijgewerkt-header">Laden...</strong>
       Amsterdam · Elk kwartier bijgewerkt
     </div>
-    <a id="refresh-btn" class="refresh-btn" href="https://github.com/gaby438/house-alert/actions/workflows/scan.yml" target="_blank" rel="noopener">
+    <a class="dossier-btn" href="dossier.html">📄 Dossier</a>
+    <a id="refresh-btn" class="refresh-btn" href="https://github.com/gabytayx/woon-search/actions/workflows/scan.yml" target="_blank" rel="noopener">
       <span class="refresh-icon">↻</span> Scan nu
     </a>
   </div>
 </header>
 
 <div class="hero">
-  <h1 class="hero-titel">Huurwoningen<br><span>Amsterdam</span></h1>
+  <h1 class="hero-titel"><span class="sparkle">✨</span> Huurwoningen<br><span>Amsterdam</span></h1>
   <div class="hero-sub">
-    <span class="pill">Max €4.000 /mnd</span>
-    <span class="pill">3+ slaapkamers</span>
-    <span class="pill">Appartement · Woonhuis</span>
-    <span class="pill">15 bronnen</span>
+    <span class="pill">💶 Max €4.000 /mnd</span>
+    <span class="pill">🛏️ 3+ slaapkamers</span>
+    <span class="pill">🏠 Appartement · Woonhuis</span>
+    <span class="pill">🔎 15 bronnen</span>
   </div>
 </div>
 
@@ -489,20 +487,20 @@
   </div>
   <div class="stat-scheidslijn"></div>
   <div class="stat" style="margin-left: auto;">
-    <div class="stat-label" id="bijgewerkt-stat" style="font-size:13px; color: #666;">Laden...</div>
+    <div class="stat-label" id="bijgewerkt-stat" style="font-size:13px;">Laden...</div>
   </div>
 </div>
 
 <div class="filterbar">
   <label>Filter:</label>
   <button class="filter-btn actief" onclick="setFilter('alles', this)">Alles</button>
-  <button class="filter-btn" onclick="setFilter('nieuw', this)">Alleen nieuw</button>
+  <button class="filter-btn" onclick="setFilter('nieuw', this)">Alleen nieuw 💖</button>
   <div class="stat-scheidslijn" style="height:20px;"></div>
   <label>Bron:</label>
-  <select class="zoek-input" id="bron-filter" onchange="renderWoningen()" style="min-width:140px; border-radius:8px;">
+  <select class="zoek-input" id="bron-filter" onchange="renderWoningen()" style="min-width:140px; border-radius:14px;">
     <option value="">Alle bronnen</option>
   </select>
-  <input class="zoek-input" id="zoek" placeholder="Zoek op adres of buurt..." oninput="renderWoningen()">
+  <input class="zoek-input" id="zoek" placeholder="Zoek op adres of buurt... 🔍" oninput="renderWoningen()">
 </div>
 
 <div class="grid-container">
@@ -515,8 +513,8 @@
 </div>
 
 <footer>
-  Woning Alert Amsterdam &nbsp;·&nbsp; Automatisch bijgewerkt elk uur via GitHub Actions
-  &nbsp;·&nbsp; <a href="https://github.com" target="_blank">Bekijk broncode</a>
+  Woning Alert Amsterdam 💖 &nbsp;·&nbsp; Automatisch bijgewerkt via GitHub Actions
+  &nbsp;·&nbsp; <a href="https://github.com/gabytayx/woon-search" target="_blank">Bekijk broncode</a>
 </footer>
 
 <script>
@@ -595,7 +593,7 @@ function renderWoningen() {
   if (nieuweWoningen.length) {
     html += `
       <div class="sectie-header">
-        <div class="sectie-titel">🔴 Nieuw — ${nieuweWoningen.length} woning${nieuweWoningen.length !== 1 ? 'en' : ''}</div>
+        <div class="sectie-titel">💖 Nieuw — ${nieuweWoningen.length} woning${nieuweWoningen.length !== 1 ? 'en' : ''}</div>
         <div class="sectie-lijn"></div>
       </div>
       <div class="woningen-grid">
