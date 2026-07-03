@@ -1,42 +1,9 @@
 {
-  "bijgewerkt": "03 Jul 2026 om 18:47",
-  "bijgewerkt_iso": "2026-07-03T18:47:30.482452",
+  "bijgewerkt": "03 Jul 2026 om 19:02",
+  "bijgewerkt_iso": "2026-07-03T19:02:52.480113",
   "aantal": 89,
-  "nieuw": 3,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Minervalaan",
-      "prijs": "Prijs op aanvraag",
-      "details": "135 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/24691d6f/minervalaan",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-03T18:47:30.482367"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Oeverpad",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/e678ae5a/oeverpad/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-03T18:47:30.482367"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Minervalaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/61ee5222/minervalaan/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-03T18:47:30.482367"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -982,6 +949,39 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-03T18:33:05.914321"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Minervalaan",
+      "prijs": "Prijs op aanvraag",
+      "details": "135 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/24691d6f/minervalaan",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T18:47:30.482367"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Oeverpad",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e678ae5a/oeverpad/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T18:47:30.482367"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Minervalaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/61ee5222/minervalaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T18:47:30.482367"
     }
   ]
 }
