@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "04 Jul 2026 om 05:47",
-  "bijgewerkt_iso": "2026-07-04T05:47:15.993674",
+  "bijgewerkt": "04 Jul 2026 om 06:02",
+  "bijgewerkt_iso": "2026-07-04T06:02:55.221943",
   "aantal": 88,
   "nieuw": 0,
   "woningen": [
@@ -289,17 +289,6 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/119a68d9/smalschipstraat",
       "nieuw": false,
       "gezien_sinds": "2026-06-27T18:43:08.642436"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Barbusselaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/586a5c17/barbusselaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-27T22:43:19.484648"
     },
     {
       "bron": "Pararius",
@@ -891,6 +880,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/13d1deab/albert-luthulistraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T16:07:34.692665"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Terletstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5bdf9835/terletstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-03T16:07:34.692665"
