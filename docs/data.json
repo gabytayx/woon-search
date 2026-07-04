@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "04 Jul 2026 om 23:48",
-  "bijgewerkt_iso": "2026-07-04T23:48:56.134759",
-  "aantal": 3,
+  "bijgewerkt": "05 Jul 2026 om 00:03",
+  "bijgewerkt_iso": "2026-07-05T00:03:09.359335",
+  "aantal": 2,
   "nieuw": 0,
   "woningen": [
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Emanuel van Meterenstraat",
-      "prijs": "€ 3.200 per maand",
-      "details": "137 m² · 6 kamers · Gestoffeerd of gemeubileerd",
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Distelweg 78R 96",
+      "prijs": "€ 2.565,- p/m",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/cbf88792/emanuel-van-meterenstraat",
       "nieuw": false,
-      "gezien_sinds": "2026-06-29T16:41:46.969658"
+      "gezien_sinds": "2026-06-24T10:27:53.552902"
     },
     {
       "bron": "Fris",
@@ -25,17 +25,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-02T18:34:49.523647"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Maria Snelplantsoen",
-      "prijs": "€ 760 per maand",
-      "details": "200 m² · 6 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e5e402a2/maria-snelplantsoen",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-04T08:04:46.974151"
     }
   ]
 }
