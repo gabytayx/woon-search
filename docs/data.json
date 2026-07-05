@@ -1,9 +1,31 @@
 {
-  "bijgewerkt": "05 Jul 2026 om 08:35",
-  "bijgewerkt_iso": "2026-07-05T08:35:05.645584",
-  "aantal": 62,
-  "nieuw": 0,
+  "bijgewerkt": "05 Jul 2026 om 08:47",
+  "bijgewerkt_iso": "2026-07-05T08:47:31.093952",
+  "aantal": 63,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Rooseveltlaan 232 3",
+      "prijs": "€ 3.500 per maand",
+      "details": "98 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1cd46ffd/rooseveltlaan",
+      "nieuw": true,
+      "gezien_sinds": "2026-07-05T08:47:31.093886"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Distelweg 78R 96",
+      "prijs": "€ 2.565,- p/m",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-24T10:27:53.552902"
+    },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
@@ -14,17 +36,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-06-27T22:43:19.484648"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Liendenhof 22",
-      "prijs": "€ 2.250 per maand",
-      "details": "103 m² · 5 kamers · 1979",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/160d5219/liendenhof",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-28T12:18:41.097415"
     },
     {
       "bron": "Pararius",
