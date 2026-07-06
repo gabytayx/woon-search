@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "06 Jul 2026 om 09:17",
-  "bijgewerkt_iso": "2026-07-06T09:17:46.440962",
+  "bijgewerkt": "06 Jul 2026 om 09:33",
+  "bijgewerkt_iso": "2026-07-06T09:33:36.396799",
   "aantal": 86,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Wethouder Driessenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/9360b3e0/wethouder-driessenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-06T09:17:46.440880"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -949,6 +938,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-06T07:17:42.960517"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Wethouder Driessenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/9360b3e0/wethouder-driessenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-06T09:17:46.440880"
     }
   ]
 }
