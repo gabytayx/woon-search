@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "06 Jul 2026 om 19:33",
-  "bijgewerkt_iso": "2026-07-06T19:33:27.463604",
+  "bijgewerkt": "06 Jul 2026 om 19:47",
+  "bijgewerkt_iso": "2026-07-06T19:47:23.070264",
   "aantal": 88,
   "nieuw": 0,
   "woningen": [
@@ -311,17 +311,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/dbeb42c5/dina-appeldoornstraat",
       "nieuw": false,
       "gezien_sinds": "2026-06-30T18:40:06.960272"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Parnassusweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1385694b/parnassusweg/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-01T00:04:16.078068"
     },
     {
       "bron": "Pararius",
@@ -795,6 +784,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-05T15:04:37.894684"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Vechtstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4a5b489a/vechtstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-06T05:18:17.308442"
     },
     {
       "bron": "Huurwoningen.nl",
