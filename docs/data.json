@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "06 Jul 2026 om 18:17",
-  "bijgewerkt_iso": "2026-07-06T18:17:21.382182",
+  "bijgewerkt": "06 Jul 2026 om 18:33",
+  "bijgewerkt_iso": "2026-07-06T18:33:20.272502",
   "aantal": 88,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Aalbersestraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/65490284/aalbersestraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-06T18:17:21.382072"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -357,17 +346,6 @@
       "gezien_sinds": "2026-07-01T12:58:26.033505"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Boeierstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/358cf79f/boeierstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-01T12:58:26.033505"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Huis Krommehoekstraat 16",
@@ -698,6 +676,17 @@
       "gezien_sinds": "2026-07-03T16:07:34.692665"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albert Luthulistraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/13d1deab/albert-luthulistraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T16:07:34.692665"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Van Spilbergenstraat 108 3",
@@ -971,6 +960,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f1c61adc/van-nijenrodeweg",
       "nieuw": false,
       "gezien_sinds": "2026-07-06T18:03:51.180907"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Aalbersestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/65490284/aalbersestraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-06T18:17:21.382072"
     }
   ]
 }
