@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "06 Jul 2026 om 18:33",
-  "bijgewerkt_iso": "2026-07-06T18:33:20.272502",
+  "bijgewerkt": "06 Jul 2026 om 18:48",
+  "bijgewerkt_iso": "2026-07-06T18:48:04.464701",
   "aantal": 88,
   "nieuw": 0,
   "woningen": [
@@ -341,6 +341,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/95d8c5d8/bulgerstein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-01T12:58:26.033505"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Boeierstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/358cf79f/boeierstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-01T12:58:26.033505"
@@ -784,17 +795,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-05T15:04:37.894684"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vechtstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4a5b489a/vechtstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T05:18:17.308442"
     },
     {
       "bron": "Huurwoningen.nl",
