@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "06 Jul 2026 om 06:03",
-  "bijgewerkt_iso": "2026-07-06T06:03:01.390540",
+  "bijgewerkt": "06 Jul 2026 om 06:17",
+  "bijgewerkt_iso": "2026-07-06T06:17:48.585148",
   "aantal": 86,
   "nieuw": 0,
   "woningen": [
@@ -264,6 +264,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/586a5c17/barbusselaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-27T22:43:19.484648"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Liendenhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4260a140/liendenhof/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-06-27T22:43:19.484648"
@@ -938,17 +949,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-05T15:04:37.894684"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vechtstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4a5b489a/vechtstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T05:18:17.308442"
     }
   ]
 }
