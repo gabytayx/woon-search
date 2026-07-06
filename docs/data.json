@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "06 Jul 2026 om 11:17",
-  "bijgewerkt_iso": "2026-07-06T11:17:33.026693",
+  "bijgewerkt": "06 Jul 2026 om 11:32",
+  "bijgewerkt_iso": "2026-07-06T11:32:56.897861",
   "aantal": 86,
   "nieuw": 0,
   "woningen": [
@@ -256,6 +256,28 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/119a68d9/smalschipstraat",
       "nieuw": false,
       "gezien_sinds": "2026-06-27T18:43:08.642436"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Barbusselaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/586a5c17/barbusselaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-27T22:43:19.484648"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Liendenhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4260a140/liendenhof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-27T22:43:19.484648"
     },
     {
       "bron": "Pararius",
@@ -819,17 +841,6 @@
       "gezien_sinds": "2026-07-03T16:07:34.692665"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Albert Luthulistraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/13d1deab/albert-luthulistraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-03T16:07:34.692665"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Van Spilbergenstraat 108 3",
@@ -927,17 +938,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-05T15:04:37.894684"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vechtstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4a5b489a/vechtstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T05:18:17.308442"
     },
     {
       "bron": "Huurwoningen.nl",
