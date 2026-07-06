@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "06 Jul 2026 om 16:18",
-  "bijgewerkt_iso": "2026-07-06T16:18:57.097310",
+  "bijgewerkt": "06 Jul 2026 om 16:33",
+  "bijgewerkt_iso": "2026-07-06T16:33:23.813435",
   "aantal": 88,
   "nieuw": 1,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
       "titel": "Huis Groesbeekdreef",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/76877eab/groesbeekdreef/",
+      "prijs": "€ 3.345 per maand",
+      "details": "109 m² · 5 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/19de7df4/groesbeekdreef",
       "nieuw": true,
-      "gezien_sinds": "2026-07-06T16:18:57.097208"
+      "gezien_sinds": "2026-07-06T16:33:23.813338"
     },
     {
       "bron": "Pararius",
@@ -289,17 +289,6 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/cbf88792/emanuel-van-meterenstraat",
       "nieuw": false,
       "gezien_sinds": "2026-06-29T16:41:46.969658"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Daniël Stalpertstraat 25 3",
-      "prijs": "€ 3.250 per maand",
-      "details": "80 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/896828ba/daniel-stalpertstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-29T23:00:53.915285"
     },
     {
       "bron": "Pararius",
@@ -971,6 +960,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6a6d264d/olympiaplein",
       "nieuw": false,
       "gezien_sinds": "2026-07-06T15:03:18.480108"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Groesbeekdreef",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/76877eab/groesbeekdreef/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-06T16:18:57.097208"
     }
   ]
 }
