@@ -1,30 +1,19 @@
 {
-  "bijgewerkt": "06 Jul 2026 om 17:47",
-  "bijgewerkt_iso": "2026-07-06T17:47:43.621373",
+  "bijgewerkt": "06 Jul 2026 om 18:03",
+  "bijgewerkt_iso": "2026-07-06T18:03:51.180982",
   "aantal": 58,
-  "nieuw": 2,
+  "nieuw": 1,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Hellingstraat",
-      "prijs": "€ 3.150 per maand",
-      "details": "114 m² · 4 kamers · Gestoffeerd",
+      "titel": "Appartement Van Nijenrodeweg",
+      "prijs": "€ 2.750 per maand",
+      "details": "87 m² · 4 kamers · Gestoffeerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6fcf4e82/hellingstraat",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f1c61adc/van-nijenrodeweg",
       "nieuw": true,
-      "gezien_sinds": "2026-07-06T17:47:43.621297"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Aalbersestraat 104",
-      "prijs": "€ 1.750 per maand",
-      "details": "64 m² · 4 kamers · Kaal",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/44357ab6/aalbersestraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-06T17:47:43.621297"
+      "gezien_sinds": "2026-07-06T18:03:51.180907"
     },
     {
       "bron": "Pararius",
@@ -337,17 +326,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Leusdenhof",
-      "prijs": "€ 2.500 per maand",
-      "details": "92 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/04d8f27a/leusdenhof",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-30T18:40:06.960272"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Admiraal De Ruijterweg 352 2",
       "prijs": "€ 2.150 per maand",
       "details": "65 m² · 4 kamers · 1927",
@@ -641,6 +619,28 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/19de7df4/groesbeekdreef",
       "nieuw": false,
       "gezien_sinds": "2026-07-06T16:33:23.813338"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Hellingstraat",
+      "prijs": "€ 3.150 per maand",
+      "details": "114 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6fcf4e82/hellingstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-06T17:47:43.621297"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Aalbersestraat 104",
+      "prijs": "€ 1.750 per maand",
+      "details": "64 m² · 4 kamers · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/44357ab6/aalbersestraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-06T17:47:43.621297"
     }
   ]
 }
