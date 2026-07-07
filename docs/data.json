@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "07 Jul 2026 om 03:32",
-  "bijgewerkt_iso": "2026-07-07T03:32:52.312730",
-  "aantal": 88,
+  "bijgewerkt": "07 Jul 2026 om 03:49",
+  "bijgewerkt_iso": "2026-07-07T03:49:02.057469",
+  "aantal": 87,
   "nieuw": 0,
   "woningen": [
     {
@@ -192,17 +192,6 @@
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Distelweg 78R 96",
-      "prijs": "€ 2.565,- p/m",
-      "details": "",
-      "link": "https://www.eefjevoogd.nl",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T10:27:53.552902"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Huis Le Tourmalet",
@@ -330,6 +319,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/95d8c5d8/bulgerstein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-01T12:58:26.033505"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Boeierstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/358cf79f/boeierstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-01T12:58:26.033505"
@@ -762,17 +762,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-05T15:04:37.894684"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Imbos",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/22f0024b/imbos/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T07:17:42.960517"
     },
     {
       "bron": "Huurwoningen.nl",
