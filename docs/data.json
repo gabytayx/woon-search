@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "07 Jul 2026 om 16:18",
-  "bijgewerkt_iso": "2026-07-07T16:18:59.619625",
-  "aantal": 88,
-  "nieuw": 2,
+  "bijgewerkt": "07 Jul 2026 om 16:33",
+  "bijgewerkt_iso": "2026-07-07T16:33:46.454728",
+  "aantal": 89,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Arthur van Schendelstraat",
-      "prijs": "€ 2.250 per maand",
-      "details": "72 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/00091f50/arthur-van-schendelstraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-07T16:18:59.619517"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Arthur van Schendelstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b55f78c5/arthur-van-schendelstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-07T16:18:59.619517"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -201,6 +179,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b0d0b6b0/dickenslaan",
       "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Distelweg 78R 96",
+      "prijs": "€ 2.565,- p/m",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-24T10:27:53.552902"
     },
     {
       "bron": "Pararius",
@@ -971,6 +960,28 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/0c043c16/buiksloterdijk",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T16:03:27.578648"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Arthur van Schendelstraat",
+      "prijs": "€ 2.250 per maand",
+      "details": "72 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/00091f50/arthur-van-schendelstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T16:18:59.619517"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Arthur van Schendelstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b55f78c5/arthur-van-schendelstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T16:18:59.619517"
     }
   ]
 }
