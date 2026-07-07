@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "07 Jul 2026 om 07:33",
-  "bijgewerkt_iso": "2026-07-07T07:33:09.348876",
+  "bijgewerkt": "07 Jul 2026 om 07:47",
+  "bijgewerkt_iso": "2026-07-07T07:47:41.094639",
   "aantal": 88,
   "nieuw": 0,
   "woningen": [
@@ -309,6 +309,17 @@
       "details": "65 m² · 4 kamers · 1927",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f824a877/admiraal-de-ruijterweg",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-01T12:58:26.033505"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Admiraal De Ruijterweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/31eb3ac3/admiraal-de-ruijterweg/",
+      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-01T12:58:26.033505"
     },
@@ -751,17 +762,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-05T15:04:37.894684"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Imbos",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/22f0024b/imbos/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T07:17:42.960517"
     },
     {
       "bron": "Huurwoningen.nl",
