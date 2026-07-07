@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "07 Jul 2026 om 15:47",
-  "bijgewerkt_iso": "2026-07-07T15:47:23.274802",
-  "aantal": 88,
-  "nieuw": 0,
+  "bijgewerkt": "07 Jul 2026 om 16:03",
+  "bijgewerkt_iso": "2026-07-07T16:03:27.578726",
+  "aantal": 89,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Buiksloterdijk",
+      "prijs": "€ 2.750 per maand",
+      "details": "110 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/0c043c16/buiksloterdijk",
+      "nieuw": true,
+      "gezien_sinds": "2026-07-07T16:03:27.578648"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
