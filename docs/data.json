@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "07 Jul 2026 om 10:03",
-  "bijgewerkt_iso": "2026-07-07T10:03:03.679905",
+  "bijgewerkt": "07 Jul 2026 om 10:17",
+  "bijgewerkt_iso": "2026-07-07T10:17:47.883188",
   "aantal": 88,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Apollolaan 61 2",
-      "prijs": "€ 3.950 per maand",
-      "details": "130 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/106eb86d/apollolaan",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-07T10:03:03.679819"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -588,17 +577,6 @@
       "gezien_sinds": "2026-07-03T16:07:34.692665"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Terletstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5bdf9835/terletstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-03T16:07:34.692665"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Van Spilbergenstraat 108 3",
@@ -918,6 +896,17 @@
       "gezien_sinds": "2026-07-07T02:04:29.233422"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Bezaanjachtplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0907fc9/bezaanjachtplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T06:17:34.138609"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Hofgeest",
@@ -971,6 +960,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/140673b0/kometensingel",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T09:33:22.823724"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Apollolaan 61 2",
+      "prijs": "€ 3.950 per maand",
+      "details": "130 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/106eb86d/apollolaan",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T10:03:03.679819"
     }
   ]
 }
