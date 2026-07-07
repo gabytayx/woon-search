@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "07 Jul 2026 om 06:02",
-  "bijgewerkt_iso": "2026-07-07T06:02:56.405148",
+  "bijgewerkt": "07 Jul 2026 om 06:17",
+  "bijgewerkt_iso": "2026-07-07T06:17:34.138706",
   "aantal": 88,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bezaanjachtplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0907fc9/bezaanjachtplein/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-07-07T06:17:34.138609"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -309,17 +320,6 @@
       "details": "65 m² · 4 kamers · 1927",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f824a877/admiraal-de-ruijterweg",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-01T12:58:26.033505"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Admiraal De Ruijterweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/31eb3ac3/admiraal-de-ruijterweg/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-01T12:58:26.033505"
     },
