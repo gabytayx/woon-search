@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "07 Jul 2026 om 14:03",
-  "bijgewerkt_iso": "2026-07-07T14:03:17.736134",
+  "bijgewerkt": "07 Jul 2026 om 14:17",
+  "bijgewerkt_iso": "2026-07-07T14:17:25.823775",
   "aantal": 88,
   "nieuw": 0,
   "woningen": [
@@ -302,17 +302,6 @@
       "gezien_sinds": "2026-07-01T20:22:01.249070"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Veembroederhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/e67152f1/veembroederhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-01T20:22:01.249070"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Arent Janszoon Ernststraat",
@@ -550,6 +539,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/d5ce0bff/jisperveldstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T16:07:34.692665"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Terletstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5bdf9835/terletstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-03T16:07:34.692665"
