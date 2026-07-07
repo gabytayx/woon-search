@@ -1,19 +1,30 @@
 {
-  "bijgewerkt": "07 Jul 2026 om 16:03",
-  "bijgewerkt_iso": "2026-07-07T16:03:27.578726",
-  "aantal": 89,
-  "nieuw": 1,
+  "bijgewerkt": "07 Jul 2026 om 16:18",
+  "bijgewerkt_iso": "2026-07-07T16:18:59.619625",
+  "aantal": 88,
+  "nieuw": 2,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Buiksloterdijk",
-      "prijs": "€ 2.750 per maand",
-      "details": "110 m² · 4 kamers · Gemeubileerd",
+      "titel": "Huis Arthur van Schendelstraat",
+      "prijs": "€ 2.250 per maand",
+      "details": "72 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/0c043c16/buiksloterdijk",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/00091f50/arthur-van-schendelstraat",
       "nieuw": true,
-      "gezien_sinds": "2026-07-07T16:03:27.578648"
+      "gezien_sinds": "2026-07-07T16:18:59.619517"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Arthur van Schendelstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b55f78c5/arthur-van-schendelstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-07-07T16:18:59.619517"
     },
     {
       "bron": "Pararius",
@@ -192,17 +203,6 @@
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Distelweg 78R 96",
-      "prijs": "€ 2.565,- p/m",
-      "details": "",
-      "link": "https://www.eefjevoogd.nl",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T10:27:53.552902"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Huis Le Tourmalet",
@@ -324,17 +324,6 @@
       "gezien_sinds": "2026-07-01T20:22:01.249070"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Houthavenweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/08bdc7dd/houthavenweg/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-01T20:22:01.249070"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Arent Janszoon Ernststraat",
@@ -342,17 +331,6 @@
       "details": "110 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/fabb2252/arent-janszoon-ernststraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-02T12:18:19.837473"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Oudeschans",
-      "prijs": "€ 2.650 per maand",
-      "details": "120 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f89ee1d5/oudeschans",
       "nieuw": false,
       "gezien_sinds": "2026-07-02T12:18:19.837473"
     },
@@ -982,6 +960,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/51253c7f/amerbos",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T13:47:24.897814"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Buiksloterdijk",
+      "prijs": "€ 2.750 per maand",
+      "details": "110 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/0c043c16/buiksloterdijk",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T16:03:27.578648"
     }
   ]
 }
