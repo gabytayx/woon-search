@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "08 Jul 2026 om 18:17",
-  "bijgewerkt_iso": "2026-07-08T18:17:45.472641",
+  "bijgewerkt": "08 Jul 2026 om 18:33",
+  "bijgewerkt_iso": "2026-07-08T18:33:17.436427",
   "aantal": 88,
   "nieuw": 1,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Zandstrooierstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6983fe03/zandstrooierstraat/",
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Zandstrooierstraat 9",
+      "prijs": "€ 2.634 per maand",
+      "details": "117 m² · 4 kamers · Kaal",
       "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1fcb4f3f/zandstrooierstraat",
       "nieuw": true,
-      "gezien_sinds": "2026-07-08T18:17:45.472539"
+      "gezien_sinds": "2026-07-08T18:33:17.436336"
     },
     {
       "bron": "Pararius",
@@ -41,7 +41,7 @@
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Huis Herman Poortstraat 5",
-      "prijs": "€ 3.250 per maand",
+      "prijs": "€ 2.950 per maand",
       "details": "90 m² · 5 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/c263a01b/herman-poortstraat",
@@ -377,17 +377,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-03T16:07:34.692665"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Van Spilbergenstraat 108 3",
-      "prijs": "€ 2.995 per maand",
-      "details": "76 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0f549659/van-spilbergenstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-03T17:03:40.858388"
     },
     {
       "bron": "Pararius",
@@ -971,6 +960,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-08T17:33:17.458293"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Zandstrooierstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6983fe03/zandstrooierstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-08T18:17:45.472539"
     }
   ]
 }
