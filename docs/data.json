@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "08 Jul 2026 om 01:47",
-  "bijgewerkt_iso": "2026-07-08T01:47:19.641649",
+  "bijgewerkt": "08 Jul 2026 om 02:03",
+  "bijgewerkt_iso": "2026-07-08T02:03:16.905991",
   "aantal": 88,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Distelweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/931f87ca/distelweg/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-08T01:47:19.641572"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -971,6 +960,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b75f233b/meer-en-vaart",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T23:03:07.823641"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Distelweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/931f87ca/distelweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-08T01:47:19.641572"
     }
   ]
 }
