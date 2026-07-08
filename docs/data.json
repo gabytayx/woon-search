@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "08 Jul 2026 om 19:47",
-  "bijgewerkt_iso": "2026-07-08T19:47:52.545422",
-  "aantal": 87,
+  "bijgewerkt": "08 Jul 2026 om 20:03",
+  "bijgewerkt_iso": "2026-07-08T20:03:35.827543",
+  "aantal": 88,
   "nieuw": 0,
   "woningen": [
     {
@@ -302,6 +302,28 @@
       "gezien_sinds": "2026-07-01T20:22:01.249070"
     },
     {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/j-h-hisgenpad-910-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-02T18:34:49.523647"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Buitenveldertselaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/04c9d85b/buitenveldertselaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T10:38:43.649130"
+    },
+    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Amsteldijk",
@@ -597,17 +619,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T02:04:29.233422"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bezaanjachtplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0907fc9/bezaanjachtplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-07T06:17:34.138609"
     },
     {
       "bron": "Pararius",
