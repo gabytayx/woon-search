@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "08 Jul 2026 om 15:48",
-  "bijgewerkt_iso": "2026-07-08T15:48:00.983069",
+  "bijgewerkt": "08 Jul 2026 om 16:03",
+  "bijgewerkt_iso": "2026-07-08T16:03:43.445994",
   "aantal": 88,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Kleine Pimpernelstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f3195cff/kleine-pimpernelstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-08T15:48:00.982977"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -971,6 +960,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-08T15:33:39.249374"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Kleine Pimpernelstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/f3195cff/kleine-pimpernelstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-08T15:48:00.982977"
     }
   ]
 }
