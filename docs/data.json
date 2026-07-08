@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "08 Jul 2026 om 09:04",
-  "bijgewerkt_iso": "2026-07-08T09:04:48.509620",
-  "aantal": 87,
+  "bijgewerkt": "08 Jul 2026 om 09:18",
+  "bijgewerkt_iso": "2026-07-08T09:18:01.904004",
+  "aantal": 88,
   "nieuw": 0,
   "woningen": [
     {
@@ -181,6 +181,17 @@
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
     {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Distelweg 78R 96",
+      "prijs": "€ 2.565,- p/m",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-24T10:27:53.552902"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Huis Le Tourmalet",
@@ -335,17 +346,6 @@
       "gezien_sinds": "2026-07-02T18:34:49.523647"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement IJburglaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ea6dec86/ijburglaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-02T18:34:49.523647"
-    },
-    {
       "bron": "Fris",
       "bron_url": "https://fris.nl",
       "titel": "Adres",
@@ -418,6 +418,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/d5ce0bff/jisperveldstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T16:07:34.692665"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albert Luthulistraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/13d1deab/albert-luthulistraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-03T16:07:34.692665"
