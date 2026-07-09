@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "09 Jul 2026 om 18:47",
-  "bijgewerkt_iso": "2026-07-09T18:47:45.422611",
+  "bijgewerkt": "09 Jul 2026 om 19:02",
+  "bijgewerkt_iso": "2026-07-09T19:02:55.670413",
   "aantal": 87,
   "nieuw": 0,
   "woningen": [
@@ -348,17 +348,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Imbos",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/22f0024b/imbos/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T07:17:42.960517"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Huis Wethouder Driessenstraat",
       "prijs": "",
       "details": "",
@@ -531,6 +520,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T02:04:29.233422"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Bezaanjachtplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0907fc9/bezaanjachtplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T06:17:34.138609"
     },
     {
       "bron": "Pararius",
