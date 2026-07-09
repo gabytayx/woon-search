@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "09 Jul 2026 om 13:22",
-  "bijgewerkt_iso": "2026-07-09T13:22:24.966061",
-  "aantal": 89,
-  "nieuw": 0,
+  "bijgewerkt": "09 Jul 2026 om 13:33",
+  "bijgewerkt_iso": "2026-07-09T13:33:31.727100",
+  "aantal": 90,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Vrijheidslaan 87 1",
+      "prijs": "€ 3.400 per maand",
+      "details": "85 m² · 4 kamers · 1923",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/4e9dbb92/vrijheidslaan",
+      "nieuw": true,
+      "gezien_sinds": "2026-07-09T13:33:31.727011"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
