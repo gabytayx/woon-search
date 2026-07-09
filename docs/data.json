@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "09 Jul 2026 om 20:03",
-  "bijgewerkt_iso": "2026-07-09T20:03:08.316154",
+  "bijgewerkt": "09 Jul 2026 om 20:17",
+  "bijgewerkt_iso": "2026-07-09T20:17:18.437473",
   "aantal": 87,
   "nieuw": 0,
   "woningen": [
@@ -282,6 +282,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Spengenpad",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5342c591/spengenpad/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T16:07:34.692665"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Van Spilbergenstraat",
       "prijs": "",
       "details": "",
@@ -509,17 +520,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T02:04:29.233422"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Bezaanjachtplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0907fc9/bezaanjachtplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-07T06:17:34.138609"
     },
     {
       "bron": "Pararius",
