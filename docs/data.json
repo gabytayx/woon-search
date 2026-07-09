@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "09 Jul 2026 om 17:33",
-  "bijgewerkt_iso": "2026-07-09T17:33:45.919683",
+  "bijgewerkt": "09 Jul 2026 om 17:47",
+  "bijgewerkt_iso": "2026-07-09T17:47:40.059653",
   "aantal": 87,
   "nieuw": 0,
   "woningen": [
@@ -56,17 +56,6 @@
       "details": "120 m² · 5 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/05ba7dcd/lindenhoevestraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Lodewijk Tripstraat",
-      "prijs": "€ 3.950 per maand",
-      "details": "72 m² · 5 kamers · Gestoffeerd of gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e5475429/lodewijk-tripstraat",
       "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
     },
@@ -267,6 +256,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f7c18259/wethouder-frankeweg",
       "nieuw": false,
       "gezien_sinds": "2026-07-01T20:22:01.249070"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/j-h-hisgenpad-910-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-02T18:34:49.523647"
     },
     {
       "bron": "Huurwoningen.nl",
