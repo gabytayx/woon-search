@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "09 Jul 2026 om 23:17",
-  "bijgewerkt_iso": "2026-07-09T23:17:29.912848",
+  "bijgewerkt": "09 Jul 2026 om 23:33",
+  "bijgewerkt_iso": "2026-07-09T23:33:21.981665",
   "aantal": 87,
   "nieuw": 0,
   "woningen": [
@@ -267,17 +267,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-02T18:34:49.523647"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Amsteldijk",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d6fdbe40/amsteldijk/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-03T16:07:34.692665"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -795,6 +784,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-08T01:47:19.641572"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Portengenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5dc48094/portengenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-08T04:17:20.516903"
     },
     {
       "bron": "Huurwoningen.nl",
