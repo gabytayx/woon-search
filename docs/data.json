@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "10 Jul 2026 om 17:03",
-  "bijgewerkt_iso": "2026-07-10T17:03:34.367083",
+  "bijgewerkt": "10 Jul 2026 om 17:17",
+  "bijgewerkt_iso": "2026-07-10T17:17:26.442408",
   "aantal": 84,
   "nieuw": 0,
   "woningen": [
@@ -267,17 +267,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-06T05:18:17.308442"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Imbos",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/22f0024b/imbos/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T07:17:42.960517"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -718,6 +707,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-08T01:47:19.641572"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Portengenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5dc48094/portengenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-08T04:17:20.516903"
     },
     {
       "bron": "Huurwoningen.nl",
