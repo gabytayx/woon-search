@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "10 Jul 2026 om 19:25",
-  "bijgewerkt_iso": "2026-07-10T19:25:03.597150",
+  "bijgewerkt": "10 Jul 2026 om 19:33",
+  "bijgewerkt_iso": "2026-07-10T19:33:05.099076",
   "aantal": 84,
   "nieuw": 0,
   "woningen": [
@@ -267,17 +267,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-06T05:18:17.308442"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Imbos",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/22f0024b/imbos/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T07:17:42.960517"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -872,6 +861,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-10T09:47:24.130636"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Oeverpad",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/9e9aad9d/oeverpad/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-10T11:17:45.865752"
     },
     {
       "bron": "Pararius",
