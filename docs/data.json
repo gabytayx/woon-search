@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "10 Jul 2026 om 23:47",
-  "bijgewerkt_iso": "2026-07-10T23:47:44.392930",
+  "bijgewerkt": "11 Jul 2026 om 00:03",
+  "bijgewerkt_iso": "2026-07-11T00:03:13.500617",
   "aantal": 33,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Beethovenstraat",
+      "prijs": "€ 4.000 per maand",
+      "details": "122 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ab7a85a0/beethovenstraat",
+      "nieuw": true,
+      "gezien_sinds": "2026-07-11T00:03:13.500570"
+    },
     {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
@@ -36,17 +47,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-02T18:34:49.523647"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Kromme Leimuidenstraat",
-      "prijs": "€ 3.500 per maand",
-      "details": "95 m² · 6 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ff174e60/kromme-leimuidenstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T12:05:03.016070"
     },
     {
       "bron": "Pararius",
