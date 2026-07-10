@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "10 Jul 2026 om 09:47",
-  "bijgewerkt_iso": "2026-07-10T09:47:24.130706",
+  "bijgewerkt": "10 Jul 2026 om 10:10",
+  "bijgewerkt_iso": "2026-07-10T10:10:25.075425",
   "aantal": 63,
-  "nieuw": 2,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Marco Polostraat 281 3",
-      "prijs": "€ 3.200 per maand",
-      "details": "92 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f9c1bfe3/marco-polostraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-10T09:47:24.130636"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Marco Polostraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/69a09f74/marco-polostraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-10T09:47:24.130636"
-    },
     {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
@@ -62,6 +40,28 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Spilbergenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/a6da5d1e/van-spilbergenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T18:33:05.914321"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Oeverpad",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e678ae5a/oeverpad/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T18:47:30.482367"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Stadionweg",
       "prijs": "",
       "details": "",
@@ -80,17 +80,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-06T05:18:17.308442"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Imbos",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/22f0024b/imbos/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T07:17:42.960517"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -524,17 +513,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Portengenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5dc48094/portengenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-08T04:17:20.516903"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Dr. H. Colijnstraat",
       "prijs": "",
       "details": "",
@@ -696,6 +674,28 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6fab501e/willem-parelstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-09T14:13:20.892764"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Marco Polostraat 281 3",
+      "prijs": "€ 3.200 per maand",
+      "details": "92 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f9c1bfe3/marco-polostraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-10T09:47:24.130636"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Marco Polostraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/69a09f74/marco-polostraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-10T09:47:24.130636"
     }
   ]
 }
