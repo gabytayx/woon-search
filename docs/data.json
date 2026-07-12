@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "12 Jul 2026 om 16:46",
-  "bijgewerkt_iso": "2026-07-12T16:46:17.106228",
+  "bijgewerkt": "12 Jul 2026 om 17:03",
+  "bijgewerkt_iso": "2026-07-12T17:03:10.920960",
   "aantal": 84,
   "nieuw": 0,
   "woningen": [
@@ -249,6 +249,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Stadionweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/38b0e514/stadionweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-05T15:04:37.894684"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Huis Imbos",
       "prijs": "",
       "details": "",
@@ -399,17 +410,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T02:04:29.233422"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bezaanjachtplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0907fc9/bezaanjachtplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-07T06:17:34.138609"
     },
     {
       "bron": "Huurwoningen.nl",
