@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "13 Jul 2026 om 09:02",
-  "bijgewerkt_iso": "2026-07-13T09:02:58.302142",
+  "bijgewerkt": "13 Jul 2026 om 09:17",
+  "bijgewerkt_iso": "2026-07-13T09:17:19.816169",
   "aantal": 62,
   "nieuw": 0,
   "woningen": [
@@ -25,6 +25,17 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/cbf88792/emanuel-van-meterenstraat",
       "nieuw": false,
       "gezien_sinds": "2026-06-29T16:41:46.969658"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Spilbergenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/a6da5d1e/van-spilbergenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T18:33:05.914321"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -168,17 +179,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T02:04:29.233422"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Imogirituin",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/7d11546f/imogirituin/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-07T09:17:28.304765"
     },
     {
       "bron": "Huurwoningen.nl",
