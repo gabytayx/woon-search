@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "13 Jul 2026 om 16:03",
-  "bijgewerkt_iso": "2026-07-13T16:03:54.474007",
-  "aantal": 82,
+  "bijgewerkt": "13 Jul 2026 om 16:21",
+  "bijgewerkt_iso": "2026-07-13T16:21:30.771968",
+  "aantal": 81,
   "nieuw": 1,
   "woningen": [
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Maria Austriastraat 837",
-      "prijs": "€ 2.600 per maand",
-      "details": "135 m² · 4 kamers · 2003",
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Staalmeesterslaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4bfd8c27/staalmeesterslaan/",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/3ec3d4bb/maria-austriastraat",
       "nieuw": true,
-      "gezien_sinds": "2026-07-13T16:03:54.473904"
+      "gezien_sinds": "2026-07-13T16:21:30.771888"
     },
     {
       "bron": "Pararius",
@@ -124,17 +124,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b0d0b6b0/dickenslaan",
       "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Distelweg 78R 96",
-      "prijs": "€ 2.565,- p/m",
-      "details": "",
-      "link": "https://www.eefjevoogd.nl",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T10:27:53.552902"
     },
     {
       "bron": "Pararius",
@@ -330,17 +319,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/7d11546f/imogirituin/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-07T09:17:28.304765"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Hofgeest",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a87645bc/hofgeest/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T09:17:28.304765"
@@ -905,6 +883,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0f37fda7/korte-de-wittenstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-13T15:03:44.143792"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Maria Austriastraat 837",
+      "prijs": "€ 2.600 per maand",
+      "details": "135 m² · 4 kamers · 2003",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/3ec3d4bb/maria-austriastraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-13T16:03:54.473904"
     }
   ]
 }
