@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "13 Jul 2026 om 09:49",
-  "bijgewerkt_iso": "2026-07-13T09:49:13.162842",
+  "bijgewerkt": "13 Jul 2026 om 10:03",
+  "bijgewerkt_iso": "2026-07-13T10:03:46.201703",
   "aantal": 83,
   "nieuw": 1,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Linnaeusstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/048c0468/linnaeusstraat/",
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Linnaeusstraat 97 H",
+      "prijs": "€ 3.600 per maand",
+      "details": "145 m² · 5 kamers · 55 m²",
       "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/61670345/linnaeusstraat",
       "nieuw": true,
-      "gezien_sinds": "2026-07-13T09:49:13.162741"
+      "gezien_sinds": "2026-07-13T10:03:46.201608"
     },
     {
       "bron": "Pararius",
@@ -260,6 +260,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Imbos",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/22f0024b/imbos/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-06T07:17:42.960517"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Huis Wethouder Driessenstraat",
       "prijs": "",
       "details": "",
@@ -300,17 +311,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-06T13:47:48.789678"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Olympiaplein",
-      "prijs": "€ 3.800 per maand",
-      "details": "110 m² · 4 kamers · 60 m²",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6a6d264d/olympiaplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-06T15:03:18.480108"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -797,17 +797,6 @@
       "gezien_sinds": "2026-07-10T09:47:24.130636"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Oeverpad",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/9e9aad9d/oeverpad/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-10T11:17:45.865752"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Gouden Leeuw",
@@ -916,6 +905,17 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/57258b3f/schellingwouderdijk",
       "nieuw": false,
       "gezien_sinds": "2026-07-13T01:17:28.955192"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Linnaeusstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/048c0468/linnaeusstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-13T09:49:13.162741"
     }
   ]
 }
