@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "14 Jul 2026 om 15:03",
-  "bijgewerkt_iso": "2026-07-14T15:03:06.301807",
-  "aantal": 82,
-  "nieuw": 0,
+  "bijgewerkt": "14 Jul 2026 om 15:17",
+  "bijgewerkt_iso": "2026-07-14T15:17:54.666499",
+  "aantal": 83,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Het Laagt 97",
+      "prijs": "€ 2.000 per maand",
+      "details": "91 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e5eba1cf/het-laagt",
+      "nieuw": true,
+      "gezien_sinds": "2026-07-14T15:17:54.666422"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
