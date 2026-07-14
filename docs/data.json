@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "15 Jul 2026 om 00:18",
-  "bijgewerkt_iso": "2026-07-15T00:18:28.044283",
+  "bijgewerkt": "15 Jul 2026 om 00:32",
+  "bijgewerkt_iso": "2026-07-15T00:32:54.554842",
   "aantal": 1,
   "nieuw": 0,
   "woningen": [
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Emanuel van Meterenstraat",
-      "prijs": "€ 3.200 per maand",
-      "details": "137 m² · 6 kamers · Gestoffeerd of gemeubileerd",
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Distelweg 78R 96",
+      "prijs": "€ 2.565,- p/m",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/cbf88792/emanuel-van-meterenstraat",
       "nieuw": false,
-      "gezien_sinds": "2026-06-29T16:41:46.969658"
+      "gezien_sinds": "2026-06-24T10:27:53.552902"
     }
   ]
 }
