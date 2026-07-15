@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "15 Jul 2026 om 16:32",
-  "bijgewerkt_iso": "2026-07-15T16:32:59.078426",
-  "aantal": 2,
+  "bijgewerkt": "15 Jul 2026 om 16:47",
+  "bijgewerkt_iso": "2026-07-15T16:47:23.488173",
+  "aantal": 33,
   "nieuw": 0,
   "woningen": [
     {
@@ -16,6 +16,336 @@
       "gezien_sinds": "2026-06-24T10:27:53.552902"
     },
     {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Emanuel van Meterenstraat",
+      "prijs": "€ 3.200 per maand",
+      "details": "137 m² · 6 kamers · Gestoffeerd of gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/cbf88792/emanuel-van-meterenstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-29T16:41:46.969658"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Maldenhof",
+      "prijs": "€ 2.450 per maandTransparantMeer informatie",
+      "details": "130 m² · 5 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/fcaa7502/maldenhof",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T18:47:47.152887"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Johan Hofmanstraat 249",
+      "prijs": "€ 3.000 per maand",
+      "details": "98 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f3ab1e6f/johan-hofmanstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T21:03:37.334362"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Esplanade de Meer 91",
+      "prijs": "€ 2.125 per maand",
+      "details": "117 m² · 4 kamers · 2001",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/3d7cbe9a/esplanade-de-meer",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T21:03:37.334362"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Dorpsweg Ransdorp",
+      "prijs": "€ 2.750 per maand",
+      "details": "100 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/fb5fa2af/dorpsweg-ransdorp",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T22:03:15.849300"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Meer en Vaart 124 B",
+      "prijs": "€ 2.600 per maand",
+      "details": "140 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b75f233b/meer-en-vaart",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T23:03:07.823641"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Van Leijenberghlaan",
+      "prijs": "€ 3.000 per maand",
+      "details": "130 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/44d418ae/van-leijenberghlaan",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-08T10:33:12.538319"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Amsteldijk",
+      "prijs": "€ 3.500 per maand",
+      "details": "120 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/72684e81/amsteldijk",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-08T14:05:03.296893"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Zandstrooierstraat 9",
+      "prijs": "€ 2.634 per maand",
+      "details": "117 m² · 4 kamers · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1fcb4f3f/zandstrooierstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-08T18:33:17.436336"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Griseldestraat",
+      "prijs": "€ 2.750 per maand",
+      "details": "64 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/d54d3d5d/griseldestraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-09T12:47:30.226682"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Vrijheidslaan 87 1",
+      "prijs": "€ 3.400 per maand",
+      "details": "85 m² · 4 kamers · 1923",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/4e9dbb92/vrijheidslaan",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-09T13:33:31.727011"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Willem Parelstraat 400",
+      "prijs": "€ 3.850 per maand",
+      "details": "155 m² · 4 kamers · 2021",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6fab501e/willem-parelstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-09T14:13:20.892764"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Marco Polostraat 281 3",
+      "prijs": "€ 3.200 per maand",
+      "details": "92 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f9c1bfe3/marco-polostraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-10T09:47:24.130636"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Gouden Leeuw",
+      "prijs": "€ 2.000 per maand",
+      "details": "110 m² · 4 kamers · Gestoffeerd of gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ddb98fe9/gouden-leeuw",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-10T14:32:53.585795"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Cruquiusweg",
+      "prijs": "€ 3.500 per maand",
+      "details": "95 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/04b41c75/cruquiusweg",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-10T17:47:25.424032"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Stolwijkstraat",
+      "prijs": "€ 3.450 per maand",
+      "details": "90 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ee53fe5a/stolwijkstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-10T19:17:48.438954"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Beethovenstraat",
+      "prijs": "€ 4.000 per maand",
+      "details": "122 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ab7a85a0/beethovenstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-11T00:03:13.500570"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Meer en Vaart",
+      "prijs": "€ 2.400 per maand",
+      "details": "126 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/3621538b/meer-en-vaart",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-11T12:42:49.448602"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Schellingwouderdijk",
+      "prijs": "€ 3.950 per maand",
+      "details": "150 m² · 5 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/57258b3f/schellingwouderdijk",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-13T01:17:28.955192"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Linnaeusstraat 97 H",
+      "prijs": "€ 3.600 per maand",
+      "details": "145 m² · 5 kamers · 55 m²",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/61670345/linnaeusstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-13T10:03:46.201608"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Zocherstraat 6 4",
+      "prijs": "€ 3.000 per maand",
+      "details": "70 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c78788c2/zocherstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-13T11:04:54.119222"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Korte De Wittenstraat 23",
+      "prijs": "€ 3.350 per maand",
+      "details": "86 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0f37fda7/korte-de-wittenstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-13T15:03:44.143792"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Hendrik Hosstraat",
+      "prijs": "€ 2.250 per maand",
+      "details": "120 m² · 5 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/01b1ddb5/hendrik-hosstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-14T11:32:56.977812"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Kortrijk 65",
+      "prijs": "€ 2.850 per maand",
+      "details": "108 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/3e5d4627/kortrijk",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-14T13:03:12.040014"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Wilhelminastraat",
+      "prijs": "€ 4.000 per maand",
+      "details": "118 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/14263106/wilhelminastraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-14T13:33:17.657633"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Kribbestraat 4 1",
+      "prijs": "€ 2.345 per maand",
+      "details": "63 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8ca5bb9f/kribbestraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-14T14:03:44.278687"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Het Laagt 97",
+      "prijs": "€ 2.000 per maand",
+      "details": "91 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e5eba1cf/het-laagt",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-14T15:17:54.666422"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement De Clercqstraat",
+      "prijs": "€ 2.775 per maand",
+      "details": "57 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ac74ab65/de-clercqstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-15T08:47:52.933529"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Johannes van der Waalsstraat 53 1",
+      "prijs": "€ 3.400 per maand",
+      "details": "125 m² · 6 kamers · 1931",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f1761227/johannes-van-der-waalsstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-15T09:04:07.277647"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Noordermarkt 8 3",
+      "prijs": "€ 3.800 per maand",
+      "details": "105 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c165796e/noordermarkt",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-15T10:35:13.875863"
+    },
+    {
       "bron": "Fris",
       "bron_url": "https://fris.nl",
       "titel": "Adres",
@@ -25,6 +355,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-15T13:47:19.658754"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Molenbeekstraat 17 1",
+      "prijs": "€ 2.600 per maand",
+      "details": "71 m² · 4 kamers · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0b57124c/molenbeekstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-15T15:33:04.679053"
     }
   ]
 }
