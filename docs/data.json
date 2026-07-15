@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "15 Jul 2026 om 03:48",
-  "bijgewerkt_iso": "2026-07-15T03:48:28.676646",
-  "aantal": 82,
+  "bijgewerkt": "15 Jul 2026 om 04:02",
+  "bijgewerkt_iso": "2026-07-15T04:02:56.930839",
+  "aantal": 83,
   "nieuw": 0,
   "woningen": [
     {
@@ -102,6 +102,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b0d0b6b0/dickenslaan",
       "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Distelweg 78R 96",
+      "prijs": "€ 2.565,- p/m",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-24T10:27:53.552902"
     },
     {
       "bron": "Pararius",
