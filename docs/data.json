@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "15 Jul 2026 om 09:04",
-  "bijgewerkt_iso": "2026-07-15T09:04:07.277720",
-  "aantal": 33,
-  "nieuw": 2,
+  "bijgewerkt": "15 Jul 2026 om 09:18",
+  "bijgewerkt_iso": "2026-07-15T09:18:25.002042",
+  "aantal": 31,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Johannes van der Waalsstraat 53 1",
-      "prijs": "€ 3.400 per maand",
-      "details": "125 m² · 6 kamers · 1931",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f1761227/johannes-van-der-waalsstraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-15T09:04:07.277647"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Johannes van der Waalsstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/72cd63df/johannes-van-der-waalsstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-15T09:04:07.277647"
-    },
     {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
@@ -36,17 +14,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-06-24T10:27:53.552902"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Emanuel van Meterenstraat",
-      "prijs": "€ 3.200 per maand",
-      "details": "137 m² · 6 kamers · Gestoffeerd of gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/cbf88792/emanuel-van-meterenstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-29T16:41:46.969658"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -366,6 +333,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-15T05:17:13.579608"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Johannes van der Waalsstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/72cd63df/johannes-van-der-waalsstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-15T09:04:07.277647"
     }
   ]
 }
