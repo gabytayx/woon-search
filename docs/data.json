@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "15 Jul 2026 om 13:47",
-  "bijgewerkt_iso": "2026-07-15T13:47:19.658789",
+  "bijgewerkt": "15 Jul 2026 om 14:03",
+  "bijgewerkt_iso": "2026-07-15T14:03:53.480854",
   "aantal": 2,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Minimale prijsMaximale prijs",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/36977/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-15T13:47:19.658754"
-    },
     {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
@@ -25,6 +14,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-06-24T10:27:53.552902"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/36977/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-15T13:47:19.658754"
     }
   ]
 }
