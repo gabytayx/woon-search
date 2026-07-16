@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "16 Jul 2026 om 13:03",
-  "bijgewerkt_iso": "2026-07-16T13:03:23.927429",
-  "aantal": 32,
-  "nieuw": 1,
+  "bijgewerkt": "16 Jul 2026 om 13:17",
+  "bijgewerkt_iso": "2026-07-16T13:17:28.916554",
+  "aantal": 31,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Le Tourmalet",
-      "prijs": "€ 3.250 per maand",
-      "details": "107 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/27117cd0/le-tourmalet",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-16T13:03:23.927380"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Emanuel van Meterenstraat",
-      "prijs": "€ 3.200 per maand",
-      "details": "137 m² · 6 kamers · Gestoffeerd of gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/cbf88792/emanuel-van-meterenstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-29T16:41:46.969658"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -355,6 +333,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/90ab7562/tweede-hugo-de-grootstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-16T10:47:37.860515"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Le Tourmalet",
+      "prijs": "€ 3.250 per maand",
+      "details": "107 m² · 5 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/27117cd0/le-tourmalet",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-16T13:03:23.927380"
     }
   ]
 }
