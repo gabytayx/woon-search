@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "16 Jul 2026 om 19:03",
-  "bijgewerkt_iso": "2026-07-16T19:03:04.538141",
-  "aantal": 33,
+  "bijgewerkt": "16 Jul 2026 om 19:17",
+  "bijgewerkt_iso": "2026-07-16T19:17:41.963768",
+  "aantal": 32,
   "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Emanuel van Meterenstraat",
-      "prijs": "€ 3.200 per maand",
-      "details": "137 m² · 6 kamers · Gestoffeerd of gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/cbf88792/emanuel-van-meterenstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-29T16:41:46.969658"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
