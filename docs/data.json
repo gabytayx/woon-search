@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "16 Jul 2026 om 04:32",
-  "bijgewerkt_iso": "2026-07-16T04:32:48.981003",
+  "bijgewerkt": "16 Jul 2026 om 04:47",
+  "bijgewerkt_iso": "2026-07-16T04:47:33.260547",
   "aantal": 63,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Willaertstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/50541ac8/willaertstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-16T04:32:48.980941"
-    },
     {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
@@ -696,6 +685,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-15T19:47:29.226965"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Willaertstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/50541ac8/willaertstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-16T04:32:48.980941"
     }
   ]
 }
