@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "17 Jul 2026 om 14:17",
-  "bijgewerkt_iso": "2026-07-17T14:17:37.854860",
+  "bijgewerkt": "17 Jul 2026 om 14:33",
+  "bijgewerkt_iso": "2026-07-17T14:33:00.757249",
   "aantal": 1,
   "nieuw": 0,
   "woningen": [
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Minimale prijsMaximale prijs",
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Osdorpplein 935",
+      "prijs": "Verhuurd",
       "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/36977/",
+      "link": "https://www.eefjevoogd.nl",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-07-15T13:47:19.658754"
+      "gezien_sinds": "2026-06-24T10:27:53.552902"
     }
   ]
 }
