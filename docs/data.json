@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "17 Jul 2026 om 03:47",
-  "bijgewerkt_iso": "2026-07-17T03:47:30.309938",
-  "aantal": 63,
+  "bijgewerkt": "17 Jul 2026 om 04:03",
+  "bijgewerkt_iso": "2026-07-17T04:03:40.337254",
+  "aantal": 62,
   "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Emanuel van Meterenstraat",
-      "prijs": "€ 3.200 per maand",
-      "details": "137 m² · 6 kamers · Gestoffeerd of gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/cbf88792/emanuel-van-meterenstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-29T16:41:46.969658"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -25,17 +14,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/fabb2252/arent-janszoon-ernststraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-02T12:18:19.837473"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Akersingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/54e47125/akersingel/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-07T19:47:27.894860"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -641,6 +619,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-15T19:47:29.226965"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Willaertstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/50541ac8/willaertstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-16T04:32:48.980941"
     },
     {
       "bron": "Pararius",
