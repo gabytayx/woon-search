@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "20 Jul 2026 om 23:17",
-  "bijgewerkt_iso": "2026-07-20T23:17:36.210560",
+  "bijgewerkt": "20 Jul 2026 om 23:32",
+  "bijgewerkt_iso": "2026-07-20T23:32:34.684174",
   "aantal": 32,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Sloterkade",
-      "prijs": "€ 2.985 per maandTransparantMeer informatie",
-      "details": "86 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ee0ed91f/sloterkade",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-20T23:17:36.210497"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -355,6 +344,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/3f038903/koningin-wilhelminaplein",
       "nieuw": false,
       "gezien_sinds": "2026-07-20T20:32:46.140612"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Sloterkade",
+      "prijs": "€ 2.985 per maandTransparantMeer informatie",
+      "details": "86 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ee0ed91f/sloterkade",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-20T23:17:36.210497"
     }
   ]
 }
