@@ -1,7 +1,19 @@
 {
-  "bijgewerkt": "20 Jul 2026 om 16:03",
-  "bijgewerkt_iso": "2026-07-20T16:03:23.086987",
-  "aantal": 0,
+  "bijgewerkt": "20 Jul 2026 om 16:17",
+  "bijgewerkt_iso": "2026-07-20T16:17:31.691063",
+  "aantal": 1,
   "nieuw": 0,
-  "woningen": []
+  "woningen": [
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/vondelstraat-60-2-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-20T11:47:34.881648"
+    }
+  ]
 }
