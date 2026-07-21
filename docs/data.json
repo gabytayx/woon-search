@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "21 Jul 2026 om 06:02",
-  "bijgewerkt_iso": "2026-07-21T06:02:53.740800",
+  "bijgewerkt": "21 Jul 2026 om 06:17",
+  "bijgewerkt_iso": "2026-07-21T06:17:25.659995",
   "aantal": 62,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Eerste Helmersstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/adb4d793/eerste-helmersstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-21T06:02:53.740729"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -685,6 +674,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-20T23:47:28.853335"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Eerste Helmersstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/adb4d793/eerste-helmersstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-21T06:02:53.740729"
     }
   ]
 }
