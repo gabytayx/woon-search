@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "21 Jul 2026 om 06:47",
-  "bijgewerkt_iso": "2026-07-21T06:47:26.167000",
+  "bijgewerkt": "21 Jul 2026 om 07:03",
+  "bijgewerkt_iso": "2026-07-21T07:03:00.764385",
   "aantal": 81,
   "nieuw": 0,
   "woningen": [
@@ -201,28 +201,6 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/fcaa7502/maldenhof",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T18:47:47.152887"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Surinameplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/80a7c612/surinameplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-10T16:17:34.342464"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Beethovenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/94ec1a0d/beethovenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-11T01:47:53.088959"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -522,6 +500,17 @@
       "gezien_sinds": "2026-07-15T19:47:29.226965"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Willaertstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/50541ac8/willaertstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-16T04:32:48.980941"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Tweede Hugo de Grootstraat",
@@ -737,6 +726,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/2a666159/emanuel-van-meterenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-20T15:02:57.387539"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement De Kempenaerstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/13d40a1d/de-kempenaerstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-20T15:02:57.387539"
