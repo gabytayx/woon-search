@@ -1,7 +1,19 @@
 {
-  "bijgewerkt": "21 Jul 2026 om 01:47",
-  "bijgewerkt_iso": "2026-07-21T01:47:50.241109",
-  "aantal": 0,
+  "bijgewerkt": "21 Jul 2026 om 02:02",
+  "bijgewerkt_iso": "2026-07-21T02:02:46.503101",
+  "aantal": 1,
   "nieuw": 0,
-  "woningen": []
+  "woningen": [
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/jekerstraat-90-3-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-20T17:47:49.041739"
+    }
+  ]
 }
