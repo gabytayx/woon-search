@@ -1,7 +1,19 @@
 {
-  "bijgewerkt": "22 Jul 2026 om 12:17",
-  "bijgewerkt_iso": "2026-07-22T12:17:54.378664",
-  "aantal": 0,
+  "bijgewerkt": "22 Jul 2026 om 12:33",
+  "bijgewerkt_iso": "2026-07-22T12:33:04.651133",
+  "aantal": 1,
   "nieuw": 0,
-  "woningen": []
+  "woningen": [
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/j-h-hisgenpad-964-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-21T17:47:43.946536"
+    }
+  ]
 }
