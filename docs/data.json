@@ -1,8 +1,8 @@
 {
-  "bijgewerkt": "23 Jul 2026 om 11:32",
-  "bijgewerkt_iso": "2026-07-23T11:32:50.785590",
+  "bijgewerkt": "23 Jul 2026 om 11:47",
+  "bijgewerkt_iso": "2026-07-23T11:47:44.273519",
   "aantal": 1,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
     {
       "bron": "Fris",
@@ -10,10 +10,10 @@
       "titel": "Adres",
       "prijs": "Min priceMax price",
       "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/j-h-hisgenpad-964-amsterdam/",
+      "link": "https://fris.nl/volledige-woningaanbod/onacklaan-244-capelle-aan-den-ijssel/",
       "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-21T17:47:43.946536"
+      "nieuw": true,
+      "gezien_sinds": "2026-07-23T11:47:44.273483"
     }
   ]
 }
