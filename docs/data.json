@@ -1,8 +1,8 @@
 {
-  "bijgewerkt": "23 Jul 2026 om 11:47",
-  "bijgewerkt_iso": "2026-07-23T11:47:44.273519",
+  "bijgewerkt": "23 Jul 2026 om 12:03",
+  "bijgewerkt_iso": "2026-07-23T12:03:00.957616",
   "aantal": 1,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
     {
       "bron": "Fris",
@@ -12,7 +12,7 @@
       "details": "",
       "link": "https://fris.nl/volledige-woningaanbod/onacklaan-244-capelle-aan-den-ijssel/",
       "plaatsingsdatum": "",
-      "nieuw": true,
+      "nieuw": false,
       "gezien_sinds": "2026-07-23T11:47:44.273483"
     }
   ]
