@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "24 Jul 2026 om 21:46",
-  "bijgewerkt_iso": "2026-07-24T21:46:21.702804",
-  "aantal": 32,
+  "bijgewerkt": "24 Jul 2026 om 22:02",
+  "bijgewerkt_iso": "2026-07-24T22:02:57.667017",
+  "aantal": 33,
   "nieuw": 0,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Johannes van der Waalsstraat 53 1",
+      "prijs": "€ 3.400 per maand",
+      "details": "125 m² · 6 kamers · 1931",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f1761227/johannes-van-der-waalsstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-15T09:04:07.277647"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
