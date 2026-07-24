@@ -1,7 +1,19 @@
 {
-  "bijgewerkt": "24 Jul 2026 om 12:19",
-  "bijgewerkt_iso": "2026-07-24T12:19:37.755105",
-  "aantal": 0,
+  "bijgewerkt": "24 Jul 2026 om 12:32",
+  "bijgewerkt_iso": "2026-07-24T12:32:45.202098",
+  "aantal": 1,
   "nieuw": 0,
-  "woningen": []
+  "woningen": [
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/domselaerstraat-43-3-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-23T17:50:03.614701"
+    }
+  ]
 }
