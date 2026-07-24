@@ -1,9 +1,31 @@
 {
-  "bijgewerkt": "24 Jul 2026 om 11:47",
-  "bijgewerkt_iso": "2026-07-24T11:47:36.305637",
-  "aantal": 1,
+  "bijgewerkt": "24 Jul 2026 om 12:01",
+  "bijgewerkt_iso": "2026-07-24T12:01:30.687053",
+  "aantal": 3,
   "nieuw": 0,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Johannes van der Waalsstraat 53 1",
+      "prijs": "€ 3.400 per maand",
+      "details": "125 m² · 6 kamers · 1931",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f1761227/johannes-van-der-waalsstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-15T09:04:07.277647"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Waddendijk 3",
+      "prijs": "€ 2.725 per maand",
+      "details": "144 m² · 6 kamers · 1931",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/17e78dfb/waddendijk",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-21T14:47:28.038121"
+    },
     {
       "bron": "Fris",
       "bron_url": "https://fris.nl",
