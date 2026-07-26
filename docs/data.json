@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "26 Jul 2026 om 07:32",
-  "bijgewerkt_iso": "2026-07-26T07:32:37.505308",
+  "bijgewerkt": "26 Jul 2026 om 07:47",
+  "bijgewerkt_iso": "2026-07-26T07:47:47.260217",
   "aantal": 31,
   "nieuw": 0,
   "woningen": [
@@ -11,6 +11,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/6a0a367c/zandstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-15T17:33:01.400205"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Molenbeekstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5c930b6c/molenbeekstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-15T17:33:01.400205"
@@ -311,17 +322,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-23T20:47:42.285868"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Nachtegaalstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2f72f76b/nachtegaalstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-24T14:18:15.829918"
     },
     {
       "bron": "Huurwoningen.nl",
