@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "27 Jul 2026 om 20:02",
-  "bijgewerkt_iso": "2026-07-27T20:02:54.019464",
-  "aantal": 83,
-  "nieuw": 1,
+  "bijgewerkt": "27 Jul 2026 om 20:17",
+  "bijgewerkt_iso": "2026-07-27T20:17:27.020462",
+  "aantal": 82,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ariana Nozemanstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/02511c5d/ariana-nozemanstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-27T20:02:54.019357"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -227,24 +216,13 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Le Tourmalet",
+      "titel": "Huis Piet Mondriaanplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/cbccc8d2/le-tourmalet/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c14eb312/piet-mondriaanplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-07-16T10:47:37.860515"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Le Tourmalet",
-      "prijs": "€ 3.250 per maand",
-      "details": "107 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/27117cd0/le-tourmalet",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-16T13:03:23.927380"
+      "gezien_sinds": "2026-07-15T19:47:29.226965"
     },
     {
       "bron": "Pararius",
@@ -916,6 +894,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-27T17:47:37.507776"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ariana Nozemanstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/02511c5d/ariana-nozemanstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-27T20:02:54.019357"
     }
   ]
 }
