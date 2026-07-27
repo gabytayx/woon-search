@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "27 Jul 2026 om 09:18",
-  "bijgewerkt_iso": "2026-07-27T09:18:53.124477",
-  "aantal": 33,
+  "bijgewerkt": "27 Jul 2026 om 09:32",
+  "bijgewerkt_iso": "2026-07-27T09:32:41.152282",
+  "aantal": 34,
   "nieuw": 0,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Akersingel",
+      "prijs": "€ 2.350 per maand",
+      "details": "87 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b74450e4/akersingel",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-07T18:47:47.152887"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
