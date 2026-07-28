@@ -1,7 +1,19 @@
 {
-  "bijgewerkt": "28 Jul 2026 om 14:33",
-  "bijgewerkt_iso": "2026-07-28T14:33:19.478468",
-  "aantal": 0,
+  "bijgewerkt": "28 Jul 2026 om 14:47",
+  "bijgewerkt_iso": "2026-07-28T14:47:29.197560",
+  "aantal": 1,
   "nieuw": 0,
-  "woningen": []
+  "woningen": [
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-329-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-27T11:47:32.050655"
+    }
+  ]
 }
