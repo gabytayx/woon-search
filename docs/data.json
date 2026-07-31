@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "31 Jul 2026 om 19:33",
-  "bijgewerkt_iso": "2026-07-31T19:33:21.765703",
-  "aantal": 79,
-  "nieuw": 1,
+  "bijgewerkt": "31 Jul 2026 om 19:47",
+  "bijgewerkt_iso": "2026-07-31T19:47:55.439042",
+  "aantal": 80,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement VOC-kade 78",
-      "prijs": "€ 3.500 per maand",
-      "details": "88 m² · 4 kamers · Gestoffeerd of gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/350fd39c/voc-kade",
-      "nieuw": true,
-      "gezien_sinds": "2026-07-31T19:33:21.765616"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -654,6 +643,17 @@
       "gezien_sinds": "2026-07-30T14:32:45.556800"
     },
     {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/deurloostraat-76-1-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-30T17:47:41.829567"
+    },
+    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Jekerstraat",
@@ -872,6 +872,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T19:04:56.321687"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement VOC-kade 78",
+      "prijs": "€ 3.500 per maand",
+      "details": "88 m² · 4 kamers · Gestoffeerd of gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/350fd39c/voc-kade",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-31T19:33:21.765616"
     }
   ]
 }
