@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "01 Aug 2026 om 04:47",
-  "bijgewerkt_iso": "2026-08-01T04:47:27.318112",
+  "bijgewerkt": "01 Aug 2026 om 05:02",
+  "bijgewerkt_iso": "2026-08-01T05:02:44.601901",
   "aantal": 80,
   "nieuw": 0,
   "woningen": [
@@ -287,6 +287,17 @@
       "details": "70 m² · 4 kamers · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c943bd68/onderlangs",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-27T17:47:37.507776"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Onderlangs",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/19d2e7a7/onderlangs/",
+      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-27T17:47:37.507776"
     },
@@ -707,17 +718,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/58a2294f/reyer-anslostraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T08:02:47.581631"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Maasdrielhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6b912ad4/maasdrielhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T08:47:43.874782"
     },
     {
       "bron": "Pararius",
