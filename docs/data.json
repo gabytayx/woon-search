@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "01 Aug 2026 om 06:47",
-  "bijgewerkt_iso": "2026-08-01T06:47:36.067483",
+  "bijgewerkt": "01 Aug 2026 om 07:02",
+  "bijgewerkt_iso": "2026-08-01T07:02:42.316673",
   "aantal": 80,
   "nieuw": 0,
   "woningen": [
@@ -214,6 +214,17 @@
       "gezien_sinds": "2026-07-21T14:47:28.038121"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bilderdijkkade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/edc4a3b0/bilderdijkkade/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-27T02:17:26.932490"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Bilderdijkkade",
@@ -311,17 +322,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-27T20:02:54.019357"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Cabralstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/e635e3c5/cabralstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-28T04:02:48.226434"
     },
     {
       "bron": "Pararius",
