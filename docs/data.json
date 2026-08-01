@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "01 Aug 2026 om 05:17",
-  "bijgewerkt_iso": "2026-08-01T05:17:41.725960",
-  "aantal": 80,
+  "bijgewerkt": "01 Aug 2026 om 05:32",
+  "bijgewerkt_iso": "2026-08-01T05:32:59.917869",
+  "aantal": 79,
   "nieuw": 0,
   "woningen": [
     {
@@ -641,17 +641,6 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/622c388b/pieter-a-van-heijningestraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-30T14:32:45.556800"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/deurloostraat-76-1-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-30T17:47:41.829567"
     },
     {
       "bron": "Huurwoningen.nl",
