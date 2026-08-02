@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "02 Aug 2026 om 14:02",
-  "bijgewerkt_iso": "2026-08-02T14:02:53.318131",
+  "bijgewerkt": "02 Aug 2026 om 14:17",
+  "bijgewerkt_iso": "2026-08-02T14:17:46.251439",
   "aantal": 80,
   "nieuw": 0,
   "woningen": [
@@ -225,6 +225,17 @@
       "gezien_sinds": "2026-07-27T02:17:26.932490"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Anna Blamansingel",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/fa56bc32/anna-blamansingel/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-27T02:17:26.932490"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Bilderdijkkade",
@@ -322,17 +333,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-27T20:02:54.019357"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Cabralstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/e635e3c5/cabralstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-28T04:02:48.226434"
     },
     {
       "bron": "Pararius",
