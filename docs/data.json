@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "02 Aug 2026 om 04:03",
-  "bijgewerkt_iso": "2026-08-02T04:03:06.696845",
+  "bijgewerkt": "02 Aug 2026 om 04:17",
+  "bijgewerkt_iso": "2026-08-02T04:17:37.721691",
   "aantal": 80,
   "nieuw": 0,
   "woningen": [
@@ -293,17 +293,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Onderlangs",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/19d2e7a7/onderlangs/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-27T17:47:37.507776"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Ariana Nozemanstraat",
       "prijs": "",
       "details": "",
@@ -311,6 +300,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-27T20:02:54.019357"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Cabralstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e635e3c5/cabralstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-28T04:02:48.226434"
     },
     {
       "bron": "Pararius",
