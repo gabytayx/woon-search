@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "02 Aug 2026 om 20:56",
-  "bijgewerkt_iso": "2026-08-02T20:56:03.775661",
+  "bijgewerkt": "02 Aug 2026 om 22:07",
+  "bijgewerkt_iso": "2026-08-02T22:07:16.442634",
   "aantal": 80,
   "nieuw": 0,
   "woningen": [
@@ -322,6 +322,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-27T20:02:54.019357"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Cabralstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e635e3c5/cabralstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-28T04:02:48.226434"
     },
     {
       "bron": "Pararius",
@@ -707,17 +718,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/58a2294f/reyer-anslostraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T08:02:47.581631"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Maasdrielhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6b912ad4/maasdrielhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T08:47:43.874782"
     },
     {
       "bron": "Pararius",
