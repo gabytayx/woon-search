@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "03 Aug 2026 om 08:53",
-  "bijgewerkt_iso": "2026-08-03T08:53:02.192663",
+  "bijgewerkt": "03 Aug 2026 om 12:34",
+  "bijgewerkt_iso": "2026-08-03T12:34:12.633138",
   "aantal": 80,
   "nieuw": 0,
   "woningen": [
@@ -214,12 +214,34 @@
       "gezien_sinds": "2026-07-21T14:47:28.038121"
     },
     {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Arubastraat 2",
+      "prijs": "€ 2.900 per maand",
+      "details": "90 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/43f9e39a/arubastraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-26T20:47:40.571004"
+    },
+    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Bilderdijkkade",
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/edc4a3b0/bilderdijkkade/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-27T02:17:26.932490"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Anna Blamansingel",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/fa56bc32/anna-blamansingel/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-27T02:17:26.932490"
@@ -678,17 +700,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Belgiëplein 67",
-      "prijs": "€ 3.200 per maand",
-      "details": "88 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8c704b8f/belgieplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T08:02:47.581631"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Jekerstraat 90 3",
       "prijs": "€ 3.250 per maand",
       "details": "100 m² · 4 kamers · Gestoffeerd",
@@ -707,17 +718,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/58a2294f/reyer-anslostraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T08:02:47.581631"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Maasdrielhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6b912ad4/maasdrielhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T08:47:43.874782"
     },
     {
       "bron": "Pararius",
