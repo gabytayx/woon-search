@@ -1,9 +1,42 @@
 {
-  "bijgewerkt": "03 Aug 2026 om 12:34",
-  "bijgewerkt_iso": "2026-08-03T12:34:12.633138",
+  "bijgewerkt": "03 Aug 2026 om 15:31",
+  "bijgewerkt_iso": "2026-08-03T15:31:00.042974",
   "aantal": 80,
-  "nieuw": 0,
+  "nieuw": 3,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Vrouwengelukhof 49",
+      "prijs": "€ 1.605 per maand",
+      "details": "108 m² · 4 kamers · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1d1757a1/vrouwengelukhof",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-03T15:31:00.042894"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Postjesweg 242",
+      "prijs": "€ 2.850 per maand",
+      "details": "85 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/2b9326b7/postjesweg",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-03T15:31:00.042894"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Vrouwengelukhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2f00ee27/vrouwengelukhof/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-03T15:31:00.042894"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -214,34 +247,12 @@
       "gezien_sinds": "2026-07-21T14:47:28.038121"
     },
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Arubastraat 2",
-      "prijs": "€ 2.900 per maand",
-      "details": "90 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/43f9e39a/arubastraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-26T20:47:40.571004"
-    },
-    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Bilderdijkkade",
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/edc4a3b0/bilderdijkkade/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-27T02:17:26.932490"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Anna Blamansingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/fa56bc32/anna-blamansingel/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-27T02:17:26.932490"
@@ -254,17 +265,6 @@
       "details": "90 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ea829a8b/bilderdijkkade",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-27T04:32:57.671944"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Anna Blamansingel 114",
-      "prijs": "€ 3.300 per maand",
-      "details": "103 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/7b07887f/anna-blamansingel",
       "nieuw": false,
       "gezien_sinds": "2026-07-27T04:32:57.671944"
     },
@@ -811,7 +811,7 @@
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Beethovenstraat",
-      "prijs": "€ 3.950 per maand",
+      "prijs": "€ 3.900 per maandTransparantMeer informatie",
       "details": "210 m² · 7 kamers · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c2652279/beethovenstraat",
