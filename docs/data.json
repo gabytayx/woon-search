@@ -1,41 +1,41 @@
 {
-  "bijgewerkt": "03 Aug 2026 om 15:31",
-  "bijgewerkt_iso": "2026-08-03T15:31:00.042974",
+  "bijgewerkt": "03 Aug 2026 om 18:04",
+  "bijgewerkt_iso": "2026-08-03T18:04:57.723588",
   "aantal": 80,
   "nieuw": 3,
   "woningen": [
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Vrouwengelukhof 49",
-      "prijs": "€ 1.605 per maand",
-      "details": "108 m² · 4 kamers · Kaal",
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bart van der Leckplantsoen",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/7433051c/bart-van-der-leckplantsoen/",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1d1757a1/vrouwengelukhof",
       "nieuw": true,
-      "gezien_sinds": "2026-08-03T15:31:00.042894"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Postjesweg 242",
-      "prijs": "€ 2.850 per maand",
-      "details": "85 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/2b9326b7/postjesweg",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-03T15:31:00.042894"
+      "gezien_sinds": "2026-08-03T18:04:57.723505"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vrouwengelukhof",
+      "titel": "Huis Bernabeuhof",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2f00ee27/vrouwengelukhof/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/0155d190/bernabeuhof/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-03T15:31:00.042894"
+      "gezien_sinds": "2026-08-03T18:04:57.723505"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Linnaeusparkweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1e5f889e/linnaeusparkweg/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-03T18:04:57.723505"
     },
     {
       "bron": "Pararius",
@@ -247,17 +247,6 @@
       "gezien_sinds": "2026-07-21T14:47:28.038121"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bilderdijkkade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/edc4a3b0/bilderdijkkade/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-27T02:17:26.932490"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Bilderdijkkade",
@@ -324,28 +313,6 @@
       "gezien_sinds": "2026-07-27T17:47:37.507776"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Onderlangs",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/19d2e7a7/onderlangs/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-27T17:47:37.507776"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ariana Nozemanstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/02511c5d/ariana-nozemanstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-27T20:02:54.019357"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Huis Binnen Oranjestraat 1",
@@ -355,17 +322,6 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/fcef728b/binnen-oranjestraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-28T10:32:50.554103"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Wiborgeiland",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b0c9c6f1/wiborgeiland/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-28T15:22:02.665899"
     },
     {
       "bron": "Pararius",
@@ -720,6 +676,17 @@
       "gezien_sinds": "2026-07-31T08:02:47.581631"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Maasdrielhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6b912ad4/maasdrielhof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-31T08:47:43.874782"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Fritz Conijnstraat 13 B",
@@ -883,6 +850,39 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/350fd39c/voc-kade",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T19:33:21.765616"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Vrouwengelukhof 49",
+      "prijs": "€ 1.605 per maand",
+      "details": "108 m² · 4 kamers · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1d1757a1/vrouwengelukhof",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-03T15:31:00.042894"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Postjesweg 242",
+      "prijs": "€ 2.850 per maand",
+      "details": "85 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/2b9326b7/postjesweg",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-03T15:31:00.042894"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Vrouwengelukhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2f00ee27/vrouwengelukhof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-03T15:31:00.042894"
     }
   ]
 }
