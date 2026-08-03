@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "03 Aug 2026 om 22:56",
-  "bijgewerkt_iso": "2026-08-03T22:56:21.107681",
+  "bijgewerkt": "03 Aug 2026 om 23:59",
+  "bijgewerkt_iso": "2026-08-03T23:59:53.340443",
   "aantal": 80,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Leeuwendalersweg",
-      "prijs": "€ 2.795 per maand",
-      "details": "115 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/7836f7fd/leeuwendalersweg",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-03T22:56:21.107575"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -293,13 +282,13 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Cabralstraat",
+      "titel": "Appartement Ariana Nozemanstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/e635e3c5/cabralstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/02511c5d/ariana-nozemanstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-07-28T04:02:48.226434"
+      "gezien_sinds": "2026-07-27T20:02:54.019357"
     },
     {
       "bron": "Pararius",
@@ -883,6 +872,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-03T18:04:57.723505"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Leeuwendalersweg",
+      "prijs": "€ 2.795 per maand",
+      "details": "115 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/7836f7fd/leeuwendalersweg",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-03T22:56:21.107575"
     }
   ]
 }
