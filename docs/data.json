@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "04 Aug 2026 om 23:55",
-  "bijgewerkt_iso": "2026-08-04T23:55:30.057692",
+  "bijgewerkt": "05 Aug 2026 om 00:54",
+  "bijgewerkt_iso": "2026-08-05T00:54:02.947839",
   "aantal": 79,
-  "nieuw": 2,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Bijlmerdreef 667",
-      "prijs": "€ 2.650 per maand",
-      "details": "98 m² · 5 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/90a13eb9/bijlmerdreef",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-04T23:55:30.057599"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bijlmerdreef",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/09c5415a/bijlmerdreef/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-04T23:55:30.057599"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -872,6 +850,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-04T19:21:54.958161"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Bijlmerdreef 667",
+      "prijs": "€ 2.650 per maand",
+      "details": "98 m² · 5 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/90a13eb9/bijlmerdreef",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-04T23:55:30.057599"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bijlmerdreef",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/09c5415a/bijlmerdreef/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-04T23:55:30.057599"
     }
   ]
 }
