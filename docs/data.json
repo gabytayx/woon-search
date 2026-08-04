@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "04 Aug 2026 om 02:07",
-  "bijgewerkt_iso": "2026-08-04T02:07:04.987068",
+  "bijgewerkt": "04 Aug 2026 om 05:35",
+  "bijgewerkt_iso": "2026-08-04T05:35:40.657513",
   "aantal": 80,
   "nieuw": 0,
   "woningen": [
@@ -269,6 +269,17 @@
       "gezien_sinds": "2026-07-27T17:47:37.507776"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ariana Nozemanstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/02511c5d/ariana-nozemanstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-27T20:02:54.019357"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Huis Binnen Oranjestraat 1",
@@ -319,17 +330,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/a935b3ca/steenderenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-28T19:10:07.084754"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bijlmerdreef",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b21b5b09/bijlmerdreef/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-28T19:10:07.084754"
