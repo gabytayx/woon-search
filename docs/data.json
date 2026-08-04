@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "04 Aug 2026 om 00:59",
-  "bijgewerkt_iso": "2026-08-04T00:59:43.907527",
+  "bijgewerkt": "04 Aug 2026 om 02:07",
+  "bijgewerkt_iso": "2026-08-04T02:07:04.987068",
   "aantal": 80,
-  "nieuw": 2,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Van Heenvlietlaan",
-      "prijs": "€ 2.775 per maandTransparantMeer informatie",
-      "details": "105 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/87f534c5/van-heenvlietlaan",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-04T00:59:43.907428"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Van Heenvlietlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/29bcf01b/van-heenvlietlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-04T00:59:43.907428"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -883,6 +861,28 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/7836f7fd/leeuwendalersweg",
       "nieuw": false,
       "gezien_sinds": "2026-08-03T22:56:21.107575"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Van Heenvlietlaan",
+      "prijs": "€ 2.775 per maandTransparantMeer informatie",
+      "details": "105 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/87f534c5/van-heenvlietlaan",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-04T00:59:43.907428"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Heenvlietlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/29bcf01b/van-heenvlietlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-04T00:59:43.907428"
     }
   ]
 }
