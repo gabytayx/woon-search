@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "04 Aug 2026 om 08:16",
-  "bijgewerkt_iso": "2026-08-04T08:16:22.884495",
+  "bijgewerkt": "04 Aug 2026 om 11:09",
+  "bijgewerkt_iso": "2026-08-04T11:09:48.412034",
   "aantal": 80,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Derkinderenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0f1b6c0/derkinderenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-04T08:16:22.884407"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -223,6 +212,17 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/17e78dfb/waddendijk",
       "nieuw": false,
       "gezien_sinds": "2026-07-21T14:47:28.038121"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bilderdijkkade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/edc4a3b0/bilderdijkkade/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-27T02:17:26.932490"
     },
     {
       "bron": "Pararius",
@@ -520,17 +520,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-30T00:47:38.580254"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement David Ricardostraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b2668248/david-ricardostraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-30T06:28:53.097144"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -883,6 +872,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-04T00:59:43.907428"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Derkinderenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0f1b6c0/derkinderenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-04T08:16:22.884407"
     }
   ]
 }
