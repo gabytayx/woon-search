@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "05 Aug 2026 om 21:38",
-  "bijgewerkt_iso": "2026-08-05T21:38:24.885204",
+  "bijgewerkt": "05 Aug 2026 om 22:48",
+  "bijgewerkt_iso": "2026-08-05T22:48:08.075163",
   "aantal": 79,
   "nieuw": 0,
   "woningen": [
@@ -280,6 +280,17 @@
       "gezien_sinds": "2026-07-30T17:47:41.829567"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Lorentzlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1ba7c020/lorentzlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-31T04:32:52.623993"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Jekerstraat 90 3",
@@ -363,17 +374,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/cb9b4065/formosastraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T16:17:30.317142"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement George Gershwinlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1f249e16/george-gershwinlaan/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T16:17:30.317142"
