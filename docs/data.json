@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "05 Aug 2026 om 16:44",
-  "bijgewerkt_iso": "2026-08-05T16:44:22.541772",
+  "bijgewerkt": "05 Aug 2026 om 18:22",
+  "bijgewerkt_iso": "2026-08-05T18:22:36.876386",
   "aantal": 79,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Nieuwe Uilenburgerstraat 48 A",
-      "prijs": "€ 2.650 per maand",
-      "details": "114 m² · 5 kamers · 1927",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/aa8adf4e/nieuwe-uilenburgerstraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-05T16:44:22.541666"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -872,6 +861,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-05T14:20:06.400108"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Nieuwe Uilenburgerstraat 48 A",
+      "prijs": "€ 2.650 per maand",
+      "details": "114 m² · 5 kamers · 1927",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/aa8adf4e/nieuwe-uilenburgerstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-05T16:44:22.541666"
     }
   ]
 }
