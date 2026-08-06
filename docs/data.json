@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "06 Aug 2026 om 01:18",
-  "bijgewerkt_iso": "2026-08-06T01:18:32.146244",
+  "bijgewerkt": "06 Aug 2026 om 02:16",
+  "bijgewerkt_iso": "2026-08-06T02:16:55.911807",
   "aantal": 79,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Kromme Leimuidenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4257063f/kromme-leimuidenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-06T02:16:55.911718"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -278,17 +289,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-30T17:47:41.829567"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Lorentzlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1ba7c020/lorentzlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T04:32:52.623993"
     },
     {
       "bron": "Pararius",
