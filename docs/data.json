@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "06 Aug 2026 om 02:16",
-  "bijgewerkt_iso": "2026-08-06T02:16:55.911807",
+  "bijgewerkt": "06 Aug 2026 om 05:41",
+  "bijgewerkt_iso": "2026-08-06T05:41:17.080924",
   "aantal": 79,
   "nieuw": 1,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kromme Leimuidenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4257063f/kromme-leimuidenstraat/",
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Kromme Leimuidenstraat 4 2",
+      "prijs": "€ 3.500 per maand",
+      "details": "105 m² · 5 kamers · 1930",
       "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6684a947/kromme-leimuidenstraat",
       "nieuw": true,
-      "gezien_sinds": "2026-08-06T02:16:55.911718"
+      "gezien_sinds": "2026-08-06T05:41:17.080838"
     },
     {
       "bron": "Pararius",
@@ -243,17 +243,6 @@
       "details": "131 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b675a598/onstein",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-29T16:18:21.917441"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Danie Theronstraat 8 A",
-      "prijs": "€ 3.600 per maand",
-      "details": "105 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/dde39234/danie-theronstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-29T16:18:21.917441"
     },
@@ -872,6 +861,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/aa8adf4e/nieuwe-uilenburgerstraat",
       "nieuw": false,
       "gezien_sinds": "2026-08-05T16:44:22.541666"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Kromme Leimuidenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4257063f/kromme-leimuidenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-06T02:16:55.911718"
     }
   ]
 }
