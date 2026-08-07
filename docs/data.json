@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "08 Aug 2026 om 00:08",
-  "bijgewerkt_iso": "2026-08-08T00:08:06.851814",
+  "bijgewerkt": "08 Aug 2026 om 00:55",
+  "bijgewerkt_iso": "2026-08-08T00:55:09.498969",
   "aantal": 79,
   "nieuw": 0,
   "woningen": [
@@ -234,6 +234,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/71d89e7e/hartenstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-29T20:32:54.201087"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Jekerstraat 90 3",
+      "prijs": "€ 3.250 per maand",
+      "details": "100 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/09eead64/jekerstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-31T08:02:47.581631"
     },
     {
       "bron": "Pararius",
@@ -487,17 +498,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-04T17:44:57.939741"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Ertskade 254",
-      "prijs": "€ 3.450 per maand",
-      "details": "127 m² · 4 kamers · 2018",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/3fdf7110/ertskade",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T19:21:54.958161"
     },
     {
       "bron": "Huurwoningen.nl",
