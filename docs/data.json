@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "07 Aug 2026 om 15:37",
-  "bijgewerkt_iso": "2026-08-07T15:37:19.855478",
+  "bijgewerkt": "07 Aug 2026 om 16:40",
+  "bijgewerkt_iso": "2026-08-07T16:40:11.562935",
   "aantal": 79,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Hammarbystraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/01f137f8/hammarbystraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-07T16:40:11.562842"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -286,17 +297,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/cb9b4065/formosastraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T16:17:30.317142"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement George Gershwinlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1f249e16/george-gershwinlaan/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T16:17:30.317142"
