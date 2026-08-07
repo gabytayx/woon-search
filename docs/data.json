@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "07 Aug 2026 om 13:32",
-  "bijgewerkt_iso": "2026-08-07T13:32:09.238683",
+  "bijgewerkt": "07 Aug 2026 om 14:11",
+  "bijgewerkt_iso": "2026-08-07T14:11:49.161519",
   "aantal": 79,
   "nieuw": 0,
   "woningen": [
@@ -291,6 +291,17 @@
       "gezien_sinds": "2026-07-31T16:17:30.317142"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement George Gershwinlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1f249e16/george-gershwinlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-31T16:17:30.317142"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Beethovenstraat",
@@ -333,17 +344,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8b32f4c9/weissenbruchstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T18:02:57.360995"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Beethovenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f068b04b/beethovenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T19:04:56.321687"
     },
     {
       "bron": "Huurwoningen.nl",
