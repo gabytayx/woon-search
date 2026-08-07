@@ -1,19 +1,30 @@
 {
-  "bijgewerkt": "07 Aug 2026 om 08:42",
-  "bijgewerkt_iso": "2026-08-07T08:42:13.327313",
-  "aantal": 79,
-  "nieuw": 1,
+  "bijgewerkt": "07 Aug 2026 om 09:58",
+  "bijgewerkt_iso": "2026-08-07T09:58:44.181093",
+  "aantal": 78,
+  "nieuw": 2,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Ilperveldstraat 135",
-      "prijs": "€ 2.995 per maand",
-      "details": "95 m² · 4 kamers · Gemeubileerd",
+      "titel": "Appartement Valentijnkade",
+      "prijs": "€ 2.850 per maand",
+      "details": "57 m² · 4 kamers · Gestoffeerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/35acb25f/ilperveldstraat",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/d716d2d3/valentijnkade",
       "nieuw": true,
-      "gezien_sinds": "2026-08-07T08:42:13.327188"
+      "gezien_sinds": "2026-08-07T09:58:44.181010"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Valentijnkade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6a3cdab0/valentijnkade/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-07T09:58:44.181010"
     },
     {
       "bron": "Pararius",
@@ -249,17 +260,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Reyer Anslostraat 9 H",
-      "prijs": "€ 3.500 per maand",
-      "details": "110 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/58a2294f/reyer-anslostraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T08:02:47.581631"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Fritz Conijnstraat 13 B",
       "prijs": "€ 2.850 per maand",
       "details": "78 m² · 4 kamers · Gestoffeerd",
@@ -319,17 +319,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/1f249e16/george-gershwinlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T16:17:30.317142"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Arubastraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b4e5ee8a/arubastraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T16:17:30.317142"
@@ -810,17 +799,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Akbarstraat",
-      "prijs": "€ 3.650 per maand",
-      "details": "111 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/da6d7e27/akbarstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T17:40:43.378202"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Hoofddorpplein 22 1",
       "prijs": "€ 2.395 per maand",
       "details": "62 m² · 4 kamers · Gestoffeerd",
@@ -872,6 +850,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-07T02:37:55.051481"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Ilperveldstraat 135",
+      "prijs": "€ 2.995 per maand",
+      "details": "95 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/35acb25f/ilperveldstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-07T08:42:13.327188"
     }
   ]
 }
