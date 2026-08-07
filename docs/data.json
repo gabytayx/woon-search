@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "07 Aug 2026 om 07:23",
-  "bijgewerkt_iso": "2026-08-07T07:23:24.567309",
-  "aantal": 78,
-  "nieuw": 0,
+  "bijgewerkt": "07 Aug 2026 om 08:42",
+  "bijgewerkt_iso": "2026-08-07T08:42:13.327313",
+  "aantal": 79,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Ilperveldstraat 135",
+      "prijs": "€ 2.995 per maand",
+      "details": "95 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/35acb25f/ilperveldstraat",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-07T08:42:13.327188"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -150,6 +161,17 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Elandsstraat",
+      "prijs": "€ 3.500 per maand",
+      "details": "87 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/53796b07/elandsstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-17T18:02:40.028210"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
       "titel": "Huis Iwan Kantemanplein",
       "prijs": "€ 3.500 per maand",
       "details": "188 m² · 5 kamers · Gestoffeerd of gemeubileerd",
@@ -201,17 +223,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/71d89e7e/hartenstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-29T20:32:54.201087"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Pieter A. van Heijningestraat 3",
-      "prijs": "€ 2.350 per maand",
-      "details": "98 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/622c388b/pieter-a-van-heijningestraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-30T14:32:45.556800"
     },
     {
       "bron": "Fris",
