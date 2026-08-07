@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "07 Aug 2026 om 16:40",
-  "bijgewerkt_iso": "2026-08-07T16:40:11.562935",
+  "bijgewerkt": "07 Aug 2026 om 17:35",
+  "bijgewerkt_iso": "2026-08-07T17:35:43.205160",
   "aantal": 79,
   "nieuw": 1,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Hammarbystraat",
-      "prijs": "",
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/01f137f8/hammarbystraat/",
+      "link": "https://fris.nl/volledige-woningaanbod/kinderdijkstraat-18-1-amsterdam/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-07T16:40:11.562842"
+      "gezien_sinds": "2026-08-07T17:35:43.205062"
     },
     {
       "bron": "Pararius",
@@ -223,17 +223,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/71d89e7e/hartenstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-29T20:32:54.201087"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/deurloostraat-76-1-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-30T17:47:41.829567"
     },
     {
       "bron": "Pararius",
@@ -872,6 +861,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-07T10:53:32.683231"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Hammarbystraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/01f137f8/hammarbystraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-07T16:40:11.562842"
     }
   ]
 }
