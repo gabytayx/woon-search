@@ -1,41 +1,41 @@
 {
-  "bijgewerkt": "06 Aug 2026 om 17:40",
-  "bijgewerkt_iso": "2026-08-06T17:40:43.378296",
-  "aantal": 77,
+  "bijgewerkt": "07 Aug 2026 om 02:37",
+  "bijgewerkt_iso": "2026-08-07T02:37:55.051560",
+  "aantal": 78,
   "nieuw": 3,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Akbarstraat",
-      "prijs": "€ 3.650 per maand",
-      "details": "111 m² · 4 kamers · Gemeubileerd",
+      "titel": "Appartement Carolina MacGillavrylaan",
+      "prijs": "€ 2.995 per maand",
+      "details": "150 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/da6d7e27/akbarstraat",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/9e7bbdc7/carolina-macgillavrylaan",
       "nieuw": true,
-      "gezien_sinds": "2026-08-06T17:40:43.378202"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Hoofddorpplein 22 1",
-      "prijs": "€ 2.395 per maand",
-      "details": "62 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1d3ac8b7/hoofddorpplein",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-06T17:40:43.378202"
+      "gezien_sinds": "2026-08-07T02:37:55.051481"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Hoofddorpplein",
+      "titel": "Appartement Ilperveldstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ca526b54/hoofddorpplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c1f59f7f/ilperveldstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-06T17:40:43.378202"
+      "gezien_sinds": "2026-08-07T02:37:55.051481"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Amstelvlietstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5b3b0e8a/amstelvlietstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-07T02:37:55.051481"
     },
     {
       "bron": "Pararius",
@@ -258,15 +258,15 @@
       "gezien_sinds": "2026-07-30T14:32:45.556800"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Lorentzlaan",
-      "prijs": "",
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1ba7c020/lorentzlaan/",
+      "link": "https://fris.nl/volledige-woningaanbod/deurloostraat-76-1-amsterdam/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-07-31T04:32:52.623993"
+      "gezien_sinds": "2026-07-30T17:47:41.829567"
     },
     {
       "bron": "Pararius",
@@ -300,17 +300,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/518e9c27/fritz-conijnstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T10:03:03.271183"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Linnaeushof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/702bb593/linnaeushof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T13:03:35.882795"
     },
     {
       "bron": "Pararius",
@@ -850,6 +839,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-06T15:18:17.681257"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Hoofddorpplein 22 1",
+      "prijs": "€ 2.395 per maand",
+      "details": "62 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1d3ac8b7/hoofddorpplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-06T17:40:43.378202"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Hoofddorpplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ca526b54/hoofddorpplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-06T17:40:43.378202"
     }
   ]
 }
