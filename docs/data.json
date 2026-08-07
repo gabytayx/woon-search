@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "07 Aug 2026 om 21:30",
-  "bijgewerkt_iso": "2026-08-07T21:30:13.687712",
+  "bijgewerkt": "07 Aug 2026 om 22:07",
+  "bijgewerkt_iso": "2026-08-07T22:07:03.465137",
   "aantal": 79,
   "nieuw": 0,
   "woningen": [
@@ -80,6 +80,28 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/22d45c94/werkhovenstraat",
       "nieuw": false,
       "gezien_sinds": "2026-06-25T11:25:08.381783"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Minervalaan",
+      "prijs": "Prijs op aanvraag",
+      "details": "135 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/24691d6f/minervalaan",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T18:47:30.482367"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Minervalaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/61ee5222/minervalaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-03T18:47:30.482367"
     },
     {
       "bron": "Pararius",
@@ -216,17 +238,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Jekerstraat 90 3",
-      "prijs": "€ 3.250 per maand",
-      "details": "100 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/09eead64/jekerstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T08:02:47.581631"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Fritz Conijnstraat 13 B",
       "prijs": "€ 2.850 per maand",
       "details": "78 m² · 4 kamers · Gestoffeerd",
@@ -264,17 +275,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/805a42f6/voc-kade/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T16:17:30.317142"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Formosastraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/cb9b4065/formosastraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T16:17:30.317142"
