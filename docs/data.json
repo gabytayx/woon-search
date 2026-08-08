@@ -1,9 +1,31 @@
 {
-  "bijgewerkt": "08 Aug 2026 om 07:56",
-  "bijgewerkt_iso": "2026-08-08T07:56:30.785675",
+  "bijgewerkt": "08 Aug 2026 om 08:35",
+  "bijgewerkt_iso": "2026-08-08T08:35:35.095138",
   "aantal": 79,
-  "nieuw": 0,
+  "nieuw": 2,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Onstein",
+      "prijs": "€ 4.000 per maand",
+      "details": "131 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f79a4b3b/onstein",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-08T08:35:35.095062"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Onstein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/a6fee56d/onstein/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-08T08:35:35.095062"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -238,17 +260,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Jekerstraat 90 3",
-      "prijs": "€ 3.250 per maand",
-      "details": "100 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/09eead64/jekerstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T08:02:47.581631"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Fritz Conijnstraat 13 B",
       "prijs": "€ 2.850 per maand",
       "details": "78 m² · 4 kamers · Gestoffeerd",
@@ -278,17 +289,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bf35c2ce/linnaeushof",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T16:02:45.801831"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement VOC-kade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/805a42f6/voc-kade/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T16:17:30.317142"
     },
     {
       "bron": "Pararius",
