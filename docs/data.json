@@ -1,64 +1,9 @@
 {
-  "bijgewerkt": "09 Aug 2026 om 04:59",
-  "bijgewerkt_iso": "2026-08-09T04:59:34.353870",
-  "aantal": 77,
+  "bijgewerkt": "09 Aug 2026 om 06:15",
+  "bijgewerkt_iso": "2026-08-09T06:15:08.034070",
+  "aantal": 34,
   "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Herman Poortstraat 5",
-      "prijs": "€ 2.950 per maand",
-      "details": "90 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/c263a01b/herman-poortstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis H. Stolleplantsoen 59",
-      "prijs": "€ 3.950 per maand",
-      "details": "170 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/c728c709/h-stolleplantsoen",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Vleutenstraat",
-      "prijs": "€ 2.100 per maand",
-      "details": "101 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f60e278e/vleutenstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Narva-eiland 209",
-      "prijs": "€ 3.800 per maand",
-      "details": "127 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/0db8123f/narva-eiland",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Dickenslaan",
-      "prijs": "€ 3.000 per maand",
-      "details": "71 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b0d0b6b0/dickenslaan",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
     {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
@@ -73,17 +18,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Werkhovenstraat",
-      "prijs": "Prijs op aanvraag",
-      "details": "107 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/22d45c94/werkhovenstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-25T11:25:08.381783"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Minervalaan",
       "prijs": "Prijs op aanvraag",
       "details": "135 m² · 4 kamers · Gestoffeerd",
@@ -91,61 +25,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/24691d6f/minervalaan",
       "nieuw": false,
       "gezien_sinds": "2026-07-03T18:47:30.482367"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Minervalaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/61ee5222/minervalaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-03T18:47:30.482367"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Apollolaan",
-      "prijs": "€ 3.950 per maand",
-      "details": "179 m² · 5 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b81aa0b6/apollolaan",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-03T19:47:15.390907"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Koningin Wilhelminaplein",
-      "prijs": "€ 3.850 per maand",
-      "details": "105 m² · 5 kamers · Gestoffeerd of gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1611b54a/koningin-wilhelminaplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-07T10:47:33.860826"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Schellingwouderdijk",
-      "prijs": "€ 3.950 per maand",
-      "details": "150 m² · 5 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/57258b3f/schellingwouderdijk",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-13T01:17:28.955192"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Linnaeusstraat 97 H",
-      "prijs": "€ 3.600 per maand",
-      "details": "145 m² · 5 kamers · 55 m²",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/61670345/linnaeusstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-13T10:03:46.201608"
     },
     {
       "bron": "Pararius",
@@ -161,28 +40,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Hoofdweg",
-      "prijs": "€ 2.700 per maandTransparantMeer informatie",
-      "details": "130 m² · 5 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e39a060e/hoofdweg",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-17T06:47:26.830612"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Iwan Kantemanplein",
-      "prijs": "€ 3.500 per maand",
-      "details": "188 m² · 5 kamers · Gestoffeerd of gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/d7e01083/iwan-kantemanplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-20T20:32:46.140612"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Huis Waddendijk 3",
       "prijs": "€ 2.725 per maand",
       "details": "144 m² · 6 kamers · 1931",
@@ -190,39 +47,6 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/17e78dfb/waddendijk",
       "nieuw": false,
       "gezien_sinds": "2026-07-21T14:47:28.038121"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Burgemeester Hogguerstraat 737",
-      "prijs": "€ 2.600 per maand",
-      "details": "100 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b34507bb/burgemeester-hogguerstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-27T17:47:37.507776"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Delle Alpihof 26",
-      "prijs": "€ 3.000 per maand",
-      "details": "126 m² · 5 kamers · Gestoffeerd of gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/d84deff5/delle-alpihof",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-29T10:47:52.136411"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Hartenstraat",
-      "prijs": "€ 3.250 per maand",
-      "details": "116 m² · 5 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/71d89e7e/hartenstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-29T20:32:54.201087"
     },
     {
       "bron": "Pararius",
@@ -291,17 +115,6 @@
       "gezien_sinds": "2026-07-31T18:02:57.360995"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Willem Parelstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5e3a0f56/willem-parelstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T19:04:56.321687"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement VOC-kade 78",
@@ -335,28 +148,6 @@
       "gezien_sinds": "2026-08-03T15:31:00.042894"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vrouwengelukhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2f00ee27/vrouwengelukhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-03T15:31:00.042894"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bart van der Leckplantsoen",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/7433051c/bart-van-der-leckplantsoen/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-03T18:04:57.723505"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Leeuwendalersweg",
@@ -379,28 +170,6 @@
       "gezien_sinds": "2026-08-04T00:59:43.907428"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Van Heenvlietlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/29bcf01b/van-heenvlietlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T00:59:43.907428"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Derkinderenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0f1b6c0/derkinderenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T08:16:22.884407"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Jisperveldstraat",
@@ -408,28 +177,6 @@
       "details": "84 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/2a13653e/jisperveldstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T15:23:35.551902"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Jisperveldstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5bdad9e7/jisperveldstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T15:23:35.551902"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Bercylaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f3128853/bercylaan/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-04T15:23:35.551902"
     },
@@ -445,17 +192,6 @@
       "gezien_sinds": "2026-08-04T17:44:57.939741"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Delflandplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/365a0179/delflandplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T17:44:57.939741"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Huis Ertskade 254",
@@ -467,17 +203,6 @@
       "gezien_sinds": "2026-08-04T19:21:54.958161"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Ertskade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/be45a37d/ertskade/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T19:21:54.958161"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Bijlmerdreef 667",
@@ -485,17 +210,6 @@
       "details": "98 m² · 5 kamers · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/90a13eb9/bijlmerdreef",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T23:55:30.057599"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bijlmerdreef",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/09c5415a/bijlmerdreef/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-04T23:55:30.057599"
     },
@@ -522,28 +236,6 @@
       "gezien_sinds": "2026-08-05T09:33:58.904569"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Beursstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6ad3d028/beursstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T09:33:58.904569"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Reinwardtstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/0e000b8e/reinwardtstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T09:33:58.904569"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Cornelis Schuytstraat 44 2",
@@ -551,39 +243,6 @@
       "details": "90 m² · 5 kamers · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/5593ec2f/cornelis-schuytstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T12:16:40.690396"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Sarphatistraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3ba99c2d/sarphatistraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T12:16:40.690396"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Tweede Hugo de Grootstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3bd85a84/tweede-hugo-de-grootstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T12:16:40.690396"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Cornelis Schuytstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/62e2e4bf/cornelis-schuytstraat/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-05T12:16:40.690396"
     },
@@ -610,28 +269,6 @@
       "gezien_sinds": "2026-08-05T14:20:06.400108"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Leen Jongewaardkade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3b3d81be/leen-jongewaardkade/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T14:20:06.400108"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Milletstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a40982c2/milletstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T14:20:06.400108"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Nieuwe Uilenburgerstraat 48 A",
@@ -641,17 +278,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/aa8adf4e/nieuwe-uilenburgerstraat",
       "nieuw": false,
       "gezien_sinds": "2026-08-05T16:44:22.541666"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kromme Leimuidenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4257063f/kromme-leimuidenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T02:16:55.911718"
     },
     {
       "bron": "Pararius",
@@ -676,39 +302,6 @@
       "gezien_sinds": "2026-08-06T13:32:51.501771"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Pieter Aertszstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ebb31328/pieter-aertszstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T13:32:51.501771"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Daguerrestraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/15a1ac3e/daguerrestraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T15:18:17.681257"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Céramiquelaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/79a8ec16/ceramiquelaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T15:18:17.681257"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Huis Akbarstraat",
@@ -731,17 +324,6 @@
       "gezien_sinds": "2026-08-06T17:40:43.378202"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Hoofddorpplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ca526b54/hoofddorpplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T17:40:43.378202"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Carolina MacGillavrylaan",
@@ -749,28 +331,6 @@
       "details": "150 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/9e7bbdc7/carolina-macgillavrylaan",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-07T02:37:55.051481"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ilperveldstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/c1f59f7f/ilperveldstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-07T02:37:55.051481"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Amstelvlietstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5b3b0e8a/amstelvlietstraat/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-07T02:37:55.051481"
     },
@@ -797,37 +357,15 @@
       "gezien_sinds": "2026-08-07T09:58:44.181010"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Valentijnkade",
-      "prijs": "",
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6a3cdab0/valentijnkade/",
+      "link": "https://fris.nl/volledige-woningaanbod/kinderdijkstraat-18-1-amsterdam/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-08-07T09:58:44.181010"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Henri Dunantstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b7734a1e/henri-dunantstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-07T10:53:32.683231"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Hammarbystraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/01f137f8/hammarbystraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-07T16:40:11.562842"
+      "gezien_sinds": "2026-08-07T17:35:43.205062"
     },
     {
       "bron": "Pararius",
@@ -837,17 +375,6 @@
       "details": "131 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f79a4b3b/onstein",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-08T08:35:35.095062"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Onstein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a6fee56d/onstein/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-08T08:35:35.095062"
     }
