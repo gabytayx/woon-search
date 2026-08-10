@@ -1,19 +1,30 @@
 {
-  "bijgewerkt": "10 Aug 2026 om 15:58",
-  "bijgewerkt_iso": "2026-08-10T15:58:26.522469",
+  "bijgewerkt": "10 Aug 2026 om 16:53",
+  "bijgewerkt_iso": "2026-08-10T16:53:40.177693",
   "aantal": 78,
-  "nieuw": 1,
+  "nieuw": 2,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Rhijnvis Feithstraat 28 B",
-      "prijs": "€ 3.750 per maand",
-      "details": "135 m² · 4 kamers · Gemeubileerd",
+      "titel": "Appartement Eerste Helmersstraat 210 H",
+      "prijs": "€ 4.000 per maand",
+      "details": "98 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0e41e50c/rhijnvis-feithstraat",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/9f4e14b3/eerste-helmersstraat",
       "nieuw": true,
-      "gezien_sinds": "2026-08-10T15:58:26.522371"
+      "gezien_sinds": "2026-08-10T16:53:40.177588"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Eerste Helmersstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/3ef8a9f1/eerste-helmersstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-10T16:53:40.177588"
     },
     {
       "bron": "Pararius",
@@ -223,28 +234,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/325e819d/formosastraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T16:02:45.801831"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Linnaeushof 34 2",
-      "prijs": "€ 2.950 per maand",
-      "details": "113 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bf35c2ce/linnaeushof",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T16:02:45.801831"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement VOC-kade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/805a42f6/voc-kade/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T16:17:30.317142"
     },
     {
       "bron": "Pararius",
@@ -861,6 +850,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-10T11:47:00.976538"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Rhijnvis Feithstraat 28 B",
+      "prijs": "€ 3.750 per maand",
+      "details": "135 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0e41e50c/rhijnvis-feithstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-10T15:58:26.522371"
     }
   ]
 }
