@@ -1,30 +1,19 @@
 {
-  "bijgewerkt": "10 Aug 2026 om 16:53",
-  "bijgewerkt_iso": "2026-08-10T16:53:40.177693",
+  "bijgewerkt": "10 Aug 2026 om 17:51",
+  "bijgewerkt_iso": "2026-08-10T17:51:31.461580",
   "aantal": 78,
-  "nieuw": 2,
+  "nieuw": 1,
   "woningen": [
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Eerste Helmersstraat 210 H",
-      "prijs": "€ 4.000 per maand",
-      "details": "98 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/9f4e14b3/eerste-helmersstraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-10T16:53:40.177588"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Eerste Helmersstraat",
-      "prijs": "",
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3ef8a9f1/eerste-helmersstraat/",
+      "link": "https://fris.nl/volledige-woningaanbod/elzenhagensingel-220-amsterdam/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-10T16:53:40.177588"
+      "gezien_sinds": "2026-08-10T17:51:31.461466"
     },
     {
       "bron": "Pararius",
@@ -236,6 +225,17 @@
       "gezien_sinds": "2026-07-31T16:02:45.801831"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement VOC-kade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/805a42f6/voc-kade/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-31T16:17:30.317142"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Beethovenstraat",
@@ -377,17 +377,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-04T00:59:43.907428"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Derkinderenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0f1b6c0/derkinderenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T08:16:22.884407"
     },
     {
       "bron": "Pararius",
@@ -808,17 +797,6 @@
       "gezien_sinds": "2026-08-07T16:40:11.562842"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/kinderdijkstraat-18-1-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-07T17:35:43.205062"
-    },
-    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Onstein",
@@ -861,6 +839,28 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0e41e50c/rhijnvis-feithstraat",
       "nieuw": false,
       "gezien_sinds": "2026-08-10T15:58:26.522371"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Eerste Helmersstraat 210 H",
+      "prijs": "€ 4.000 per maand",
+      "details": "98 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/9f4e14b3/eerste-helmersstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-10T16:53:40.177588"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Eerste Helmersstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/3ef8a9f1/eerste-helmersstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-10T16:53:40.177588"
     }
   ]
 }
