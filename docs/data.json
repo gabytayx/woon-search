@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "10 Aug 2026 om 18:44",
-  "bijgewerkt_iso": "2026-08-10T18:44:01.501864",
+  "bijgewerkt": "10 Aug 2026 om 19:36",
+  "bijgewerkt_iso": "2026-08-10T19:36:29.594276",
   "aantal": 78,
-  "nieuw": 2,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elzenhagensingel 220",
-      "prijs": "€ 2.626 per maand",
-      "details": "110 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bc402460/elzenhagensingel",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-10T18:44:01.501778"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elzenhagensingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6496f4e2/elzenhagensingel/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-10T18:44:01.501778"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -861,6 +839,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-10T17:51:31.461466"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Elzenhagensingel 220",
+      "prijs": "€ 2.626 per maand",
+      "details": "110 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bc402460/elzenhagensingel",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-10T18:44:01.501778"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elzenhagensingel",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6496f4e2/elzenhagensingel/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-10T18:44:01.501778"
     }
   ]
 }
