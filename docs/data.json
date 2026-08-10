@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "10 Aug 2026 om 11:47",
-  "bijgewerkt_iso": "2026-08-10T11:47:00.976653",
+  "bijgewerkt": "10 Aug 2026 om 12:49",
+  "bijgewerkt_iso": "2026-08-10T12:49:31.740163",
   "aantal": 78,
-  "nieuw": 2,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Marcusstraat",
-      "prijs": "€ 3.950 per maand",
-      "details": "117 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f7dc67d9/marcusstraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-10T11:47:00.976538"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Marcusstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/16e74fd0/marcusstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-10T11:47:00.976538"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -245,6 +223,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bf35c2ce/linnaeushof",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T16:02:45.801831"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement VOC-kade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/805a42f6/voc-kade/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-31T16:17:30.317142"
     },
     {
       "bron": "Pararius",
@@ -689,17 +678,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Daguerrestraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/15a1ac3e/daguerrestraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T15:18:17.681257"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Céramiquelaan",
       "prijs": "",
       "details": "",
@@ -861,6 +839,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-08T08:35:35.095062"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Marcusstraat",
+      "prijs": "€ 3.950 per maand",
+      "details": "117 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f7dc67d9/marcusstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-10T11:47:00.976538"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Marcusstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/16e74fd0/marcusstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-10T11:47:00.976538"
     }
   ]
 }
