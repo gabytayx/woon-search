@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "10 Aug 2026 om 14:32",
-  "bijgewerkt_iso": "2026-08-10T14:32:32.030449",
+  "bijgewerkt": "10 Aug 2026 om 15:58",
+  "bijgewerkt_iso": "2026-08-10T15:58:26.522469",
   "aantal": 78,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Rhijnvis Feithstraat 28 B",
+      "prijs": "€ 3.750 per maand",
+      "details": "135 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0e41e50c/rhijnvis-feithstraat",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-10T15:58:26.522371"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -448,7 +459,7 @@
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Huis Ertskade 254",
-      "prijs": "€ 3.450 per maand",
+      "prijs": "€ 3.350 per maand",
       "details": "127 m² · 4 kamers · 2018",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/3fdf7110/ertskade",
@@ -817,17 +828,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-07T17:35:43.205062"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Onstein",
-      "prijs": "€ 4.000 per maand",
-      "details": "131 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f79a4b3b/onstein",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-08T08:35:35.095062"
     },
     {
       "bron": "Huurwoningen.nl",
