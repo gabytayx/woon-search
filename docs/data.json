@@ -1,64 +1,9 @@
 {
-  "bijgewerkt": "11 Aug 2026 om 17:38",
-  "bijgewerkt_iso": "2026-08-11T17:38:22.790177",
+  "bijgewerkt": "11 Aug 2026 om 18:34",
+  "bijgewerkt_iso": "2026-08-11T18:34:13.031986",
   "aantal": 77,
-  "nieuw": 5,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Van Oldenbarneveldtplein 6 4",
-      "prijs": "€ 3.250 per maand",
-      "details": "120 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a51b7410/van-oldenbarneveldtplein",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-11T17:38:22.790068"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Bellamystraat",
-      "prijs": "€ 3.750 per maand",
-      "details": "178 m² · 5 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/775d98dc/bellamystraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-11T17:38:22.790068"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Emmy Andriessestraat 582",
-      "prijs": "€ 3.797 per maand",
-      "details": "185 m² · 5 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/d9d8d87e/emmy-andriessestraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-11T17:38:22.790068"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bellamystraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/cb64ea68/bellamystraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-11T17:38:22.790068"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Carolina MacGillavrylaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/9dfa476e/carolina-macgillavrylaan/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-11T17:38:22.790068"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -850,6 +795,61 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-11T16:43:42.378256"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Van Oldenbarneveldtplein 6 4",
+      "prijs": "€ 3.250 per maand",
+      "details": "120 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a51b7410/van-oldenbarneveldtplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-11T17:38:22.790068"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Bellamystraat",
+      "prijs": "€ 3.750 per maand",
+      "details": "178 m² · 5 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/775d98dc/bellamystraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-11T17:38:22.790068"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Emmy Andriessestraat 582",
+      "prijs": "€ 3.797 per maand",
+      "details": "185 m² · 5 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/d9d8d87e/emmy-andriessestraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-11T17:38:22.790068"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bellamystraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/cb64ea68/bellamystraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-11T17:38:22.790068"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Carolina MacGillavrylaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/9dfa476e/carolina-macgillavrylaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-11T17:38:22.790068"
     }
   ]
 }
