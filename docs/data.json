@@ -1,19 +1,30 @@
 {
-  "bijgewerkt": "11 Aug 2026 om 14:09",
-  "bijgewerkt_iso": "2026-08-11T14:09:34.119634",
-  "aantal": 77,
-  "nieuw": 1,
+  "bijgewerkt": "11 Aug 2026 om 15:40",
+  "bijgewerkt_iso": "2026-08-11T15:40:12.984788",
+  "aantal": 76,
+  "nieuw": 2,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Johannes van der Waalsstraat",
-      "prijs": "€ 2.200 per maand",
-      "details": "72 m² · 4 kamers · Gestoffeerd",
+      "titel": "Appartement Den Texstraat",
+      "prijs": "€ 3.850 per maand",
+      "details": "161 m² · 6 kamers · Gestoffeerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/79e34dbc/johannes-van-der-waalsstraat",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/16308cea/den-texstraat",
       "nieuw": true,
-      "gezien_sinds": "2026-08-11T14:09:34.119538"
+      "gezien_sinds": "2026-08-11T15:40:12.984670"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Den Texstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/712d9c42/den-texstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-11T15:40:12.984670"
     },
     {
       "bron": "Pararius",
@@ -216,22 +227,22 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Bloemgracht 86 2",
-      "prijs": "€ 3.450 per maand",
-      "details": "135 m² · 5 kamers · Gestoffeerd",
+      "titel": "Appartement Courbetstraat 33 1",
+      "prijs": "€ 3.995 per maand",
+      "details": "123 m² · 4 kamers · 1938",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/ba75c7e9/bloemgracht",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a17fd066/courbetstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T18:02:57.360995"
     },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Courbetstraat 33 1",
-      "prijs": "€ 3.995 per maand",
-      "details": "123 m² · 4 kamers · 1938",
+      "titel": "Appartement Weissenbruchstraat",
+      "prijs": "€ 3.400 per maand",
+      "details": "130 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a17fd066/courbetstraat",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8b32f4c9/weissenbruchstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T18:02:57.360995"
     },
@@ -265,17 +276,6 @@
       "details": "85 m² · 4 kamers · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/2b9326b7/postjesweg",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-03T15:31:00.042894"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vrouwengelukhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2f00ee27/vrouwengelukhof/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-03T15:31:00.042894"
     },
@@ -619,17 +619,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-06T15:18:17.681257"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Akbarstraat",
-      "prijs": "€ 3.650 per maand",
-      "details": "111 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/da6d7e27/akbarstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T17:40:43.378202"
     },
     {
       "bron": "Pararius",
