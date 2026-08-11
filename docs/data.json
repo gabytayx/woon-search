@@ -1,30 +1,41 @@
 {
-  "bijgewerkt": "11 Aug 2026 om 15:40",
-  "bijgewerkt_iso": "2026-08-11T15:40:12.984788",
+  "bijgewerkt": "11 Aug 2026 om 16:43",
+  "bijgewerkt_iso": "2026-08-11T16:43:42.378357",
   "aantal": 76,
-  "nieuw": 2,
+  "nieuw": 3,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Den Texstraat",
-      "prijs": "€ 3.850 per maand",
-      "details": "161 m² · 6 kamers · Gestoffeerd",
+      "titel": "Appartement Carolina MacGillavrylaan 156",
+      "prijs": "€ 2.850 per maand",
+      "details": "137 m² · 5 kamers · 2007",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/16308cea/den-texstraat",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/790a1fac/carolina-macgillavrylaan",
       "nieuw": true,
-      "gezien_sinds": "2026-08-11T15:40:12.984670"
+      "gezien_sinds": "2026-08-11T16:43:42.378256"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Emmy Andriessestraat 502",
+      "prijs": "€ 3.866 per maand",
+      "details": "185 m² · 5 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/dc919576/emmy-andriessestraat",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-11T16:43:42.378256"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Den Texstraat",
+      "titel": "Appartement Willy Sluiterstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/712d9c42/den-texstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/f9414aa6/willy-sluiterstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-11T15:40:12.984670"
+      "gezien_sinds": "2026-08-11T16:43:42.378256"
     },
     {
       "bron": "Pararius",
@@ -223,28 +234,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c2652279/beethovenstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T17:47:32.617285"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Courbetstraat 33 1",
-      "prijs": "€ 3.995 per maand",
-      "details": "123 m² · 4 kamers · 1938",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a17fd066/courbetstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T18:02:57.360995"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Weissenbruchstraat",
-      "prijs": "€ 3.400 per maand",
-      "details": "130 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8b32f4c9/weissenbruchstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T18:02:57.360995"
     },
     {
       "bron": "Pararius",
@@ -830,15 +819,26 @@
       "gezien_sinds": "2026-08-10T18:44:01.501778"
     },
     {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Den Texstraat",
+      "prijs": "€ 3.850 per maand",
+      "details": "161 m² · 6 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/16308cea/den-texstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-11T15:40:12.984670"
+    },
+    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Johannes van der Waalsstraat",
+      "titel": "Appartement Den Texstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/8c1e3715/johannes-van-der-waalsstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/712d9c42/den-texstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-08-11T13:29:23.054454"
+      "gezien_sinds": "2026-08-11T15:40:12.984670"
     }
   ]
 }
