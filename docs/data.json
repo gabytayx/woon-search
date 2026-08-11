@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "11 Aug 2026 om 12:34",
-  "bijgewerkt_iso": "2026-08-11T12:34:13.606479",
+  "bijgewerkt": "11 Aug 2026 om 13:29",
+  "bijgewerkt_iso": "2026-08-11T13:29:23.054570",
   "aantal": 77,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Johannes van der Waalsstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/8c1e3715/johannes-van-der-waalsstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-11T13:29:23.054454"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -234,17 +245,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8b32f4c9/weissenbruchstraat",
       "nieuw": false,
       "gezien_sinds": "2026-07-31T18:02:57.360995"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Willem Parelstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5e3a0f56/willem-parelstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-31T19:04:56.321687"
     },
     {
       "bron": "Pararius",
