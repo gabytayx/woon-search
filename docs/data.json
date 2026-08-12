@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "12 Aug 2026 om 09:52",
-  "bijgewerkt_iso": "2026-08-12T09:52:29.328969",
-  "aantal": 77,
-  "nieuw": 1,
+  "bijgewerkt": "12 Aug 2026 om 11:03",
+  "bijgewerkt_iso": "2026-08-12T11:03:49.616886",
+  "aantal": 76,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Arondeusstraat 10",
-      "prijs": "€ 2.950 per maand",
-      "details": "82 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/ed5ca6df/arondeusstraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-12T09:52:29.328892"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -58,17 +47,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b0d0b6b0/dickenslaan",
       "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Prins Hendrikkade 16E",
-      "prijs": "€ 3.250,- p/m",
-      "details": "",
-      "link": "https://www.eefjevoogd.nl",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T10:27:53.552902"
     },
     {
       "bron": "Pararius",
@@ -850,6 +828,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-11T17:38:22.790068"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Arondeusstraat 10",
+      "prijs": "€ 2.950 per maand",
+      "details": "82 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/ed5ca6df/arondeusstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-12T09:52:29.328892"
     }
   ]
 }
