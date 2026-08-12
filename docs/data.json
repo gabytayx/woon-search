@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "12 Aug 2026 om 08:14",
-  "bijgewerkt_iso": "2026-08-12T08:14:29.734317",
+  "bijgewerkt": "12 Aug 2026 om 09:52",
+  "bijgewerkt_iso": "2026-08-12T09:52:29.328969",
   "aantal": 77,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Arondeusstraat 10",
+      "prijs": "€ 2.950 per maand",
+      "details": "82 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/ed5ca6df/arondeusstraat",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-12T09:52:29.328892"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -337,33 +348,11 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Beursstraat 29 D",
-      "prijs": "€ 2.750 per maand",
-      "details": "84 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a64b66c8/beursstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T09:33:58.904569"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Huis Reinwardtstraat",
       "prijs": "€ 3.500 per maand",
       "details": "100 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/e0c866da/reinwardtstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T09:33:58.904569"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Beursstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6ad3d028/beursstraat/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-05T09:33:58.904569"
     },
@@ -520,6 +509,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-06T13:32:51.501771"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Daguerrestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/15a1ac3e/daguerrestraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-06T15:18:17.681257"
     },
     {
       "bron": "Huurwoningen.nl",
