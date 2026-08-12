@@ -1,63 +1,19 @@
 {
-  "bijgewerkt": "12 Aug 2026 om 16:33",
-  "bijgewerkt_iso": "2026-08-12T16:33:09.277570",
+  "bijgewerkt": "12 Aug 2026 om 17:36",
+  "bijgewerkt_iso": "2026-08-12T17:36:54.707227",
   "aantal": 78,
-  "nieuw": 5,
+  "nieuw": 1,
   "woningen": [
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement President Kennedyplantsoen",
-      "prijs": "€ 3.350 per maand",
-      "details": "137 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a37d8a4b/president-kennedyplantsoen",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-12T16:33:09.277470"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Wittgensteinlaan 333",
-      "prijs": "€ 2.300 per maand",
-      "details": "87 m² · 4 kamers · 1991",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f0126c10/wittgensteinlaan",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-12T16:33:09.277470"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Wittgensteinlaan",
-      "prijs": "",
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/36d2a2fc/wittgensteinlaan/",
+      "link": "https://fris.nl/volledige-woningaanbod/fijnjekade-47-s-gravenhage/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-12T16:33:09.277470"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement President Kennedyplantsoen",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/e61df51d/president-kennedyplantsoen/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-12T16:33:09.277470"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Stuurmankade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/adf1bcfa/stuurmankade/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-12T16:33:09.277470"
+      "gezien_sinds": "2026-08-12T17:36:54.707123"
     },
     {
       "bron": "Pararius",
@@ -709,17 +665,6 @@
       "gezien_sinds": "2026-08-10T16:53:40.177588"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/elzenhagensingel-220-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-10T17:51:31.461466"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Elzenhagensingel 220",
@@ -861,6 +806,61 @@
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/ed5ca6df/arondeusstraat",
       "nieuw": false,
       "gezien_sinds": "2026-08-12T09:52:29.328892"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement President Kennedyplantsoen",
+      "prijs": "€ 3.350 per maand",
+      "details": "137 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a37d8a4b/president-kennedyplantsoen",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-12T16:33:09.277470"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Wittgensteinlaan 333",
+      "prijs": "€ 2.300 per maand",
+      "details": "87 m² · 4 kamers · 1991",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f0126c10/wittgensteinlaan",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-12T16:33:09.277470"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Wittgensteinlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/36d2a2fc/wittgensteinlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-12T16:33:09.277470"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement President Kennedyplantsoen",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e61df51d/president-kennedyplantsoen/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-12T16:33:09.277470"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Stuurmankade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/adf1bcfa/stuurmankade/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-12T16:33:09.277470"
     }
   ]
 }
