@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "13 Aug 2026 om 10:50",
-  "bijgewerkt_iso": "2026-08-13T10:50:29.449262",
-  "aantal": 77,
-  "nieuw": 1,
+  "bijgewerkt": "13 Aug 2026 om 11:55",
+  "bijgewerkt_iso": "2026-08-13T11:55:20.835895",
+  "aantal": 76,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Amstelveenseweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/beb9c3c0/amstelveenseweg/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-13T10:50:29.449167"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -819,17 +808,6 @@
       "gezien_sinds": "2026-08-12T16:33:09.277470"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/fijnjekade-47-s-gravenhage/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-12T17:36:54.707123"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Boeninlaan",
@@ -850,6 +828,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-13T09:22:29.284050"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Amstelveenseweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/beb9c3c0/amstelveenseweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-13T10:50:29.449167"
     }
   ]
 }
