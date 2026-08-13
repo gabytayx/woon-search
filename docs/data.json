@@ -1,9 +1,31 @@
 {
-  "bijgewerkt": "13 Aug 2026 om 07:59",
-  "bijgewerkt_iso": "2026-08-13T07:59:50.313175",
+  "bijgewerkt": "13 Aug 2026 om 09:22",
+  "bijgewerkt_iso": "2026-08-13T09:22:29.284156",
   "aantal": 78,
-  "nieuw": 0,
+  "nieuw": 2,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Boeninlaan",
+      "prijs": "€ 2.450 per maand",
+      "details": "60 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6c6be6b3/boeninlaan",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-13T09:22:29.284050"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Boeninlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/32946ae6/boeninlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-13T09:22:29.284050"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -51,8 +73,8 @@
     {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Prins Hendrikkade 16E",
-      "prijs": "€ 3.250,- p/m",
+      "titel": "Prins Hendrikkade 16D",
+      "prijs": "€ 3.350,- p/m",
       "details": "",
       "link": "https://www.eefjevoogd.nl",
       "plaatsingsdatum": "",
@@ -205,33 +227,11 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Van Heenvlietlaan",
-      "prijs": "€ 2.775 per maandTransparantMeer informatie",
-      "details": "105 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/87f534c5/van-heenvlietlaan",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T00:59:43.907428"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Jisperveldstraat",
       "prijs": "€ 2.150 per maand",
       "details": "84 m² · 4 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/2a13653e/jisperveldstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T15:23:35.551902"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Jisperveldstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5bdad9e7/jisperveldstraat/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-04T15:23:35.551902"
     },
