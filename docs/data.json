@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "13 Aug 2026 om 19:11",
-  "bijgewerkt_iso": "2026-08-13T19:11:39.395800",
-  "aantal": 79,
-  "nieuw": 1,
+  "bijgewerkt": "13 Aug 2026 om 20:09",
+  "bijgewerkt_iso": "2026-08-13T20:09:00.482781",
+  "aantal": 77,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Nassaukade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/828184e4/nassaukade/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-13T19:11:39.395688"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -47,17 +36,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f60e278e/vleutenstraat",
       "nieuw": false,
       "gezien_sinds": "2026-06-24T07:53:26.784466"
-    },
-    {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Prins Hendrikkade 16D",
-      "prijs": "€ 3.350,- p/m",
-      "details": "",
-      "link": "https://www.eefjevoogd.nl",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-06-24T10:27:53.552902"
     },
     {
       "bron": "Pararius",
@@ -863,15 +841,15 @@
       "gezien_sinds": "2026-08-13T18:10:35.270172"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Nassaukade",
+      "prijs": "",
       "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/bercylaan-331-amsterdam/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/828184e4/nassaukade/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-08-13T18:10:35.270172"
+      "gezien_sinds": "2026-08-13T19:11:39.395688"
     }
   ]
 }
