@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "13 Aug 2026 om 13:40",
-  "bijgewerkt_iso": "2026-08-13T13:40:04.829076",
-  "aantal": 77,
-  "nieuw": 0,
+  "bijgewerkt": "13 Aug 2026 om 14:32",
+  "bijgewerkt_iso": "2026-08-13T14:32:44.627015",
+  "aantal": 78,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Leusdenhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ce9df992/leusdenhof/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-13T14:32:44.626914"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -194,6 +205,17 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Courbetstraat 33 1",
+      "prijs": "€ 3.995 per maand",
+      "details": "123 m² · 4 kamers · 1938",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a17fd066/courbetstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-07-31T18:02:57.360995"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Jisperveldstraat",
       "prijs": "€ 2.150 per maand",
       "details": "84 m² · 4 kamers · Gemeubileerd",
@@ -221,17 +243,6 @@
       "details": "127 m² · 4 kamers · 2018",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/3fdf7110/ertskade",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T19:21:54.958161"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Ertskade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/be45a37d/ertskade/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-04T19:21:54.958161"
     },
