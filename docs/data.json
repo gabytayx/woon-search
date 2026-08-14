@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "14 Aug 2026 om 16:38",
-  "bijgewerkt_iso": "2026-08-14T16:38:26.570581",
+  "bijgewerkt": "14 Aug 2026 om 17:30",
+  "bijgewerkt_iso": "2026-08-14T17:30:39.687793",
   "aantal": 77,
-  "nieuw": 2,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Reitdiepstraat",
-      "prijs": "€ 3.000 per maand",
-      "details": "71 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8e335651/reitdiepstraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-14T16:38:26.570474"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Reitdiepstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b47ed165/reitdiepstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-14T16:38:26.570474"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -850,6 +828,28 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b5cfd5a8/hugo-de-vrieslaan",
       "nieuw": false,
       "gezien_sinds": "2026-08-14T15:39:16.586489"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Reitdiepstraat",
+      "prijs": "€ 3.000 per maand",
+      "details": "71 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8e335651/reitdiepstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T16:38:26.570474"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Reitdiepstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b47ed165/reitdiepstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T16:38:26.570474"
     }
   ]
 }
