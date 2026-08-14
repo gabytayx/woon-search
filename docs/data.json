@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "15 Aug 2026 om 00:59",
-  "bijgewerkt_iso": "2026-08-15T00:59:16.338673",
+  "bijgewerkt": "15 Aug 2026 om 01:18",
+  "bijgewerkt_iso": "2026-08-15T01:18:05.766492",
   "aantal": 77,
   "nieuw": 0,
   "woningen": [
@@ -190,6 +190,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/90a13eb9/bijlmerdreef",
       "nieuw": false,
       "gezien_sinds": "2026-08-04T23:55:30.057599"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Cornelis Schuytstraat 44 2",
+      "prijs": "€ 3.100 per maand",
+      "details": "90 m² · 5 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/5593ec2f/cornelis-schuytstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-05T12:16:40.690396"
     },
     {
       "bron": "Pararius",
@@ -476,17 +487,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-11T15:40:12.984670"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Carolina MacGillavrylaan 156",
-      "prijs": "€ 2.850 per maand",
-      "details": "137 m² · 5 kamers · 2007",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/790a1fac/carolina-macgillavrylaan",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-11T16:43:42.378256"
     },
     {
       "bron": "Pararius",
