@@ -1,64 +1,9 @@
 {
-  "bijgewerkt": "14 Aug 2026 om 13:27",
-  "bijgewerkt_iso": "2026-08-14T13:27:13.510240",
+  "bijgewerkt": "14 Aug 2026 om 14:06",
+  "bijgewerkt_iso": "2026-08-14T14:06:04.116564",
   "aantal": 77,
-  "nieuw": 5,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Krommertstraat 19",
-      "prijs": "€ 3.400 per maand",
-      "details": "131 m² · 5 kamers · 2008",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8d9a5ae8/krommertstraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-14T13:27:13.510129"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Krommertstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/755b28f7/krommertstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-14T13:27:13.510129"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Emmy Andriessestraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2082d72c/emmy-andriessestraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-14T13:27:13.510129"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Emmy Andriessestraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/707b0496/emmy-andriessestraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-14T13:27:13.510129"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Wolbrantskerkweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/56b83dd0/wolbrantskerkweg/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-14T13:27:13.510129"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -850,6 +795,61 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6f97cbfa/wolbrantskerkweg",
       "nieuw": false,
       "gezien_sinds": "2026-08-14T12:40:19.443627"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Krommertstraat 19",
+      "prijs": "€ 3.400 per maand",
+      "details": "131 m² · 5 kamers · 2008",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8d9a5ae8/krommertstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T13:27:13.510129"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Krommertstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/755b28f7/krommertstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T13:27:13.510129"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Emmy Andriessestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2082d72c/emmy-andriessestraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T13:27:13.510129"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Emmy Andriessestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/707b0496/emmy-andriessestraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T13:27:13.510129"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Wolbrantskerkweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/56b83dd0/wolbrantskerkweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T13:27:13.510129"
     }
   ]
 }
