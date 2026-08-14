@@ -1,30 +1,19 @@
 {
-  "bijgewerkt": "14 Aug 2026 om 10:38",
-  "bijgewerkt_iso": "2026-08-14T10:38:15.126650",
-  "aantal": 79,
-  "nieuw": 2,
+  "bijgewerkt": "14 Aug 2026 om 11:43",
+  "bijgewerkt_iso": "2026-08-14T11:43:26.779411",
+  "aantal": 78,
+  "nieuw": 1,
   "woningen": [
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Albrecht Dürerstraat",
-      "prijs": "€ 3.350 per maand",
-      "details": "130 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e2848bdc/albrecht-duererstraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-14T10:38:15.126503"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Albrecht Dürerstraat",
-      "prijs": "",
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4e1c7ecd/albrecht-duererstraat/",
+      "link": "https://fris.nl/volledige-woningaanbod/bercylaan-501-amsterdam/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-14T10:38:15.126503"
+      "gezien_sinds": "2026-08-14T11:43:26.779312"
     },
     {
       "bron": "Pararius",
@@ -102,17 +91,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/1611b54a/koningin-wilhelminaplein",
       "nieuw": false,
       "gezien_sinds": "2026-07-07T10:47:33.860826"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Schellingwouderdijk",
-      "prijs": "€ 3.950 per maand",
-      "details": "150 m² · 5 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/57258b3f/schellingwouderdijk",
-      "nieuw": false,
-      "gezien_sinds": "2026-07-13T01:17:28.955192"
     },
     {
       "bron": "Pararius",
@@ -841,17 +819,6 @@
       "gezien_sinds": "2026-08-13T18:10:35.270172"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/bercylaan-331-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-13T18:10:35.270172"
-    },
-    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Nassaukade",
@@ -872,6 +839,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-14T06:31:53.944910"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Albrecht Dürerstraat",
+      "prijs": "€ 3.350 per maand",
+      "details": "130 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e2848bdc/albrecht-duererstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T10:38:15.126503"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albrecht Dürerstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4e1c7ecd/albrecht-duererstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T10:38:15.126503"
     }
   ]
 }
