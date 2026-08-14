@@ -1,9 +1,31 @@
 {
-  "bijgewerkt": "14 Aug 2026 om 09:09",
-  "bijgewerkt_iso": "2026-08-14T09:09:29.609011",
+  "bijgewerkt": "14 Aug 2026 om 10:38",
+  "bijgewerkt_iso": "2026-08-14T10:38:15.126650",
   "aantal": 79,
-  "nieuw": 0,
+  "nieuw": 2,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Albrecht Dürerstraat",
+      "prijs": "€ 3.350 per maand",
+      "details": "130 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e2848bdc/albrecht-duererstraat",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-14T10:38:15.126503"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albrecht Dürerstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4e1c7ecd/albrecht-duererstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-14T10:38:15.126503"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -205,17 +227,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Jisperveldstraat",
-      "prijs": "€ 2.150 per maand",
-      "details": "84 m² · 4 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/2a13653e/jisperveldstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T15:23:35.551902"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Delflandplein 68",
       "prijs": "€ 2.400 per maand",
       "details": "78 m² · 4 kamers · Gestoffeerd",
@@ -286,17 +297,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/3bd85a84/tweede-hugo-de-grootstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T12:16:40.690396"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Cornelis Schuytstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/62e2e4bf/cornelis-schuytstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-05T12:16:40.690396"
