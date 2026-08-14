@@ -1,19 +1,63 @@
 {
-  "bijgewerkt": "14 Aug 2026 om 12:40",
-  "bijgewerkt_iso": "2026-08-14T12:40:19.443736",
+  "bijgewerkt": "14 Aug 2026 om 13:27",
+  "bijgewerkt_iso": "2026-08-14T13:27:13.510240",
   "aantal": 77,
-  "nieuw": 1,
+  "nieuw": 5,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Wolbrantskerkweg",
-      "prijs": "€ 2.600 per maand",
-      "details": "132 m² · 4 kamers · Gemeubileerd",
+      "titel": "Appartement Krommertstraat 19",
+      "prijs": "€ 3.400 per maand",
+      "details": "131 m² · 5 kamers · 2008",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6f97cbfa/wolbrantskerkweg",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/8d9a5ae8/krommertstraat",
       "nieuw": true,
-      "gezien_sinds": "2026-08-14T12:40:19.443627"
+      "gezien_sinds": "2026-08-14T13:27:13.510129"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Krommertstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/755b28f7/krommertstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-14T13:27:13.510129"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Emmy Andriessestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2082d72c/emmy-andriessestraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-14T13:27:13.510129"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Emmy Andriessestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/707b0496/emmy-andriessestraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-14T13:27:13.510129"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Wolbrantskerkweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/56b83dd0/wolbrantskerkweg/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-14T13:27:13.510129"
     },
     {
       "bron": "Pararius",
@@ -194,17 +238,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Ertskade 254",
-      "prijs": "€ 3.350 per maand",
-      "details": "127 m² · 4 kamers · 2018",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/3fdf7110/ertskade",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-04T19:21:54.958161"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Bijlmerdreef 667",
       "prijs": "€ 2.650 per maand",
       "details": "98 m² · 5 kamers · Gestoffeerd",
@@ -236,39 +269,6 @@
       "gezien_sinds": "2026-08-05T12:16:40.690396"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Sarphatistraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3ba99c2d/sarphatistraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T12:16:40.690396"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Tweede Hugo de Grootstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3bd85a84/tweede-hugo-de-grootstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T12:16:40.690396"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Cornelis Schuytstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/62e2e4bf/cornelis-schuytstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T12:16:40.690396"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Milletstraat 50 3",
@@ -276,17 +276,6 @@
       "details": "117 m² · 4 kamers · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/4349f228/milletstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-05T14:20:06.400108"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Milletstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a40982c2/milletstraat/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-05T14:20:06.400108"
     },
@@ -850,6 +839,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-14T11:43:26.779312"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Wolbrantskerkweg",
+      "prijs": "€ 2.600 per maand",
+      "details": "132 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6f97cbfa/wolbrantskerkweg",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T12:40:19.443627"
     }
   ]
 }
