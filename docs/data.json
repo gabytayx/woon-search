@@ -1,9 +1,42 @@
 {
-  "bijgewerkt": "15 Aug 2026 om 13:34",
-  "bijgewerkt_iso": "2026-08-15T13:34:57.444330",
+  "bijgewerkt": "15 Aug 2026 om 13:56",
+  "bijgewerkt_iso": "2026-08-15T13:56:08.366458",
   "aantal": 77,
-  "nieuw": 0,
+  "nieuw": 3,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Stuurmankade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/355e9f9c/stuurmankade/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-15T13:56:08.366350"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Stokerkade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/27b470e9/stokerkade/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-15T13:56:08.366350"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Javakade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/79b6d7fd/javakade/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-15T13:56:08.366350"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -225,17 +258,6 @@
       "gezien_sinds": "2026-08-05T16:44:22.541666"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kromme Leimuidenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4257063f/kromme-leimuidenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T02:16:55.911718"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Kromme Leimuidenstraat 4 2",
@@ -256,28 +278,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0ada0ea5/pieter-aertszstraat",
       "nieuw": false,
       "gezien_sinds": "2026-08-06T13:32:51.501771"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Daguerrestraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/15a1ac3e/daguerrestraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T15:18:17.681257"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Céramiquelaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/79a8ec16/ceramiquelaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T15:18:17.681257"
     },
     {
       "bron": "Pararius",
