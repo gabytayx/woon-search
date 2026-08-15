@@ -1,30 +1,19 @@
 {
-  "bijgewerkt": "15 Aug 2026 om 14:18",
-  "bijgewerkt_iso": "2026-08-15T14:18:51.009848",
-  "aantal": 77,
-  "nieuw": 2,
+  "bijgewerkt": "15 Aug 2026 om 15:07",
+  "bijgewerkt_iso": "2026-08-15T15:07:27.902218",
+  "aantal": 78,
+  "nieuw": 1,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Bart van der Leckplantsoen",
-      "prijs": "€ 3.500 per maand",
-      "details": "145 m² · 4 kamers · Gestoffeerd",
+      "titel": "Appartement Specials",
+      "prijs": "€ 2.350 per maand",
+      "details": "93 m² · 5 kamers",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/462448c7/bart-van-der-leckplantsoen",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/70ca3803/specials",
       "nieuw": true,
-      "gezien_sinds": "2026-08-15T14:18:51.009732"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Bart van der Leckplantsoen",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/742acadb/bart-van-der-leckplantsoen/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-15T14:18:51.009732"
+      "gezien_sinds": "2026-08-15T15:07:27.902119"
     },
     {
       "bron": "Pararius",
@@ -850,6 +839,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-15T13:56:08.366350"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Bart van der Leckplantsoen",
+      "prijs": "€ 3.500 per maand",
+      "details": "145 m² · 4 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/462448c7/bart-van-der-leckplantsoen",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-15T14:18:51.009732"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Bart van der Leckplantsoen",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/742acadb/bart-van-der-leckplantsoen/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-15T14:18:51.009732"
     }
   ]
 }
