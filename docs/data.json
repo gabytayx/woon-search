@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "15 Aug 2026 om 15:07",
-  "bijgewerkt_iso": "2026-08-15T15:07:27.902218",
+  "bijgewerkt": "15 Aug 2026 om 15:42",
+  "bijgewerkt_iso": "2026-08-15T15:42:48.776333",
   "aantal": 78,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Specials",
-      "prijs": "€ 2.350 per maand",
-      "details": "93 m² · 5 kamers",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/70ca3803/specials",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-15T15:07:27.902119"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -861,6 +850,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-15T14:18:51.009732"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Specials",
+      "prijs": "€ 2.350 per maand",
+      "details": "93 m² · 5 kamers",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/70ca3803/specials",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-15T15:07:27.902119"
     }
   ]
 }
