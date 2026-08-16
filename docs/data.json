@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "16 Aug 2026 om 15:43",
-  "bijgewerkt_iso": "2026-08-16T15:43:42.560576",
+  "bijgewerkt": "16 Aug 2026 om 16:00",
+  "bijgewerkt_iso": "2026-08-16T16:00:05.622138",
   "aantal": 78,
   "nieuw": 0,
   "woningen": [
@@ -236,6 +236,17 @@
       "gezien_sinds": "2026-08-06T17:40:43.378202"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Hoofddorpplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ca526b54/hoofddorpplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-06T17:40:43.378202"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Carolina MacGillavrylaan",
@@ -300,17 +311,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-07T09:58:44.181010"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Hammarbystraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/01f137f8/hammarbystraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-07T16:40:11.562842"
     },
     {
       "bron": "Huurwoningen.nl",
