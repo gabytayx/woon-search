@@ -1,19 +1,41 @@
 {
-  "bijgewerkt": "17 Aug 2026 om 18:48",
-  "bijgewerkt_iso": "2026-08-17T18:48:02.964951",
+  "bijgewerkt": "17 Aug 2026 om 19:19",
+  "bijgewerkt_iso": "2026-08-17T19:19:06.562411",
   "aantal": 64,
-  "nieuw": 1,
+  "nieuw": 3,
   "woningen": [
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Ingenhouszhof 50",
-      "prijs": "€ 1.300 per maand",
-      "details": "46 m² · 2 kamers · Gestoffeerd",
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bovenover",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/45061ba9/bovenover/",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/02a03bcb/ingenhouszhof",
       "nieuw": true,
-      "gezien_sinds": "2026-08-17T18:48:02.964884"
+      "gezien_sinds": "2026-08-17T19:19:06.562314"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bert Haanstrakade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/00a553a2/bert-haanstrakade/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-17T19:19:06.562314"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elizabeth Anscombestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/a02a7532/elizabeth-anscombestraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-17T19:19:06.562314"
     },
     {
       "bron": "Pararius",
@@ -634,39 +656,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Madurastraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/7b3907bd/madurastraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Andries Snoekstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2dbfc647/andries-snoekstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Berkmeerpad",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/aaa50ab0/berkmeerpad/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Anna Blamansingel",
       "prijs": "",
       "details": "",
@@ -707,6 +696,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T18:16:58.448193"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Ingenhouszhof 50",
+      "prijs": "€ 1.300 per maand",
+      "details": "46 m² · 2 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/02a03bcb/ingenhouszhof",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T18:48:02.964884"
     }
   ]
 }
