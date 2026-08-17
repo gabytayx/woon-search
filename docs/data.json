@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "17 Aug 2026 om 21:07",
-  "bijgewerkt_iso": "2026-08-17T21:07:56.093732",
+  "bijgewerkt": "17 Aug 2026 om 21:40",
+  "bijgewerkt_iso": "2026-08-17T21:40:46.244380",
   "aantal": 64,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kiekstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/9f270c30/kiekstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-17T21:07:56.093666"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -516,17 +505,6 @@
       "titel": "Appartement Buikslotermeerplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5d91daa4/buikslotermeerplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Buikslotermeerplein",
-      "prijs": "",
-      "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/d8029fa6/buikslotermeerplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
@@ -623,6 +601,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Karl Grögersingel",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b487cf19/karl-groegersingel/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Anna Blamansingel",
       "prijs": "",
       "details": "",
@@ -707,6 +696,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T19:19:06.562314"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Kiekstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/9f270c30/kiekstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T21:07:56.093666"
     }
   ]
 }
