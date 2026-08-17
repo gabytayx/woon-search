@@ -1,9 +1,31 @@
 {
-  "bijgewerkt": "17 Aug 2026 om 10:24",
-  "bijgewerkt_iso": "2026-08-17T10:24:56.378941",
-  "aantal": 77,
-  "nieuw": 0,
+  "bijgewerkt": "17 Aug 2026 om 11:07",
+  "bijgewerkt_iso": "2026-08-17T11:07:35.881756",
+  "aantal": 78,
+  "nieuw": 2,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Wamberg",
+      "prijs": "€ 3.400 per maand",
+      "details": "130 m² · 4 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/457e7007/wamberg",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-17T11:07:35.881668"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Wamberg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/79b2734f/wamberg/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-17T11:07:35.881668"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -231,17 +253,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/15a1ac3e/daguerrestraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-06T15:18:17.681257"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Céramiquelaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/79a8ec16/ceramiquelaan/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-06T15:18:17.681257"
@@ -621,17 +632,6 @@
       "gezien_sinds": "2026-08-13T16:08:06.836462"
     },
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Leen Jongewaardkade",
-      "prijs": "€ 2.600 per maand",
-      "details": "91 m² · 4 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a4170c5a/leen-jongewaardkade",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-13T16:08:06.836462"
-    },
-    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Huis Weteringstraat",
@@ -685,6 +685,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-14T10:38:15.126503"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/bercylaan-501-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-14T11:43:26.779312"
     },
     {
       "bron": "Pararius",
