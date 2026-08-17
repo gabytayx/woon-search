@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "17 Aug 2026 om 22:52",
-  "bijgewerkt_iso": "2026-08-17T22:52:30.030960",
-  "aantal": 63,
+  "bijgewerkt": "17 Aug 2026 om 23:18",
+  "bijgewerkt_iso": "2026-08-17T23:18:53.245020",
+  "aantal": 64,
   "nieuw": 0,
   "woningen": [
     {
@@ -619,6 +619,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:54:36.375962"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/ingenhouszhof-50-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T17:48:26.206642"
     },
     {
       "bron": "Huurwoningen.nl",
