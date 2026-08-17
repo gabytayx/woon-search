@@ -11,8 +11,8 @@ from datetime import datetime
 from pathlib import Path
 
 ZOEKEISEN = {
-    "max_prijs":  4000,
-    "min_kamers": 3,
+    "max_prijs":  1500,
+    "min_kamers": 0,   # 0 = geen minimum (studio's tellen ook mee)
 }
 
 HEADERS = {
@@ -62,6 +62,24 @@ def extraheer_prijs(tekst: str) -> int | None:
     for m in re.finditer(r'\d{3,6}', tekst.replace(".", "").replace(",", "")):
         g = int(m.group())
         if 300 < g < 20000:
+            return g
+    return None
+
+
+def extraheer_prijs_na_euro(tekst: str) -> int | None:
+    """
+    Haal de prijs op die direct achter een €-teken staat.
+    Nodig bij bronnen waar adres + postcode aan de prijs vastplakken
+    (bijv. 'Javakade 88 C1019 SC, AMSTERDAM€ 1.850 p/m') — een generieke
+    getalzoeker pakt daar de postcode i.p.v. de huurprijs.
+    """
+    m = re.search(r'€\s*([\d.,]+)', tekst)
+    if not m:
+        return None
+    getal = m.group(1).replace(".", "").replace(",", "")
+    if getal.isdigit():
+        g = int(getal)
+        if 100 < g < 20000:
             return g
     return None
 
@@ -178,8 +196,9 @@ def scrape_pararius() -> list[dict]:
     from bs4 import BeautifulSoup
     resultaten = []
     max_p = ZOEKEISEN["max_prijs"]
-    for kamers in [3, 4, 5]:
-        url = f"https://www.pararius.nl/huurwoningen/amsterdam/0-{max_p}/{kamers}-slaapkamers"
+    for pagina in [1, 2, 3]:
+        suffix = "" if pagina == 1 else f"/page-{pagina}"
+        url = f"https://www.pararius.nl/huurwoningen/amsterdam/0-{max_p}{suffix}"
         html = playwright_fetch(url)
         if not html:
             continue
@@ -207,11 +226,10 @@ def scrape_pararius() -> list[dict]:
 def scrape_funda() -> list[dict]:
     from bs4 import BeautifulSoup
     max_p = ZOEKEISEN["max_prijs"]
-    min_k = ZOEKEISEN["min_kamers"]
     # /huur/ in de URL zorgt dat Funda alleen huurwoningen toont
     url = (f"https://www.funda.nl/zoeken/huur/?selected_area=%5B%22amsterdam%22%5D"
-           f"&price_max={max_p}&rooms_min={min_k}"
-           "&object_type%5B%5D=apartment&object_type%5B%5D=house&sort=date_down")
+           f"&price_max={max_p}"
+           "&object_type%5B%5D=apartment&sort=date_down")
     html = playwright_fetch(url, wacht=4)
     if not html:
         return []
@@ -249,8 +267,7 @@ def scrape_funda() -> list[dict]:
 def scrape_huurwoningen() -> list[dict]:
     from bs4 import BeautifulSoup
     max_p = ZOEKEISEN["max_prijs"]
-    min_k = ZOEKEISEN["min_kamers"]
-    url = f"https://www.huurwoningen.nl/in/amsterdam/?price=0-{max_p}&bedrooms={min_k}"
+    url = f"https://www.huurwoningen.nl/in/amsterdam/?price=0-{max_p}"
     html = playwright_fetch(url, wacht=4)  # langer wachten voor JS-prijzen
     if not html:
         return []
@@ -285,8 +302,7 @@ def scrape_huurwoningen() -> list[dict]:
 def scrape_huislijn() -> list[dict]:
     from bs4 import BeautifulSoup
     max_p = ZOEKEISEN["max_prijs"]
-    min_k = ZOEKEISEN["min_kamers"]
-    url = f"https://www.huislijn.nl/huurwoning/amsterdam?MinHuur=0&MaxHuur={max_p}&MinKamers={min_k}&order=Nieuwste"
+    url = f"https://www.huislijn.nl/huurwoning/amsterdam?MinHuur=0&MaxHuur={max_p}&order=Nieuwste"
     html = playwright_fetch(url)
     if not html:
         return []
@@ -318,9 +334,8 @@ def scrape_huislijn() -> list[dict]:
 def scrape_jaap() -> list[dict]:
     from bs4 import BeautifulSoup
     max_p = ZOEKEISEN["max_prijs"]
-    min_k = ZOEKEISEN["min_kamers"]
     # /huurhuizen/ in URL = alleen huur
-    url = f"https://www.jaap.nl/huurhuizen/amsterdam/+{min_k}slaapkamers/+0mnd-{max_p}mnd/"
+    url = f"https://www.jaap.nl/huurhuizen/amsterdam/+0mnd-{max_p}mnd/"
     html = playwright_fetch(url)
     if not html:
         return []
@@ -635,10 +650,105 @@ def scrape_corporatie(naam, url, base_url, link_filter) -> list[dict]:
             pass
     return resultaten
 
+def scrape_roofz() -> list[dict]:
+    """
+    Roofz.eu — platform van Rockfield (operators: The Cohesion, StuNest).
+    Veel studio's en kleine appartementen, ook onder de €1.500.
+    Let op: pagina is volledig JS-gerenderd, dus langer wachten.
+    Aanbod is landelijk, daarom filteren we zelf op Amsterdam.
+    """
+    from bs4 import BeautifulSoup
+    resultaten = []
+    max_p = ZOEKEISEN["max_prijs"]
+    html = playwright_fetch("https://roofz.eu/huur/woningen", wacht=6)
+    if not html:
+        return []
+    soup = BeautifulSoup(html, "html.parser")
+
+    for a in soup.select('a[href*="/huur/woningen/"]'):
+        try:
+            href = a.get("href", "")
+            # Overzichtslink zelf overslaan
+            if href.rstrip("/").endswith("/huur/woningen"):
+                continue
+            tekst = a.get_text(separator=" ", strip=True)
+            if not tekst or len(tekst) < 8:
+                continue
+            # Alleen Amsterdam
+            if "amsterdam" not in tekst.lower():
+                continue
+            prijs = extraheer_prijs_na_euro(tekst)
+            if prijs is None or prijs > max_p:
+                continue
+            # Titel = deel voor de postcode/prijs
+            titel = re.split(r'\d{4}\s?[A-Z]{2}|€', tekst)[0].strip(" ,·-") or tekst[:60]
+            link = href if href.startswith("http") else "https://roofz.eu" + href
+            resultaten.append({
+                "bron": "Roofz", "bron_url": "https://roofz.eu",
+                "titel": titel,
+                "prijs": f"€ {prijs} p/m" if prijs else "Zie website",
+                "details": tekst[:120],
+                "plaatsingsdatum": extraheer_datum(a),
+                "link": link,
+            })
+        except Exception:
+            pass
+    return resultaten
+
+
+def scrape_huurstunt() -> list[dict]:
+    """
+    Huurstunt — grote aggregator met veel particulier aanbod.
+    Let op: een deel van het aanbod zit achter een (gratis) account.
+    We halen wat publiek zichtbaar is; de rest zie je na inloggen.
+    """
+    from bs4 import BeautifulSoup
+    resultaten = []
+    max_p = ZOEKEISEN["max_prijs"]
+    urls = [
+        f"https://www.huurstunt.nl/huren/amsterdam/0-{max_p}",
+        "https://www.huurstunt.nl/studio/huren/amsterdam",
+    ]
+    for url in urls:
+        html = playwright_fetch(url, wacht=4)
+        if not html:
+            continue
+        soup = BeautifulSoup(html, "html.parser")
+        for a in soup.select('a[href*="/huurwoning/"], a[href*="/te-huur/"]'):
+            try:
+                href = a.get("href", "")
+                if not is_huur_url(href):
+                    continue
+                # Zoek het omliggende kaart-element voor prijs/details
+                kaart = a.find_parent(["li", "article", "div"]) or a
+                tekst = kaart.get_text(separator=" ", strip=True)
+                titel = a.get_text(strip=True)
+                if not titel or len(titel) < 5:
+                    continue
+                prijs = extraheer_prijs_na_euro(tekst) or extraheer_prijs(tekst)
+                if prijs and prijs > max_p:
+                    continue
+                link = href if href.startswith("http") else "https://www.huurstunt.nl" + href
+                resultaten.append({
+                    "bron": "Huurstunt", "bron_url": "https://www.huurstunt.nl",
+                    "titel": titel,
+                    "prijs": f"€ {prijs} p/m" if prijs else "Zie website",
+                    "details": "",
+                    "plaatsingsdatum": extraheer_datum(kaart),
+                    "link": link,
+                })
+            except Exception:
+                pass
+        time.sleep(2)
+    return resultaten
+
+
 # ─── Main ─────────────────────────────────────────────────
 
 BRONNEN = [
     ("Pararius",        scrape_pararius),
+    ("Roofz",           scrape_roofz),
+    ("Huurstunt",       scrape_huurstunt),
     ("Funda",           scrape_funda),
     ("Huurwoningen.nl", scrape_huurwoningen),
     ("Huislijn",        scrape_huislijn),
