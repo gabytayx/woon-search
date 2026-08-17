@@ -1,19 +1,30 @@
 {
-  "bijgewerkt": "17 Aug 2026 om 17:48",
-  "bijgewerkt_iso": "2026-08-17T17:48:26.206712",
+  "bijgewerkt": "17 Aug 2026 om 18:16",
+  "bijgewerkt_iso": "2026-08-17T18:16:58.448275",
   "aantal": 63,
-  "nieuw": 1,
+  "nieuw": 2,
   "woningen": [
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Insulindeweg",
+      "prijs": "",
       "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/ingenhouszhof-50-amsterdam/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/160ef248/insulindeweg/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-17T17:48:26.206642"
+      "gezien_sinds": "2026-08-17T18:16:58.448193"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ingenhouszhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/070c0a47/ingenhouszhof/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-17T18:16:58.448193"
     },
     {
       "bron": "Pararius",
@@ -667,28 +678,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Plesostraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/94c9d2cb/plesostraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Hofwijckstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/44f7edf9/hofwijckstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Anna Blamansingel",
       "prijs": "",
       "details": "",
@@ -696,6 +685,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:54:36.375962"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/ingenhouszhof-50-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T17:48:26.206642"
     }
   ]
 }
