@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "18 Aug 2026 om 10:25",
-  "bijgewerkt_iso": "2026-08-18T10:25:00.748772",
-  "aantal": 63,
+  "bijgewerkt": "18 Aug 2026 om 11:07",
+  "bijgewerkt_iso": "2026-08-18T11:07:30.981170",
+  "aantal": 62,
   "nieuw": 1,
   "woningen": [
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Julianaplein",
+      "titel": "Appartement Orteliuskade",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1b359c79/julianaplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2198935f/orteliuskade/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-18T10:25:00.748700"
+      "gezien_sinds": "2026-08-18T11:07:30.981095"
     },
     {
       "bron": "Pararius",
@@ -111,17 +111,6 @@
       "details": "66 m² · 2 kamers · Kaal",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/dd3468b1/beemsterstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein 359",
-      "prijs": "€ 815 per maand",
-      "details": "27 m² · 1 kamer · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/af6f31a2/elizabeth-cady-stantonplein",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
@@ -557,17 +546,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Picoweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b8dbac33/picoweg/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Anna Blamansingel",
       "prijs": "",
       "details": "",
@@ -696,6 +674,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T06:33:03.175577"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Julianaplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1b359c79/julianaplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T10:25:00.748700"
     }
   ]
 }
