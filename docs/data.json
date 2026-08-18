@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "18 Aug 2026 om 16:52",
-  "bijgewerkt_iso": "2026-08-18T16:52:09.780571",
-  "aantal": 62,
+  "bijgewerkt": "18 Aug 2026 om 17:23",
+  "bijgewerkt_iso": "2026-08-18T17:23:41.291005",
+  "aantal": 63,
   "nieuw": 1,
   "woningen": [
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Develstein",
+      "titel": "Appartement Oostenburgermiddenstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/7ed7bdf4/develstein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2ce8af35/oostenburgermiddenstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-18T16:52:09.780493"
+      "gezien_sinds": "2026-08-18T17:23:41.290907"
     },
     {
       "bron": "Pararius",
@@ -480,17 +480,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Haringbuisdijk",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/29f5e8b5/haringbuisdijk/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Anna Blamansingel",
       "prijs": "",
       "details": "",
@@ -632,6 +621,17 @@
       "gezien_sinds": "2026-08-18T11:07:30.981095"
     },
     {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/j-h-hisgenpad-948-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T11:48:15.287224"
+    },
+    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Rijswijkstraat",
@@ -685,6 +685,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T16:04:59.479648"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Develstein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/7ed7bdf4/develstein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T16:52:09.780493"
     }
   ]
 }
