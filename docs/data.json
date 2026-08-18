@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "18 Aug 2026 om 13:18",
-  "bijgewerkt_iso": "2026-08-18T13:18:37.738586",
+  "bijgewerkt": "18 Aug 2026 om 13:50",
+  "bijgewerkt_iso": "2026-08-18T13:50:00.668845",
   "aantal": 63,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Waalenburgsingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/db177808/waalenburgsingel/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-18T13:18:37.738517"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -696,6 +685,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T12:54:23.112929"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Waalenburgsingel",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/db177808/waalenburgsingel/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T13:18:37.738517"
     }
   ]
 }
