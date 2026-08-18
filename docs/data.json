@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "18 Aug 2026 om 17:23",
-  "bijgewerkt_iso": "2026-08-18T17:23:41.291005",
+  "bijgewerkt": "18 Aug 2026 om 18:01",
+  "bijgewerkt_iso": "2026-08-18T18:01:56.788008",
   "aantal": 63,
   "nieuw": 1,
   "woningen": [
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Oostenburgermiddenstraat",
+      "titel": "Appartement Rijswijkstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2ce8af35/oostenburgermiddenstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/767cdaae/rijswijkstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-18T17:23:41.290907"
+      "gezien_sinds": "2026-08-18T18:01:56.787919"
     },
     {
       "bron": "Pararius",
@@ -469,17 +469,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elisabeth Boddaertstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/70c11005/elisabeth-boddaertstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Anna Blamansingel",
       "prijs": "",
       "details": "",
@@ -696,6 +685,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T16:52:09.780493"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Oostenburgermiddenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2ce8af35/oostenburgermiddenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T17:23:41.290907"
     }
   ]
 }
