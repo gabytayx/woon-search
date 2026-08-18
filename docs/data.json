@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "18 Aug 2026 om 16:04",
-  "bijgewerkt_iso": "2026-08-18T16:04:59.479733",
-  "aantal": 64,
+  "bijgewerkt": "18 Aug 2026 om 16:52",
+  "bijgewerkt_iso": "2026-08-18T16:52:09.780571",
+  "aantal": 62,
   "nieuw": 1,
   "woningen": [
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Galjootstraat",
+      "titel": "Appartement Develstein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3b8b4089/galjootstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/7ed7bdf4/develstein/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-18T16:04:59.479648"
+      "gezien_sinds": "2026-08-18T16:52:09.780493"
     },
     {
       "bron": "Pararius",
@@ -346,17 +346,6 @@
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
     {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Panamalaan 141",
-      "prijs": "€ 1309 p/m",
-      "details": "Panamalaan 141 1019 AS, AMSTERDAM € 1.309 p/m 40 m² A+++",
-      "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/panamalaan-141",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Anna Blamansingel",
@@ -495,17 +484,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/29f5e8b5/haringbuisdijk/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Diamantstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f8b7bbad/diamantstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
@@ -654,17 +632,6 @@
       "gezien_sinds": "2026-08-18T11:07:30.981095"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/j-h-hisgenpad-948-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-18T11:48:15.287224"
-    },
-    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Rijswijkstraat",
@@ -707,6 +674,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T14:25:00.082019"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Galjootstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/3b8b4089/galjootstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T16:04:59.479648"
     }
   ]
 }
