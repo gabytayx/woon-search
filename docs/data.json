@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "18 Aug 2026 om 12:54",
-  "bijgewerkt_iso": "2026-08-18T12:54:23.113001",
+  "bijgewerkt": "18 Aug 2026 om 13:18",
+  "bijgewerkt_iso": "2026-08-18T13:18:37.738586",
   "aantal": 63,
   "nieuw": 1,
   "woningen": [
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Rijswijkstraat",
+      "titel": "Appartement Waalenburgsingel",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1d2ba18b/rijswijkstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/db177808/waalenburgsingel/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-18T12:54:23.112929"
+      "gezien_sinds": "2026-08-18T13:18:37.738517"
     },
     {
       "bron": "Pararius",
@@ -535,17 +535,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Diopter",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/19cd8fe7/diopter/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Anna Blamansingel",
       "prijs": "",
       "details": "",
@@ -696,6 +685,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T11:48:15.287224"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Rijswijkstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1d2ba18b/rijswijkstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T12:54:23.112929"
     }
   ]
 }
