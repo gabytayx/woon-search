@@ -1,9 +1,31 @@
 {
-  "bijgewerkt": "18 Aug 2026 om 01:45",
-  "bijgewerkt_iso": "2026-08-18T01:45:11.716356",
+  "bijgewerkt": "18 Aug 2026 om 03:04",
+  "bijgewerkt_iso": "2026-08-18T03:04:34.539133",
   "aantal": 64,
   "nieuw": 0,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Karspeldreef",
+      "prijs": "€ 1.306 per maand",
+      "details": "50 m² · 2 kamers · 2025",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c1cf07d5/karspeldreef",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Karspeldreef",
+      "prijs": "€ 1.306 per maand",
+      "details": "55 m² · 2 kamers · 2025",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bf611a82/karspeldreef",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -320,28 +342,6 @@
       "details": "23 m² · 1 kamer · Kaal",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/4be8a3e7/duivendrechtsekade",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Karspeldreef",
-      "prijs": "€ 1.306 per maand",
-      "details": "50 m² · 2 kamers · 2025",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c1cf07d5/karspeldreef",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Karspeldreef",
-      "prijs": "€ 1.306 per maand",
-      "details": "55 m² · 2 kamers · 2025",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bf611a82/karspeldreef",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
