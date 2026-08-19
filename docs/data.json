@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "19 Aug 2026 om 21:29",
-  "bijgewerkt_iso": "2026-08-19T21:29:18.192598",
+  "bijgewerkt": "19 Aug 2026 om 22:22",
+  "bijgewerkt_iso": "2026-08-19T22:22:21.434237",
   "aantal": 57,
   "nieuw": 0,
   "woningen": [
@@ -326,6 +326,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Martini van Geffenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6aafa673/martini-van-geffenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Anna Blamansingel",
       "prijs": "",
       "details": "",
@@ -531,17 +542,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T17:23:41.290907"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Rijswijkstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/767cdaae/rijswijkstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-18T18:01:56.787919"
     },
     {
       "bron": "Huurwoningen.nl",
