@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "19 Aug 2026 om 22:54",
-  "bijgewerkt_iso": "2026-08-19T22:54:08.150111",
+  "bijgewerkt": "19 Aug 2026 om 23:25",
+  "bijgewerkt_iso": "2026-08-19T23:25:06.470812",
   "aantal": 58,
-  "nieuw": 2,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Kamer Maria Snelplantsoen",
-      "prijs": "€ 610 per maandTransparantMeer informatie",
-      "details": "10 m² · 1 kamer · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/3ad22be4/maria-snelplantsoen",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-19T22:54:08.150043"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Kamer Maria Snelplantsoen",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/dd61f828/maria-snelplantsoen/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-19T22:54:08.150043"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -641,6 +619,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-19T19:19:45.969407"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Kamer Maria Snelplantsoen",
+      "prijs": "€ 610 per maandTransparantMeer informatie",
+      "details": "10 m² · 1 kamer · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/3ad22be4/maria-snelplantsoen",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-19T22:54:08.150043"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Kamer Maria Snelplantsoen",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/dd61f828/maria-snelplantsoen/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-19T22:54:08.150043"
     }
   ]
 }
