@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "19 Aug 2026 om 14:36",
-  "bijgewerkt_iso": "2026-08-19T14:36:01.377606",
-  "aantal": 61,
-  "nieuw": 0,
+  "bijgewerkt": "19 Aug 2026 om 15:27",
+  "bijgewerkt_iso": "2026-08-19T15:27:28.419230",
+  "aantal": 58,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Nieuwe Osdorpergracht 390 K",
+      "prijs": "€ 1111 p/m",
+      "details": "Nieuwe Osdorpergracht 390 K 1068 HV, AMSTERDAM € 1.111 p/m 50 m² A 2",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/nieuwe-osdorpergracht-390-k",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-19T15:27:28.419158"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -106,17 +117,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement August Allebéplein 122",
-      "prijs": "€ 915 per maand",
-      "details": "28 m² · 1 kamer · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/6933e11b/august-allebeplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement August Allebéplein 320",
       "prijs": "€ 915 per maand",
       "details": "29 m² · 1 kamer · Gestoffeerd",
@@ -150,44 +150,11 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement August Allebéplein 1004",
-      "prijs": "€ 915 per maand",
-      "details": "28 m² · 1 kamer · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/149dee39/august-allebeplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement August Allebéplein 952",
       "prijs": "€ 915 per maand",
       "details": "28 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c4dbc3fa/august-allebeplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement August Allebéplein 744",
-      "prijs": "€ 915 per maand",
-      "details": "28 m² · 1 kamer · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/9c8e7cd5/august-allebeplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement August Allebéplein 430",
-      "prijs": "€ 915 per maand",
-      "details": "29 m² · 1 kamer · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/88a370a5/august-allebeplein",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
