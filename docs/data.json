@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "19 Aug 2026 om 12:54",
-  "bijgewerkt_iso": "2026-08-19T12:54:30.709169",
+  "bijgewerkt": "19 Aug 2026 om 13:20",
+  "bijgewerkt_iso": "2026-08-19T13:20:21.957032",
   "aantal": 62,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Scheldestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/07cf292b/scheldestraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-19T13:20:21.956964"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -374,17 +385,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/1f893aa0/delflandlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Johan Hofmanstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/7560e8f5/johan-hofmanstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
