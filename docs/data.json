@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "19 Aug 2026 om 02:45",
-  "bijgewerkt_iso": "2026-08-19T02:45:28.464566",
-  "aantal": 62,
-  "nieuw": 0,
+  "bijgewerkt": "19 Aug 2026 om 04:13",
+  "bijgewerkt_iso": "2026-08-19T04:13:02.153443",
+  "aantal": 63,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albert Camuslaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2d7131e9/albert-camuslaan/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-19T04:13:02.153370"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -436,17 +447,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Eva Besnyöstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/61cc5d52/eva-besnyoestraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Anna Blamansingel",
       "prijs": "",
       "details": "",
@@ -588,6 +588,17 @@
       "gezien_sinds": "2026-08-18T11:07:30.981095"
     },
     {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/j-h-hisgenpad-948-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T11:48:15.287224"
+    },
+    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Waalenburgsingel",
@@ -603,8 +614,8 @@
       "bron_url": "https://roofz.eu",
       "titel": "Panamalaan 131",
       "prijs": "€ 1309 p/m",
-      "details": "Panamalaan 131 1019 AS, AMSTERDAM € 1.309 p/m 40 m² A+++ 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
+      "details": "Panamalaan 131 1019 AS, AMSTERDAM € 1.309 p/m 40 m² A+++ 1",
+      "plaatsingsdatum": "",
       "link": "https://roofz.eu/huur/woningen/panamalaan-131",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T14:25:00.082019"
