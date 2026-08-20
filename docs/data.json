@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "20 Aug 2026 om 16:08",
-  "bijgewerkt_iso": "2026-08-20T16:08:21.741704",
+  "bijgewerkt": "20 Aug 2026 om 16:54",
+  "bijgewerkt_iso": "2026-08-20T16:54:13.951981",
   "aantal": 58,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement August Allebéplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/70f4f81e/august-allebeplein/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-20T16:54:13.951913"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -238,28 +249,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Anna Blamansingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/fff02dfc/anna-blamansingel/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Anna Blamansingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/31360da8/anna-blamansingel/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:54:36.375962"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Insulindeweg",
       "prijs": "",
       "details": "",
@@ -476,6 +465,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T18:58:13.792854"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albert Camuslaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2d7131e9/albert-camuslaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-19T04:13:02.153370"
     },
     {
       "bron": "Huurwoningen.nl",
