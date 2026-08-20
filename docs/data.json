@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "20 Aug 2026 om 12:56",
-  "bijgewerkt_iso": "2026-08-20T12:56:38.585163",
+  "bijgewerkt": "20 Aug 2026 om 13:19",
+  "bijgewerkt_iso": "2026-08-20T13:19:20.048649",
   "aantal": 60,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Henk Henriëtstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/c1a62260/henk-henrietstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-20T12:56:38.585092"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -663,6 +652,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-20T11:26:27.715243"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Henk Henriëtstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c1a62260/henk-henrietstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-20T12:56:38.585092"
     }
   ]
 }
