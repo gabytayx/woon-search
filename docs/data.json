@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "20 Aug 2026 om 11:26",
-  "bijgewerkt_iso": "2026-08-20T11:26:27.715318",
+  "bijgewerkt": "20 Aug 2026 om 11:59",
+  "bijgewerkt_iso": "2026-08-20T11:59:18.327631",
   "aantal": 60,
-  "nieuw": 2,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Haarlemmerweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/dc7dd969/haarlemmerweg/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-20T11:26:27.715243"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement August Allebéplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2ac04f53/august-allebeplein/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-20T11:26:27.715243"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -663,6 +641,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-20T10:55:43.063095"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Haarlemmerweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/dc7dd969/haarlemmerweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-20T11:26:27.715243"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement August Allebéplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2ac04f53/august-allebeplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-20T11:26:27.715243"
     }
   ]
 }
