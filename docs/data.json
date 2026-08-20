@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "20 Aug 2026 om 15:27",
-  "bijgewerkt_iso": "2026-08-20T15:27:14.017318",
+  "bijgewerkt": "20 Aug 2026 om 16:08",
+  "bijgewerkt_iso": "2026-08-20T16:08:21.741704",
   "aantal": 58,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ottho Heldringstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/14c8828f/ottho-heldringstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-20T15:27:14.017240"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -641,6 +630,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-20T12:56:38.585092"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ottho Heldringstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/14c8828f/ottho-heldringstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-20T15:27:14.017240"
     }
   ]
 }
