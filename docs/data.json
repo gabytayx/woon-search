@@ -1,9 +1,42 @@
 {
-  "bijgewerkt": "20 Aug 2026 om 10:04",
-  "bijgewerkt_iso": "2026-08-20T10:04:57.523943",
-  "aantal": 58,
-  "nieuw": 0,
+  "bijgewerkt": "20 Aug 2026 om 10:55",
+  "bijgewerkt_iso": "2026-08-20T10:55:43.063179",
+  "aantal": 60,
+  "nieuw": 3,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement August Allebéplein 572",
+      "prijs": "€ 915 per maand",
+      "details": "28 m² · 1 kamer · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/f9b443b4/august-allebeplein",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-20T10:55:43.063095"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Haarlemmerweg 858",
+      "prijs": "€ 1.485 per maand",
+      "details": "46 m² · 2 kamers · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/832a2149/haarlemmerweg",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-20T10:55:43.063095"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Varikstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/a3f2cf6b/varikstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-20T10:55:43.063095"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -308,17 +341,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/1f893aa0/delflandlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Martini van Geffenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6aafa673/martini-van-geffenstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
