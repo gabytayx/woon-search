@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "20 Aug 2026 om 21:11",
-  "bijgewerkt_iso": "2026-08-20T21:11:04.155659",
+  "bijgewerkt": "20 Aug 2026 om 21:44",
+  "bijgewerkt_iso": "2026-08-20T21:44:49.090006",
   "aantal": 58,
   "nieuw": 0,
   "woningen": [
@@ -249,17 +249,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kiekstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/9f270c30/kiekstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T21:07:56.093666"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Cruquiusweg",
       "prijs": "",
       "details": "",
@@ -388,6 +377,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T18:58:13.792854"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albert Camuslaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2d7131e9/albert-camuslaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-19T04:13:02.153370"
     },
     {
       "bron": "Huurwoningen.nl",
