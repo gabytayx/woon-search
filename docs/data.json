@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "21 Aug 2026 om 17:25",
-  "bijgewerkt_iso": "2026-08-21T17:25:41.101603",
+  "bijgewerkt": "21 Aug 2026 om 17:57",
+  "bijgewerkt_iso": "2026-08-21T17:57:33.598620",
   "aantal": 59,
   "nieuw": 0,
   "woningen": [
@@ -234,6 +234,28 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/02a03bcb/ingenhouszhof",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T18:48:02.964884"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Galjootstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/3b8b4089/galjootstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T16:04:59.479648"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Develstein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/7ed7bdf4/develstein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T16:52:09.780493"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -520,28 +542,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-20T18:26:08.569846"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ladogameerhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ca6e15fb/ladogameerhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-21T11:28:29.486663"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Maasdrielhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/e02d88bd/maasdrielhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-21T11:28:29.486663"
     },
     {
       "bron": "Huurwoningen.nl",
