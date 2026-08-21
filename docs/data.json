@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "21 Aug 2026 om 05:17",
-  "bijgewerkt_iso": "2026-08-21T05:17:12.180930",
-  "aantal": 58,
+  "bijgewerkt": "21 Aug 2026 om 06:03",
+  "bijgewerkt_iso": "2026-08-21T06:03:51.742873",
+  "aantal": 57,
   "nieuw": 0,
   "woningen": [
     {
@@ -249,17 +249,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bovenover",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/45061ba9/bovenover/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T19:19:06.562314"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Kiekstraat",
       "prijs": "",
       "details": "",
@@ -392,6 +381,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albert Camuslaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2d7131e9/albert-camuslaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-19T04:13:02.153370"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Koos Vorrinkweg",
       "prijs": "",
       "details": "",
@@ -443,17 +443,6 @@
       "link": "https://roofz.eu/huur/woningen/nieuwe-osdorpergracht-390-k",
       "nieuw": false,
       "gezien_sinds": "2026-08-19T15:27:28.419158"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/elzenhagensingel-224-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-19T19:19:45.969407"
     },
     {
       "bron": "Pararius",
