@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "21 Aug 2026 om 14:27",
-  "bijgewerkt_iso": "2026-08-21T14:27:05.693933",
+  "bijgewerkt": "21 Aug 2026 om 15:26",
+  "bijgewerkt_iso": "2026-08-21T15:26:35.040405",
   "aantal": 56,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Jan Ligthartstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/298288d2/jan-ligthartstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-21T15:26:35.040319"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -234,28 +245,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/02a03bcb/ingenhouszhof",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T18:48:02.964884"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Cruquiusweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5221b367/cruquiusweg/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-18T06:33:03.175577"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Orteliuskade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2198935f/orteliuskade/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-18T11:07:30.981095"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -605,6 +594,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/e02d88bd/maasdrielhof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-21T11:28:29.486663"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Kometensingel",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/8c9146c7/kometensingel/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-21T11:28:29.486663"
