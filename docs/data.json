@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "21 Aug 2026 om 06:53",
-  "bijgewerkt_iso": "2026-08-21T06:53:31.210766",
+  "bijgewerkt": "21 Aug 2026 om 07:24",
+  "bijgewerkt_iso": "2026-08-21T07:24:58.200398",
   "aantal": 58,
   "nieuw": 0,
   "woningen": [
@@ -253,6 +253,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/45061ba9/bovenover/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T19:19:06.562314"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bert Haanstrakade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/00a553a2/bert-haanstrakade/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T19:19:06.562314"
@@ -616,17 +627,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/a34bf3ee/olga-de-haasstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-20T17:58:13.056965"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Olga de Haasstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/c7961e83/olga-de-haasstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-20T17:58:13.056965"
