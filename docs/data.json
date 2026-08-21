@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "21 Aug 2026 om 12:28",
-  "bijgewerkt_iso": "2026-08-21T12:28:42.530360",
-  "aantal": 57,
-  "nieuw": 0,
+  "bijgewerkt": "21 Aug 2026 om 12:57",
+  "bijgewerkt_iso": "2026-08-21T12:57:10.736881",
+  "aantal": 56,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Osdorper Ban",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/8aaac9ce/osdorper-ban/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-21T12:57:10.736809"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -45,17 +56,6 @@
       "details": "41 m² · 2 kamers · 2015",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a669f64a/paradijsplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Karspeldreef 4 18",
-      "prijs": "€ 932 per maand",
-      "details": "43 m² · 1 kamer · 2022",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/abcdc691/karspeldreef",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
@@ -253,17 +253,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/5221b367/cruquiusweg/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-18T06:33:03.175577"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Cruquiusweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/964e571b/cruquiusweg/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T06:33:03.175577"
