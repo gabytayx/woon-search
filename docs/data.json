@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "22 Aug 2026 om 17:22",
-  "bijgewerkt_iso": "2026-08-22T17:22:27.542196",
+  "bijgewerkt": "22 Aug 2026 om 17:44",
+  "bijgewerkt_iso": "2026-08-22T17:44:56.458279",
   "aantal": 61,
   "nieuw": 0,
   "woningen": [
@@ -249,17 +249,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Willem Augustinstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/85093d9d/willem-augustinstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-18T18:58:13.792854"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Albert Camuslaan",
       "prijs": "",
       "details": "",
@@ -495,6 +484,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/ca6e15fb/ladogameerhof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-21T11:28:29.486663"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Maasdrielhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e02d88bd/maasdrielhof/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-21T11:28:29.486663"
