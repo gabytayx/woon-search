@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "22 Aug 2026 om 10:34",
-  "bijgewerkt_iso": "2026-08-22T10:34:52.253188",
+  "bijgewerkt": "22 Aug 2026 om 11:03",
+  "bijgewerkt_iso": "2026-08-22T11:03:39.792427",
   "aantal": 59,
-  "nieuw": 2,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kloveniersburgwal",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/67cc3e32/kloveniersburgwal/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-22T10:34:52.253118"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Victoria Welbystraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/bcd30d79/victoria-welbystraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-22T10:34:52.253118"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -652,6 +630,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-21T16:53:28.378363"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Kloveniersburgwal",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/67cc3e32/kloveniersburgwal/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-22T10:34:52.253118"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Victoria Welbystraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/bcd30d79/victoria-welbystraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-22T10:34:52.253118"
     }
   ]
 }
