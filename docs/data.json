@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "22 Aug 2026 om 08:23",
-  "bijgewerkt_iso": "2026-08-22T08:23:28.441250",
+  "bijgewerkt": "22 Aug 2026 om 09:09",
+  "bijgewerkt_iso": "2026-08-22T09:09:12.151091",
   "aantal": 59,
   "nieuw": 0,
   "woningen": [
@@ -304,17 +304,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Albert Camuslaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2d7131e9/albert-camuslaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-19T04:13:02.153370"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Koos Vorrinkweg",
       "prijs": "",
       "details": "",
@@ -553,6 +542,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-20T18:26:08.569846"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Maasdrielhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e02d88bd/maasdrielhof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-21T11:28:29.486663"
     },
     {
       "bron": "Huurwoningen.nl",
