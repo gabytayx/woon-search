@@ -1,30 +1,19 @@
 {
-  "bijgewerkt": "22 Aug 2026 om 13:58",
-  "bijgewerkt_iso": "2026-08-22T13:58:13.811168",
+  "bijgewerkt": "22 Aug 2026 om 14:21",
+  "bijgewerkt_iso": "2026-08-22T14:21:38.487942",
   "aantal": 60,
-  "nieuw": 2,
+  "nieuw": 1,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Kamer Duivendrechtsekade",
-      "prijs": "€ 650 per maand",
-      "details": "18 m² · 1 kamer · Gemeubileerd",
+      "titel": "Appartement Albert Cuypstraat",
+      "prijs": "€ 975 per maandTransparantMeer informatie",
+      "details": "28 m² · 1 kamer · Gemeubileerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/f5ed91ae/duivendrechtsekade",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bb2baabb/albert-cuypstraat",
       "nieuw": true,
-      "gezien_sinds": "2026-08-22T13:58:13.811101"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Kamer Duivendrechtsekade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/66589725/duivendrechtsekade/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-22T13:58:13.811101"
+      "gezien_sinds": "2026-08-22T14:21:38.487859"
     },
     {
       "bron": "Pararius",
@@ -260,6 +249,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Hembrugstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/257b16d3/hembrugstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T14:25:00.082019"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Galjootstraat",
       "prijs": "",
       "details": "",
@@ -355,17 +355,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-19T13:20:21.956964"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/elzenhagensingel-224-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-19T19:19:45.969407"
     },
     {
       "bron": "Pararius",
@@ -524,17 +513,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Olga de Haasstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a34bf3ee/olga-de-haasstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-20T17:58:13.056965"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Sint Nicolaasstraat",
       "prijs": "",
       "details": "",
@@ -663,6 +641,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-22T10:34:52.253118"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Kamer Duivendrechtsekade",
+      "prijs": "€ 650 per maand",
+      "details": "18 m² · 1 kamer · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/f5ed91ae/duivendrechtsekade",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-22T13:58:13.811101"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Kamer Duivendrechtsekade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/66589725/duivendrechtsekade/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-22T13:58:13.811101"
     }
   ]
 }
