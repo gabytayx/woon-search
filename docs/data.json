@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "22 Aug 2026 om 11:03",
-  "bijgewerkt_iso": "2026-08-22T11:03:39.792427",
+  "bijgewerkt": "22 Aug 2026 om 11:41",
+  "bijgewerkt_iso": "2026-08-22T11:41:24.351664",
   "aantal": 59,
   "nieuw": 0,
   "woningen": [
@@ -234,6 +234,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/02a03bcb/ingenhouszhof",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T18:48:02.964884"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Develstein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/7ed7bdf4/develstein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T16:52:09.780493"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -517,17 +528,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/ca6e15fb/ladogameerhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-21T11:28:29.486663"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kometensingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/8c9146c7/kometensingel/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-21T11:28:29.486663"
