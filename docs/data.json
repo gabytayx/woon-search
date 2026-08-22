@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "22 Aug 2026 om 13:13",
-  "bijgewerkt_iso": "2026-08-22T13:13:56.255979",
-  "aantal": 58,
+  "bijgewerkt": "22 Aug 2026 om 13:35",
+  "bijgewerkt_iso": "2026-08-22T13:35:12.634945",
+  "aantal": 59,
   "nieuw": 0,
   "woningen": [
     {
@@ -333,6 +333,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-19T13:20:21.956964"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/elzenhagensingel-224-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-19T19:19:45.969407"
     },
     {
       "bron": "Pararius",
