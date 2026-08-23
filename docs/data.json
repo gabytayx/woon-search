@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "23 Aug 2026 om 13:18",
-  "bijgewerkt_iso": "2026-08-23T13:18:06.668144",
+  "bijgewerkt": "23 Aug 2026 om 13:44",
+  "bijgewerkt_iso": "2026-08-23T13:44:41.545968",
   "aantal": 60,
   "nieuw": 0,
   "woningen": [
@@ -227,6 +227,28 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Develstein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/7ed7bdf4/develstein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T16:52:09.780493"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Oostenburgermiddenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2ce8af35/oostenburgermiddenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T17:23:41.290907"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement President Allendelaan",
       "prijs": "",
       "details": "",
@@ -238,13 +260,13 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Albert Camuslaan",
+      "titel": "Appartement Willem Augustinstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2d7131e9/albert-camuslaan/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/85093d9d/willem-augustinstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-08-19T04:13:02.153370"
+      "gezien_sinds": "2026-08-18T18:58:13.792854"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -473,28 +495,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/ca6e15fb/ladogameerhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-21T11:28:29.486663"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Maasdrielhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/e02d88bd/maasdrielhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-21T11:28:29.486663"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kometensingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/8c9146c7/kometensingel/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-21T11:28:29.486663"
