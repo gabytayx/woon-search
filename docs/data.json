@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "23 Aug 2026 om 14:35",
-  "bijgewerkt_iso": "2026-08-23T14:35:06.007744",
+  "bijgewerkt": "23 Aug 2026 om 15:12",
+  "bijgewerkt_iso": "2026-08-23T15:12:02.134137",
   "aantal": 60,
   "nieuw": 0,
   "woningen": [
@@ -227,17 +227,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Galjootstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3b8b4089/galjootstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-18T16:04:59.479648"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Develstein",
       "prijs": "",
       "details": "",
@@ -278,6 +267,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T18:58:13.792854"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albert Camuslaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2d7131e9/albert-camuslaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-19T04:13:02.153370"
     },
     {
       "bron": "Huurwoningen.nl",
