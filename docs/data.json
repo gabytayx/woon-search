@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "23 Aug 2026 om 17:14",
-  "bijgewerkt_iso": "2026-08-23T17:14:21.562784",
+  "bijgewerkt": "23 Aug 2026 om 17:37",
+  "bijgewerkt_iso": "2026-08-23T17:37:23.041156",
   "aantal": 60,
   "nieuw": 0,
   "woningen": [
@@ -238,6 +238,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Willem Augustinstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/85093d9d/willem-augustinstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T18:58:13.792854"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Albert Camuslaan",
       "prijs": "",
       "details": "",
@@ -465,17 +476,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-20T18:26:08.569846"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ladogameerhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ca6e15fb/ladogameerhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-21T11:28:29.486663"
     },
     {
       "bron": "Huurwoningen.nl",
