@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "24 Aug 2026 om 06:08",
-  "bijgewerkt_iso": "2026-08-24T06:08:38.682615",
+  "bijgewerkt": "24 Aug 2026 om 07:00",
+  "bijgewerkt_iso": "2026-08-24T07:00:54.713750",
   "aantal": 60,
   "nieuw": 0,
   "woningen": [
@@ -227,6 +227,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Koos Vorrinkweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4837b8e9/koos-vorrinkweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-19T11:50:46.599499"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Christoffel Plantijnpad",
       "prijs": "",
       "details": "",
@@ -429,17 +440,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/ca6e15fb/ladogameerhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-21T11:28:29.486663"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Maasdrielhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/e02d88bd/maasdrielhof/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-21T11:28:29.486663"
