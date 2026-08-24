@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "24 Aug 2026 om 15:30",
-  "bijgewerkt_iso": "2026-08-24T15:30:46.665697",
+  "bijgewerkt": "24 Aug 2026 om 16:12",
+  "bijgewerkt_iso": "2026-08-24T16:12:29.174441",
   "aantal": 62,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ekingenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/8923e12b/ekingenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-24T15:30:46.665620"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -685,6 +674,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/67fb0fa5/beemsterstraat",
       "nieuw": false,
       "gezien_sinds": "2026-08-24T12:03:17.174568"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ekingenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/8923e12b/ekingenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-24T15:30:46.665620"
     }
   ]
 }
