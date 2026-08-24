@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "24 Aug 2026 om 23:52",
-  "bijgewerkt_iso": "2026-08-24T23:52:59.688494",
+  "bijgewerkt": "25 Aug 2026 om 00:17",
+  "bijgewerkt_iso": "2026-08-25T00:17:23.534484",
   "aantal": 62,
   "nieuw": 0,
   "woningen": [
@@ -223,17 +223,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/02a03bcb/ingenhouszhof",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T18:48:02.964884"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement President Allendelaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b0059786/president-allendelaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-18T18:58:13.792854"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -619,6 +608,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-22T15:09:15.814354"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Sint Annenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/23b8138d/sint-annenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-24T05:17:24.443219"
     },
     {
       "bron": "Pararius",
