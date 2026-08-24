@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "24 Aug 2026 om 07:40",
-  "bijgewerkt_iso": "2026-08-24T07:40:01.212513",
+  "bijgewerkt": "24 Aug 2026 om 08:10",
+  "bijgewerkt_iso": "2026-08-24T08:10:23.686981",
   "aantal": 60,
   "nieuw": 0,
   "woningen": [
@@ -227,6 +227,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Oostenburgermiddenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2ce8af35/oostenburgermiddenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-18T17:23:41.290907"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement President Allendelaan",
       "prijs": "",
       "details": "",
@@ -245,17 +256,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-18T18:58:13.792854"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Albert Camuslaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/2d7131e9/albert-camuslaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-19T04:13:02.153370"
     },
     {
       "bron": "Huurwoningen.nl",
