@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "25 Aug 2026 om 02:43",
-  "bijgewerkt_iso": "2026-08-25T02:43:25.842686",
+  "bijgewerkt": "25 Aug 2026 om 04:09",
+  "bijgewerkt_iso": "2026-08-25T04:09:45.859608",
   "aantal": 62,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Eerste Oosterparkstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/159c1a74/eerste-oosterparkstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-25T04:09:45.859506"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -223,6 +234,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/02a03bcb/ingenhouszhof",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T18:48:02.964884"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Scheldestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/07cf292b/scheldestraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-19T13:20:21.956964"
     },
     {
       "bron": "Pararius",
@@ -590,32 +612,10 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Sint Annenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/23b8138d/sint-annenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-24T05:17:24.443219"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Nieuwe Westerdokstraat",
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/4bc47799/nieuwe-westerdokstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-24T05:17:24.443219"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Overslaghof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/735820f5/overslaghof/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-24T05:17:24.443219"
