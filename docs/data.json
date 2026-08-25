@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "25 Aug 2026 om 12:03",
-  "bijgewerkt_iso": "2026-08-25T12:03:19.521598",
-  "aantal": 63,
-  "nieuw": 0,
+  "bijgewerkt": "25 Aug 2026 om 12:49",
+  "bijgewerkt_iso": "2026-08-25T12:49:08.428237",
+  "aantal": 62,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Lorriestraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/62a9d157/lorriestraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-25T12:49:08.428156"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -111,17 +122,6 @@
       "details": "27 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/9926da3e/august-allebeplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Studio Spijkerkade",
-      "prijs": "€ 1.500 per maand",
-      "details": "25 m² · 1 kamer · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/studio-te-huur/amsterdam/f28b9cd8/spijkerkade",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
@@ -421,17 +421,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-20T18:26:08.569846"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Maasdrielhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/e02d88bd/maasdrielhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-21T11:28:29.486663"
     },
     {
       "bron": "Huurwoningen.nl",
