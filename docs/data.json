@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "25 Aug 2026 om 22:54",
-  "bijgewerkt_iso": "2026-08-25T22:54:33.312662",
-  "aantal": 62,
+  "bijgewerkt": "25 Aug 2026 om 23:19",
+  "bijgewerkt_iso": "2026-08-25T23:19:56.479934",
+  "aantal": 61,
   "nieuw": 0,
   "woningen": [
     {
@@ -557,17 +557,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ekingenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/8923e12b/ekingenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-24T15:30:46.665620"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement mt. Lincolnweg",
       "prijs": "",
       "details": "",
@@ -605,6 +594,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/2bff65ab/hendrik-jacobszstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-25T09:25:35.546027"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Speijkstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d58ca5c9/van-speijkstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-25T09:25:35.546027"
@@ -652,17 +652,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-25T15:29:08.014550"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/van-speijkstraat-154-4-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-25T18:30:49.733340"
     },
     {
       "bron": "Huurwoningen.nl",
