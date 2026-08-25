@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "25 Aug 2026 om 22:18",
-  "bijgewerkt_iso": "2026-08-25T22:18:52.985294",
+  "bijgewerkt": "25 Aug 2026 om 22:54",
+  "bijgewerkt_iso": "2026-08-25T22:54:33.312662",
   "aantal": 62,
   "nieuw": 0,
   "woningen": [
@@ -238,6 +238,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ottho Heldringstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/14c8828f/ottho-heldringstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-20T15:27:14.017240"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement August Allebéplein",
       "prijs": "",
       "details": "",
@@ -326,10 +337,10 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kometensingel",
+      "titel": "Appartement Maasdrielhof",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/8c9146c7/kometensingel/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e02d88bd/maasdrielhof/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-21T11:28:29.486663"
@@ -502,6 +513,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Nieuwe Westerdokstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4bc47799/nieuwe-westerdokstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-24T05:17:24.443219"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Overslaghof",
       "prijs": "",
       "details": "",
@@ -568,17 +590,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Eerste Oosterparkstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/159c1a74/eerste-oosterparkstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-25T04:09:45.859506"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Fazantenweg",
       "prijs": "",
       "details": "",
@@ -594,17 +605,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/2bff65ab/hendrik-jacobszstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-25T09:25:35.546027"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Van Speijkstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d58ca5c9/van-speijkstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-25T09:25:35.546027"
