@@ -1,9 +1,31 @@
 {
-  "bijgewerkt": "26 Aug 2026 om 13:56",
-  "bijgewerkt_iso": "2026-08-26T13:56:47.341928",
+  "bijgewerkt": "26 Aug 2026 om 14:31",
+  "bijgewerkt_iso": "2026-08-26T14:31:03.104114",
   "aantal": 61,
-  "nieuw": 0,
+  "nieuw": 2,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Jan van Galenstraat",
+      "prijs": "€ 1.365 per maand",
+      "details": "50 m² · 3 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/5be0fc9c/jan-van-galenstraat",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-26T14:31:03.104010"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Baron G.A. Tindalplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/08e0582d/baron-g-a-tindalplein/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-26T14:31:03.104010"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -67,17 +89,6 @@
       "details": "66 m² · 2 kamers · Kaal",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/dd3468b1/beemsterstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Duifjessteeg 4",
-      "prijs": "€ 1.056 per maand",
-      "details": "73 m² · 2 kamers · 1990",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/70b2efd8/duifjessteeg",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
@@ -253,17 +264,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/10dd0f5f/willem-parelstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-20T17:25:52.356989"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Huis Schiermonnikoogstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f8a94bbf/schiermonnikoogstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-20T17:25:52.356989"
