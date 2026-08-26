@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "26 Aug 2026 om 16:25",
-  "bijgewerkt_iso": "2026-08-26T16:25:59.784176",
+  "bijgewerkt": "26 Aug 2026 om 17:59",
+  "bijgewerkt_iso": "2026-08-26T17:59:25.396423",
   "aantal": 60,
   "nieuw": 1,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Alfred Döblinstraat",
-      "prijs": "",
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f9b32c0c/alfred-doeblinstraat/",
+      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-391-amsterdam/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-26T16:25:59.784090"
+      "gezien_sinds": "2026-08-26T17:59:25.396346"
     },
     {
       "bron": "Pararius",
@@ -236,17 +236,6 @@
       "gezien_sinds": "2026-08-20T10:55:43.063095"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement August Allebéplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/70f4f81e/august-allebeplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-20T16:54:13.951913"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement August Allebéplein 724",
@@ -315,10 +304,10 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ladogameerhof",
+      "titel": "Appartement Maasdrielhof",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ca6e15fb/ladogameerhof/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e02d88bd/maasdrielhof/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-21T11:28:29.486663"
@@ -557,6 +546,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Fazantenweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4e567c69/fazantenweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-25T05:13:35.401604"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Hendrik Jacobszstraat",
       "prijs": "",
       "details": "",
@@ -568,22 +568,22 @@
     {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
-      "titel": "Panamalaan 287",
+      "titel": "Panamalaan 307",
       "prijs": "€ 1309 p/m",
-      "details": "Panamalaan 287 1019 AS, AMSTERDAM € 1.309 p/m 40 m² A+++ 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
-      "link": "https://roofz.eu/huur/woningen/panamalaan-287",
+      "details": "Panamalaan 307 1019 AS, AMSTERDAM € 1.309 p/m 40 m² A+++ 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/panamalaan-307",
       "nieuw": false,
       "gezien_sinds": "2026-08-25T10:08:07.556435"
     },
     {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
-      "titel": "Panamalaan 307",
+      "titel": "Panamalaan 287",
       "prijs": "€ 1309 p/m",
-      "details": "Panamalaan 307 1019 AS, AMSTERDAM € 1.309 p/m 40 m² A+++ 1",
+      "details": "Panamalaan 287 1019 AS, AMSTERDAM € 1.309 p/m 40 m² A+++ 1",
       "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/panamalaan-307",
+      "link": "https://roofz.eu/huur/woningen/panamalaan-287",
       "nieuw": false,
       "gezien_sinds": "2026-08-25T10:08:07.556435"
     },
@@ -608,17 +608,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-25T15:29:08.014550"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/van-speijkstraat-154-4-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-25T18:30:49.733340"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -663,6 +652,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-26T14:31:03.104010"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Alfred Döblinstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/f9b32c0c/alfred-doeblinstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-26T16:25:59.784090"
     }
   ]
 }
