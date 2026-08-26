@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "26 Aug 2026 om 18:45",
-  "bijgewerkt_iso": "2026-08-26T18:45:56.053299",
+  "bijgewerkt": "26 Aug 2026 om 20:26",
+  "bijgewerkt_iso": "2026-08-26T20:26:02.600393",
   "aantal": 60,
   "nieuw": 0,
   "woningen": [
@@ -304,17 +304,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ladogameerhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ca6e15fb/ladogameerhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-21T11:28:29.486663"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Osdorper Ban",
       "prijs": "",
       "details": "",
@@ -531,6 +520,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-25T04:09:45.859506"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Fazantenweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4e567c69/fazantenweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-25T05:13:35.401604"
     },
     {
       "bron": "Huurwoningen.nl",
