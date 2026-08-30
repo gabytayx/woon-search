@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "30 Aug 2026 om 01:22",
-  "bijgewerkt_iso": "2026-08-30T01:22:41.482582",
+  "bijgewerkt": "30 Aug 2026 om 03:24",
+  "bijgewerkt_iso": "2026-08-30T03:24:48.880439",
   "aantal": 68,
   "nieuw": 0,
   "woningen": [
@@ -260,28 +260,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Haarlemmerweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ae3faeb9/haarlemmerweg/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-25T10:08:07.556435"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Tartaud-Kleinhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/127ec36a/tartaud-kleinhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-25T15:29:08.014550"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Ottho Heldringstraat",
       "prijs": "",
       "details": "",
@@ -425,22 +403,22 @@
     {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
-      "titel": "Spaklerweg 14 F-18",
+      "titel": "Spaklerweg 14 C-24",
       "prijs": "€ 1298 p/m",
-      "details": "Spaklerweg 14 F-18 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
-      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-f-18",
+      "details": "Spaklerweg 14 C-24 1096 BA, AMSTERDAM € 1.298 p/m 40 m² A 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-c-24",
       "nieuw": false,
       "gezien_sinds": "2026-08-27T18:50:36.609809"
     },
     {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
-      "titel": "Spaklerweg 14 C-24",
+      "titel": "Spaklerweg 14 G-12",
       "prijs": "€ 1298 p/m",
-      "details": "Spaklerweg 14 C-24 1096 BA, AMSTERDAM € 1.298 p/m 40 m² A 1",
+      "details": "Spaklerweg 14 G-12 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
       "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-c-24",
+      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-g-12",
       "nieuw": false,
       "gezien_sinds": "2026-08-27T18:50:36.609809"
     },
@@ -678,6 +656,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Lijnbaansgracht",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/109aff88/lijnbaansgracht/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-29T00:49:56.027151"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Vlietstraat",
       "prijs": "",
       "details": "",
@@ -693,6 +682,17 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/725a2fc1/wiltzanghlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-29T05:59:55.229697"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Vrolikstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1c5c4224/vrolikstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T05:59:55.229697"
