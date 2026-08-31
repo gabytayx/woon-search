@@ -1,85 +1,63 @@
 {
-  "bijgewerkt": "31 Aug 2026 om 15:43",
-  "bijgewerkt_iso": "2026-08-31T15:43:01.110832",
+  "bijgewerkt": "31 Aug 2026 om 21:42",
+  "bijgewerkt_iso": "2026-08-31T21:42:11.299343",
   "aantal": 64,
-  "nieuw": 7,
+  "nieuw": 5,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Jan Postmahof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/39a23d7c/jan-postmahof/",
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Kamer Kleiburg 1033 A",
+      "prijs": "€ 1.095 per maand",
+      "details": "25 m² · 1 kamer · Gemeubileerd",
       "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/90ba3b05/kleiburg",
       "nieuw": true,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
+      "gezien_sinds": "2026-08-31T21:42:11.299253"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Schipluidenlaan 420",
+      "prijs": "€ 1035 p/m",
+      "details": "Schipluidenlaan 420 1062 HE, AMSTERDAM € 1.035 p/m 39 m² A 1 Available from: 1-10-2026",
+      "plaatsingsdatum": "1-10-2026",
+      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-420",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-31T21:42:11.299253"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Schipluidenlaan 434",
+      "prijs": "€ 1049 p/m",
+      "details": "Schipluidenlaan 434 1062 HE, AMSTERDAM € 1.049 p/m 41 m² A Available from: 1-10-2026",
+      "plaatsingsdatum": "1-10-2026",
+      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-434",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-31T21:42:11.299253"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Schipluidenlaan 834",
+      "prijs": "€ 1070 p/m",
+      "details": "Schipluidenlaan 834 1062 HE, AMSTERDAM € 1.070 p/m 41 m² A 1 Available from: 1-10-2026",
+      "plaatsingsdatum": "1-10-2026",
+      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-834",
+      "nieuw": true,
+      "gezien_sinds": "2026-08-31T21:42:11.299253"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Willem Parelstraat",
+      "titel": "Appartement IJdoornlaan",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/59d9f5a5/willem-parelstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/f69de34f/ijdoornlaan/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Willem Parelstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a9cba84e/willem-parelstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Stoomgemaalstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/983668bc/stoomgemaalstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Asterweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/15bba96d/asterweg/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Heathrowstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/69732935/heathrowstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Buikslotermeerplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/7dbb5281/buikslotermeerplein/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
+      "gezien_sinds": "2026-08-31T21:42:11.299253"
     },
     {
       "bron": "Pararius",
@@ -118,7 +96,7 @@
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Elizabeth Cady Stantonplein 267",
-      "prijs": "€ 815 per maand",
+      "prijs": "€ 830 per maand",
       "details": "27 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/5786852f/elizabeth-cady-stantonplein",
@@ -144,17 +122,6 @@
       "details": "10 m² · 1 kamer · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/2837e837/klaas-katerstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Haarlemmerweg 912",
-      "prijs": "€ 1.496 per maand",
-      "details": "46 m² · 2 kamers · Kaal",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/22ccaf79/haarlemmerweg",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
@@ -447,6 +414,39 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/72ae606f/elizabeth-cady-stantonplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-27T18:50:36.609809"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement August Allebéplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c81cf88e/august-allebeplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-27T18:50:36.609809"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c15353ca/elizabeth-cady-stantonplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-27T18:50:36.609809"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Spaklerweg",
       "prijs": "",
       "details": "",
@@ -485,39 +485,6 @@
       "details": "Spaklerweg 14 K-12 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1 Available from: 1-10-2026",
       "plaatsingsdatum": "1-10-2026",
       "link": "https://roofz.eu/huur/woningen/spaklerweg-14-k-12",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-28T14:48:28.866348"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Spaklerweg 14 F-13",
-      "prijs": "€ 1298 p/m",
-      "details": "Spaklerweg 14 F-13 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
-      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-f-13",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-28T14:48:28.866348"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Spaklerweg 14 H-10",
-      "prijs": "€ 1298 p/m",
-      "details": "Spaklerweg 14 H-10 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
-      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-h-10",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-28T14:48:28.866348"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Panamalaan 281",
-      "prijs": "€ 1309 p/m",
-      "details": "Panamalaan 281 1019 AS, AMSTERDAM € 1.309 p/m 40 m² A+++ 1",
-      "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/panamalaan-281",
       "nieuw": false,
       "gezien_sinds": "2026-08-28T14:48:28.866348"
     },
@@ -590,28 +557,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Spaarndammerplantsoen",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/139496d4/spaarndammerplantsoen/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T00:49:56.027151"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vlietstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f93ec80d/vlietstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T00:49:56.027151"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Frederik Hendrikstraat",
       "prijs": "",
       "details": "",
@@ -623,32 +568,10 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Wiltzanghlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/725a2fc1/wiltzanghlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T05:59:55.229697"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Vrolikstraat",
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/1c5c4224/vrolikstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T05:59:55.229697"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Pieter Holmplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f5631d11/pieter-holmplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T05:59:55.229697"
@@ -692,7 +615,7 @@
       "titel": "Appartement August Allebéplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/fc4ec6f4/august-allebeplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ec015b15/august-allebeplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T17:21:48.585298"
@@ -703,10 +626,87 @@
       "titel": "Appartement August Allebéplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ec015b15/august-allebeplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/fc4ec6f4/august-allebeplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T17:21:48.585298"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Jan Postmahof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/39a23d7c/jan-postmahof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-31T15:43:01.110754"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Willem Parelstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/59d9f5a5/willem-parelstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-31T15:43:01.110754"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Willem Parelstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/a9cba84e/willem-parelstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-31T15:43:01.110754"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Stoomgemaalstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/983668bc/stoomgemaalstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-31T15:43:01.110754"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Asterweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/15bba96d/asterweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-31T15:43:01.110754"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Heathrowstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/69732935/heathrowstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-31T15:43:01.110754"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Buikslotermeerplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/7dbb5281/buikslotermeerplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-31T15:43:01.110754"
     }
   ]
 }
