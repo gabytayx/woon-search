@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "31 Aug 2026 om 00:06",
-  "bijgewerkt_iso": "2026-08-31T00:06:24.172028",
+  "bijgewerkt": "31 Aug 2026 om 02:36",
+  "bijgewerkt_iso": "2026-08-31T02:36:08.932134",
   "aantal": 68,
   "nieuw": 0,
   "woningen": [
@@ -256,28 +256,6 @@
       "link": "https://roofz.eu/huur/woningen/panamalaan-287",
       "nieuw": false,
       "gezien_sinds": "2026-08-25T10:08:07.556435"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Statenjachtstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a9a588fd/statenjachtstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-26T03:30:08.264810"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Haringbuisdijk",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/23ca9009/haringbuisdijk/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-26T13:00:18.558090"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -678,6 +656,28 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Frederik Hendrikstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d010e0c5/frederik-hendrikstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-29T00:49:56.027151"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Wiltzanghlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/725a2fc1/wiltzanghlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-29T05:59:55.229697"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Vrolikstraat",
       "prijs": "",
       "details": "",
@@ -736,7 +736,7 @@
       "titel": "Appartement August Allebéplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ec015b15/august-allebeplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/fc4ec6f4/august-allebeplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T17:21:48.585298"
@@ -747,7 +747,7 @@
       "titel": "Appartement August Allebéplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/fc4ec6f4/august-allebeplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ec015b15/august-allebeplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T17:21:48.585298"
