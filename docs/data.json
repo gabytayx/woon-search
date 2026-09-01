@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "01 Sep 2026 om 14:21",
-  "bijgewerkt_iso": "2026-09-01T14:21:05.731838",
-  "aantal": 61,
-  "nieuw": 6,
+  "bijgewerkt": "01 Sep 2026 om 18:49",
+  "bijgewerkt_iso": "2026-09-01T18:49:24.485826",
+  "aantal": 63,
+  "nieuw": 7,
   "woningen": [
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Diepenbeekplantsoen",
+      "titel": "Appartement Verversstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/c8a9cd51/diepenbeekplantsoen/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/33c4669c/verversstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-01T14:21:05.731761"
+      "gezien_sinds": "2026-09-01T18:49:24.485738"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -21,54 +21,65 @@
       "titel": "Appartement Saffierstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b7245c98/saffierstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/89400cac/saffierstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-01T14:21:05.731761"
+      "gezien_sinds": "2026-09-01T18:49:24.485738"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Willaertstraat",
+      "titel": "Appartement Rinus Michelslaan",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ed11a2c0/willaertstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/3097f74a/rinus-michelslaan/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-01T14:21:05.731761"
+      "gezien_sinds": "2026-09-01T18:49:24.485738"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Van Reigersbergenstraat",
+      "titel": "Appartement Wibautstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3f66fa51/van-reigersbergenstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/bb7a97a1/wibautstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-01T14:21:05.731761"
+      "gezien_sinds": "2026-09-01T18:49:24.485738"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elzenhagensingel",
+      "titel": "Appartement Strandeilandlaan",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/bbf26104/elzenhagensingel/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/68f95347/strandeilandlaan/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-01T14:21:05.731761"
+      "gezien_sinds": "2026-09-01T18:49:24.485738"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Julianaplein",
+      "titel": "Appartement Strandeilandlaan",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1aa39abd/julianaplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ab433260/strandeilandlaan/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-01T14:21:05.731761"
+      "gezien_sinds": "2026-09-01T18:49:24.485738"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/elzenhagensingel-286-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-01T18:49:24.485738"
     },
     {
       "bron": "Pararius",
@@ -269,17 +280,6 @@
       "gezien_sinds": "2026-08-24T12:03:17.174568"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-391-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-26T17:59:25.396346"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Kamer Claus van Amsbergstraat",
@@ -359,28 +359,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Johan Hofmanstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5681d7d8/johan-hofmanstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-27T18:50:36.609809"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Eerste Leeghwaterstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/72e350c4/eerste-leeghwaterstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-27T18:50:36.609809"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Spaklerweg",
       "prijs": "",
       "details": "",
@@ -425,6 +403,28 @@
     {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
+      "titel": "Spaklerweg 14 F-13",
+      "prijs": "€ 1298 p/m",
+      "details": "Spaklerweg 14 F-13 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-f-13",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-28T14:48:28.866348"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Panamalaan 281",
+      "prijs": "€ 1309 p/m",
+      "details": "Panamalaan 281 1019 AS, AMSTERDAM € 1.309 p/m 40 m² A+++ 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/panamalaan-281",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-28T14:48:28.866348"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
       "titel": "Spaklerweg 14 K-12",
       "prijs": "€ 1298 p/m",
       "details": "Spaklerweg 14 K-12 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
@@ -440,17 +440,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/a6fda5bb/dijkmeerlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-28T14:48:28.866348"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Olga de Haasstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/89c19c3c/olga-de-haasstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-28T14:48:28.866348"
@@ -480,17 +469,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Spaarndammerplantsoen",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/139496d4/spaarndammerplantsoen/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T00:49:56.027151"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Frederik Hendrikstraat",
       "prijs": "",
       "details": "",
@@ -498,6 +476,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T00:49:56.027151"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Wiltzanghlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/725a2fc1/wiltzanghlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-29T05:59:55.229697"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -517,17 +506,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/f5631d11/pieter-holmplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T05:59:55.229697"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vegastraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/9c8ba02e/vegastraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T05:59:55.229697"
@@ -612,17 +590,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Stoomgemaalstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/983668bc/stoomgemaalstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Asterweg",
       "prijs": "",
       "details": "",
@@ -667,13 +634,68 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement IJdoornlaan",
+      "titel": "Appartement Diepenbeekplantsoen",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f69de34f/ijdoornlaan/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c8a9cd51/diepenbeekplantsoen/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-08-31T21:42:11.299253"
+      "gezien_sinds": "2026-09-01T14:21:05.731761"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Saffierstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b7245c98/saffierstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-01T14:21:05.731761"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Willaertstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ed11a2c0/willaertstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-01T14:21:05.731761"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Reigersbergenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/3f66fa51/van-reigersbergenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-01T14:21:05.731761"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elzenhagensingel",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/bbf26104/elzenhagensingel/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-01T14:21:05.731761"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Julianaplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1aa39abd/julianaplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-01T14:21:05.731761"
     }
   ]
 }
