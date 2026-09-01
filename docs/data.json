@@ -1,42 +1,9 @@
 {
-  "bijgewerkt": "01 Sep 2026 om 21:43",
-  "bijgewerkt_iso": "2026-09-01T21:43:06.274391",
+  "bijgewerkt": "02 Sep 2026 om 00:03",
+  "bijgewerkt_iso": "2026-09-02T00:03:08.389547",
   "aantal": 62,
-  "nieuw": 3,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Ottho Heldringstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6e232f7b/ottho-heldringstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-01T21:43:06.274308"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Pieter Oosterhuisstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ed5771e2/pieter-oosterhuisstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-01T21:43:06.274308"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elzenhagensingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/14ab46f5/elzenhagensingel/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-01T21:43:06.274308"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -337,22 +304,22 @@
     {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
-      "titel": "Spaklerweg 14 H-10",
+      "titel": "Spaklerweg 14 F-13",
       "prijs": "€ 1298 p/m",
-      "details": "Spaklerweg 14 H-10 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
-      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-h-10",
+      "details": "Spaklerweg 14 F-13 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-f-13",
       "nieuw": false,
       "gezien_sinds": "2026-08-28T14:48:28.866348"
     },
     {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
-      "titel": "Spaklerweg 14 F-13",
+      "titel": "Spaklerweg 14 H-10",
       "prijs": "€ 1298 p/m",
-      "details": "Spaklerweg 14 F-13 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
+      "details": "Spaklerweg 14 H-10 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
       "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-f-13",
+      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-h-10",
       "nieuw": false,
       "gezien_sinds": "2026-08-28T14:48:28.866348"
     },
@@ -403,21 +370,21 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Lijnbaansgracht",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/109aff88/lijnbaansgracht/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T00:49:56.027151"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Vrolikstraat",
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/1c5c4224/vrolikstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-29T05:59:55.229697"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Pieter Holmplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/f5631d11/pieter-holmplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T05:59:55.229697"
@@ -685,6 +652,39 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-01T18:49:24.485738"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ottho Heldringstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6e232f7b/ottho-heldringstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-01T21:43:06.274308"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Pieter Oosterhuisstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ed5771e2/pieter-oosterhuisstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-01T21:43:06.274308"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elzenhagensingel",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/14ab46f5/elzenhagensingel/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-01T21:43:06.274308"
     }
   ]
 }
