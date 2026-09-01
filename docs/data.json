@@ -1,7 +1,7 @@
 {
-  "bijgewerkt": "01 Sep 2026 om 03:56",
-  "bijgewerkt_iso": "2026-09-01T03:56:52.459190",
-  "aantal": 64,
+  "bijgewerkt": "01 Sep 2026 om 08:59",
+  "bijgewerkt_iso": "2026-09-01T08:59:38.384863",
+  "aantal": 63,
   "nieuw": 0,
   "woningen": [
     {
@@ -392,17 +392,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement August Allebéplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/74e377f1/august-allebeplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-27T18:50:36.609809"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Spaklerweg",
       "prijs": "",
       "details": "",
@@ -502,10 +491,10 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vlietstraat",
+      "titel": "Appartement Lijnbaansgracht",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f93ec80d/vlietstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/109aff88/lijnbaansgracht/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T00:49:56.027151"
@@ -535,10 +524,21 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Pieter Holmplein",
+      "titel": "Appartement Vrolikstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f5631d11/pieter-holmplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1c5c4224/vrolikstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-29T05:59:55.229697"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Vegastraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/9c8ba02e/vegastraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T05:59:55.229697"
@@ -571,7 +571,7 @@
       "titel": "Appartement August Allebéplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ec015b15/august-allebeplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/fc4ec6f4/august-allebeplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T17:21:48.585298"
@@ -582,7 +582,7 @@
       "titel": "Appartement August Allebéplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/fc4ec6f4/august-allebeplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ec015b15/august-allebeplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T17:21:48.585298"
@@ -672,17 +672,6 @@
       "details": "25 m² · 1 kamer · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/90ba3b05/kleiburg",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-31T21:42:11.299253"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Schipluidenlaan 420",
-      "prijs": "€ 1035 p/m",
-      "details": "Schipluidenlaan 420 1062 HE, AMSTERDAM € 1.035 p/m 39 m² A 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
-      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-420",
       "nieuw": false,
       "gezien_sinds": "2026-08-31T21:42:11.299253"
     },
