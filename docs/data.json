@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "02 Sep 2026 om 02:09",
-  "bijgewerkt_iso": "2026-09-02T02:09:58.228664",
+  "bijgewerkt": "02 Sep 2026 om 06:28",
+  "bijgewerkt_iso": "2026-09-02T06:28:37.968696",
   "aantal": 62,
   "nieuw": 0,
   "woningen": [
@@ -280,6 +280,50 @@
       "gezien_sinds": "2026-08-27T18:50:36.609809"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Johan Hofmanstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5681d7d8/johan-hofmanstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-27T18:50:36.609809"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Eerste Leeghwaterstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/72e350c4/eerste-leeghwaterstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-27T18:50:36.609809"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Sausalitolaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c922bf55/sausalitolaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-28T03:15:28.020505"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Kamer Claus van Amsbergstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/85b9642b/claus-van-amsbergstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-28T03:15:28.020505"
+    },
+    {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
       "titel": "Spaklerweg 14 F-13",
@@ -348,46 +392,13 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Spaarndammerplantsoen",
+      "titel": "Appartement Frederik Hendrikstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/139496d4/spaarndammerplantsoen/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d010e0c5/frederik-hendrikstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T00:49:56.027151"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Wiltzanghlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/725a2fc1/wiltzanghlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T05:59:55.229697"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vrolikstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1c5c4224/vrolikstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T05:59:55.229697"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Pieter Holmplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f5631d11/pieter-holmplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T05:59:55.229697"
     },
     {
       "bron": "Pararius",
@@ -605,17 +616,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/3097f74a/rinus-michelslaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-01T18:49:24.485738"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Wibautstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/bb7a97a1/wibautstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-01T18:49:24.485738"
