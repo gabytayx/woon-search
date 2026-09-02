@@ -1,30 +1,85 @@
 {
-  "bijgewerkt": "02 Sep 2026 om 10:56",
-  "bijgewerkt_iso": "2026-09-02T10:56:37.403459",
+  "bijgewerkt": "02 Sep 2026 om 15:05",
+  "bijgewerkt_iso": "2026-09-02T15:05:52.604696",
   "aantal": 62,
-  "nieuw": 2,
+  "nieuw": 7,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kruitberg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/23560a77/kruitberg/",
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Karspeldreef 4 110",
+      "prijs": "€ 1.358 per maand",
+      "details": "58 m² · 2 kamers · 2022",
       "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/b5abe441/karspeldreef",
       "nieuw": true,
-      "gezien_sinds": "2026-09-02T10:56:37.403386"
+      "gezien_sinds": "2026-09-02T15:05:52.604610"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Gooioord",
+      "titel": "Appartement Karspeldreef",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/364eaac8/gooioord/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/eff5be6c/karspeldreef/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-02T10:56:37.403386"
+      "gezien_sinds": "2026-09-02T15:05:52.604610"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Rijnlandlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/cb195e98/rijnlandlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-02T15:05:52.604610"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement John Blankensteinstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/19c0c59c/john-blankensteinstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-02T15:05:52.604610"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Koningin Wilhelminaplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/460ad2a5/koningin-wilhelminaplein/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-02T15:05:52.604610"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Rijnlandlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/62e58f8a/rijnlandlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-02T15:05:52.604610"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement David Ricardostraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/bcab5cc6/david-ricardostraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-02T15:05:52.604610"
     },
     {
       "bron": "Pararius",
@@ -304,17 +359,6 @@
     {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
-      "titel": "Spaklerweg 14 H-10",
-      "prijs": "€ 1298 p/m",
-      "details": "Spaklerweg 14 H-10 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
-      "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-h-10",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-28T14:48:28.866348"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
       "titel": "Spaklerweg 14 K-12",
       "prijs": "€ 1298 p/m",
       "details": "Spaklerweg 14 K-12 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
@@ -326,22 +370,11 @@
     {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
-      "titel": "Spaklerweg 14 F-13",
+      "titel": "Spaklerweg 14 H-10",
       "prijs": "€ 1298 p/m",
-      "details": "Spaklerweg 14 F-13 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
+      "details": "Spaklerweg 14 H-10 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
       "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-f-13",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-28T14:48:28.866348"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Dijkmeerlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a6fda5bb/dijkmeerlaan/",
-      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-h-10",
       "nieuw": false,
       "gezien_sinds": "2026-08-28T14:48:28.866348"
     },
@@ -366,50 +399,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T00:49:56.027151"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Lijnbaansgracht",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/109aff88/lijnbaansgracht/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T00:49:56.027151"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vlietstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f93ec80d/vlietstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T00:49:56.027151"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Wiltzanghlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/725a2fc1/wiltzanghlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T05:59:55.229697"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Vrolikstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1c5c4224/vrolikstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-29T05:59:55.229697"
     },
     {
       "bron": "Pararius",
@@ -612,17 +601,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Saffierstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/89400cac/saffierstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-01T18:49:24.485738"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Rinus Michelslaan",
       "prijs": "",
       "details": "",
@@ -685,6 +663,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-01T21:43:06.274308"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Kruitberg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/23560a77/kruitberg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-02T10:56:37.403386"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Gooioord",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/364eaac8/gooioord/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-02T10:56:37.403386"
     }
   ]
 }
