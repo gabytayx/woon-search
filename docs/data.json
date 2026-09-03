@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "03 Sep 2026 om 21:51",
-  "bijgewerkt_iso": "2026-09-03T21:51:30.162027",
-  "aantal": 68,
-  "nieuw": 1,
+  "bijgewerkt": "04 Sep 2026 om 00:01",
+  "bijgewerkt_iso": "2026-09-04T00:01:45.149430",
+  "aantal": 66,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Berkmeerpad",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d06c0d53/berkmeerpad/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-03T21:51:30.161936"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -687,17 +676,6 @@
       "gezien_sinds": "2026-09-03T15:35:01.755279"
     },
     {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Schipluidenlaan 492",
-      "prijs": "€ 1049 p/m",
-      "details": "Schipluidenlaan 492 1062 HE, AMSTERDAM € 1.049 p/m 41 m² A 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
-      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-492",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-03T15:35:01.755279"
-    },
-    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Elzenhagensingel",
@@ -742,15 +720,15 @@
       "gezien_sinds": "2026-09-03T19:14:16.351475"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Berkmeerpad",
+      "prijs": "",
       "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-253-amsterdam/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d06c0d53/berkmeerpad/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-09-03T19:14:16.351475"
+      "gezien_sinds": "2026-09-03T21:51:30.161936"
     }
   ]
 }
