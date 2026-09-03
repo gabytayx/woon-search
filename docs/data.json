@@ -1,74 +1,63 @@
 {
-  "bijgewerkt": "03 Sep 2026 om 11:05",
-  "bijgewerkt_iso": "2026-09-03T11:05:15.164568",
-  "aantal": 67,
-  "nieuw": 6,
+  "bijgewerkt": "03 Sep 2026 om 15:35",
+  "bijgewerkt_iso": "2026-09-03T15:35:01.755370",
+  "aantal": 70,
+  "nieuw": 5,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein 302",
-      "prijs": "€ 846 per maand",
+      "titel": "Appartement Elizabeth Cady Stantonplein 641",
+      "prijs": "€ 855 per maand",
       "details": "34 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e6b19b15/elizabeth-cady-stantonplein",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/91d60653/elizabeth-cady-stantonplein",
       "nieuw": true,
-      "gezien_sinds": "2026-09-03T11:05:15.164500"
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
     },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein 415",
-      "prijs": "€ 786 per maand",
+      "titel": "Appartement Elizabeth Cady Stantonplein 303",
+      "prijs": "€ 815 per maand",
       "details": "27 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/90df78a4/elizabeth-cady-stantonplein",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c4ed36d9/elizabeth-cady-stantonplein",
       "nieuw": true,
-      "gezien_sinds": "2026-09-03T11:05:15.164500"
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Nieuwe Osdorpergracht 406 N",
+      "prijs": "€ 1070 p/m",
+      "details": "Nieuwe Osdorpergracht 406 N 1068 HV, AMSTERDAM € 1.070 p/m 47 m² A 1 Available from: 1-10-2026",
+      "plaatsingsdatum": "1-10-2026",
+      "link": "https://roofz.eu/huur/woningen/nieuwe-osdorpergracht-406-n",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Schipluidenlaan 492",
+      "prijs": "€ 1049 p/m",
+      "details": "Schipluidenlaan 492 1062 HE, AMSTERDAM € 1.049 p/m 41 m² A 1 Available from: 1-10-2026",
+      "plaatsingsdatum": "1-10-2026",
+      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-492",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein",
+      "titel": "Appartement Elzenhagensingel",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/14aac559/elizabeth-cady-stantonplein/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5287bf5c/elzenhagensingel/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-03T11:05:15.164500"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4ed34de7/elizabeth-cady-stantonplein/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-03T11:05:15.164500"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/f513f68e/elizabeth-cady-stantonplein/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-03T11:05:15.164500"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5a5fae88/elizabeth-cady-stantonplein/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-03T11:05:15.164500"
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
     },
     {
       "bron": "Pararius",
@@ -260,17 +249,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Beemsterstraat 542 A 2",
-      "prijs": "€ 1.400 per maand",
-      "details": "83 m² · 3 kamers · 1997",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/07ca073e/beemsterstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-24T12:03:17.174568"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Kamer Claus van Amsbergstraat",
       "prijs": "€ 950 per maand",
       "details": "12 m² · 1 kamer",
@@ -366,6 +344,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/38559fc1/august-allebeplein",
       "nieuw": false,
       "gezien_sinds": "2026-08-29T17:21:48.585298"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Jan Postmahof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/39a23d7c/jan-postmahof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-31T15:43:01.110754"
     },
     {
       "bron": "Pararius",
@@ -568,32 +557,10 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Koningin Wilhelminaplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/460ad2a5/koningin-wilhelminaplein/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-02T15:05:52.604610"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Rijnlandlaan",
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/62e58f8a/rijnlandlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-02T15:05:52.604610"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement David Ricardostraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/bcab5cc6/david-ricardostraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-02T15:05:52.604610"
@@ -740,6 +707,72 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-03T06:22:00.842614"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein 302",
+      "prijs": "€ 846 per maand",
+      "details": "34 m² · 1 kamer · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e6b19b15/elizabeth-cady-stantonplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein 415",
+      "prijs": "€ 786 per maand",
+      "details": "27 m² · 1 kamer · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/90df78a4/elizabeth-cady-stantonplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/14aac559/elizabeth-cady-stantonplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4ed34de7/elizabeth-cady-stantonplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/f513f68e/elizabeth-cady-stantonplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5a5fae88/elizabeth-cady-stantonplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
     }
   ]
 }
