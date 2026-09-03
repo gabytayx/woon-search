@@ -1,63 +1,74 @@
 {
-  "bijgewerkt": "03 Sep 2026 om 06:22",
-  "bijgewerkt_iso": "2026-09-03T06:22:00.842708",
-  "aantal": 65,
-  "nieuw": 5,
+  "bijgewerkt": "03 Sep 2026 om 11:05",
+  "bijgewerkt_iso": "2026-09-03T11:05:15.164568",
+  "aantal": 67,
+  "nieuw": 6,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Zeeburgerdijk",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/58ef1fdc/zeeburgerdijk/",
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein 302",
+      "prijs": "€ 846 per maand",
+      "details": "34 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e6b19b15/elizabeth-cady-stantonplein",
       "nieuw": true,
-      "gezien_sinds": "2026-09-03T06:22:00.842614"
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein 415",
+      "prijs": "€ 786 per maand",
+      "details": "27 m² · 1 kamer · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/90df78a4/elizabeth-cady-stantonplein",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Sumatrastraat",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/c7c9da5f/sumatrastraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/14aac559/elizabeth-cady-stantonplein/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-03T06:22:00.842614"
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Niasstraat",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/9b62aca7/niasstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4ed34de7/elizabeth-cady-stantonplein/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-03T06:22:00.842614"
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement President Allendelaan",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/410b46b3/president-allendelaan/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/f513f68e/elizabeth-cady-stantonplein/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-03T06:22:00.842614"
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Boetonstraat",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/fb832b3c/boetonstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5a5fae88/elizabeth-cady-stantonplein/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-03T06:22:00.842614"
+      "gezien_sinds": "2026-09-03T11:05:15.164500"
     },
     {
       "bron": "Pararius",
@@ -357,39 +368,6 @@
       "gezien_sinds": "2026-08-29T17:21:48.585298"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Jan Postmahof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/39a23d7c/jan-postmahof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Willem Parelstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/59d9f5a5/willem-parelstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Willem Parelstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a9cba84e/willem-parelstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Kamer Kleiburg 1033 A",
@@ -451,17 +429,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/bbf26104/elzenhagensingel/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-01T14:21:05.731761"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Julianaplein",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/1aa39abd/julianaplein/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-01T14:21:05.731761"
@@ -718,6 +685,61 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-02T19:12:52.607408"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Zeeburgerdijk",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/58ef1fdc/zeeburgerdijk/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T06:22:00.842614"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Sumatrastraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c7c9da5f/sumatrastraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T06:22:00.842614"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Niasstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/9b62aca7/niasstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T06:22:00.842614"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement President Allendelaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/410b46b3/president-allendelaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T06:22:00.842614"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Boetonstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/fb832b3c/boetonstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T06:22:00.842614"
     }
   ]
 }
