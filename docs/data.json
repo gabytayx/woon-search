@@ -1,63 +1,52 @@
 {
-  "bijgewerkt": "03 Sep 2026 om 15:35",
-  "bijgewerkt_iso": "2026-09-03T15:35:01.755370",
-  "aantal": 70,
-  "nieuw": 5,
+  "bijgewerkt": "03 Sep 2026 om 19:14",
+  "bijgewerkt_iso": "2026-09-03T19:14:16.351581",
+  "aantal": 68,
+  "nieuw": 4,
   "woningen": [
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein 641",
-      "prijs": "€ 855 per maand",
-      "details": "34 m² · 1 kamer · Gestoffeerd",
+      "titel": "Appartement Korsjespoortsteeg",
+      "prijs": "€ 1.380 per maand",
+      "details": "50 m² · 1 kamer · Gemeubileerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/91d60653/elizabeth-cady-stantonplein",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/4384d1ba/korsjespoortsteeg",
       "nieuw": true,
-      "gezien_sinds": "2026-09-03T15:35:01.755279"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein 303",
-      "prijs": "€ 815 per maand",
-      "details": "27 m² · 1 kamer · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c4ed36d9/elizabeth-cady-stantonplein",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-03T15:35:01.755279"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Nieuwe Osdorpergracht 406 N",
-      "prijs": "€ 1070 p/m",
-      "details": "Nieuwe Osdorpergracht 406 N 1068 HV, AMSTERDAM € 1.070 p/m 47 m² A 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
-      "link": "https://roofz.eu/huur/woningen/nieuwe-osdorpergracht-406-n",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-03T15:35:01.755279"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Schipluidenlaan 492",
-      "prijs": "€ 1049 p/m",
-      "details": "Schipluidenlaan 492 1062 HE, AMSTERDAM € 1.049 p/m 41 m² A 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
-      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-492",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-03T15:35:01.755279"
+      "gezien_sinds": "2026-09-03T19:14:16.351475"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elzenhagensingel",
+      "titel": "Appartement Korsjespoortsteeg",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5287bf5c/elzenhagensingel/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b3a1caac/korsjespoortsteeg/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-03T15:35:01.755279"
+      "gezien_sinds": "2026-09-03T19:14:16.351475"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement IJburglaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e2f19156/ijburglaan/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-03T19:14:16.351475"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-253-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-03T19:14:16.351475"
     },
     {
       "bron": "Pararius",
@@ -249,17 +238,6 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Kamer Claus van Amsbergstraat",
-      "prijs": "€ 950 per maand",
-      "details": "12 m² · 1 kamer",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/83084943/claus-van-amsbergstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-27T18:50:36.609809"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement August Allebéplein 948",
       "prijs": "€ 915 per maand",
       "details": "28 m² · 1 kamer · Gestoffeerd",
@@ -346,17 +324,6 @@
       "gezien_sinds": "2026-08-29T17:21:48.585298"
     },
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Jan Postmahof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/39a23d7c/jan-postmahof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-31T15:43:01.110754"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Kamer Kleiburg 1033 A",
@@ -414,17 +381,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elzenhagensingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/bbf26104/elzenhagensingel/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-01T14:21:05.731761"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Verversstraat",
       "prijs": "",
       "details": "",
@@ -440,17 +396,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/3097f74a/rinus-michelslaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-01T18:49:24.485738"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/elzenhagensingel-286-amsterdam/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-01T18:49:24.485738"
@@ -595,17 +540,6 @@
       "details": "59 m² · 3 kamers · 2022",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/0882abfa/bullewijkpad",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-02T19:12:52.607408"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Jan van Galenstraat 556",
-      "prijs": "€ 1367 p/m",
-      "details": "Jan van Galenstraat 556 1061 AZ, AMSTERDAM € 1.367 p/m 34 m² A 1 Available from: 1-10-2026",
-      "plaatsingsdatum": "1-10-2026",
-      "link": "https://roofz.eu/huur/woningen/jan-van-galenstraat-556",
       "nieuw": false,
       "gezien_sinds": "2026-09-02T19:12:52.607408"
     },
@@ -773,6 +707,50 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-03T11:05:15.164500"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein 641",
+      "prijs": "€ 855 per maand",
+      "details": "34 m² · 1 kamer · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/91d60653/elizabeth-cady-stantonplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein 303",
+      "prijs": "€ 815 per maand",
+      "details": "27 m² · 1 kamer · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c4ed36d9/elizabeth-cady-stantonplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Schipluidenlaan 492",
+      "prijs": "€ 1049 p/m",
+      "details": "Schipluidenlaan 492 1062 HE, AMSTERDAM € 1.049 p/m 41 m² A 1 Available from: 1-10-2026",
+      "plaatsingsdatum": "1-10-2026",
+      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-492",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elzenhagensingel",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/5287bf5c/elzenhagensingel/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
     }
   ]
 }
