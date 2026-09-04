@@ -1,41 +1,41 @@
 {
-  "bijgewerkt": "04 Sep 2026 om 08:49",
-  "bijgewerkt_iso": "2026-09-04T08:49:07.301990",
-  "aantal": 67,
+  "bijgewerkt": "04 Sep 2026 om 13:55",
+  "bijgewerkt_iso": "2026-09-04T13:55:08.533217",
+  "aantal": 69,
   "nieuw": 3,
   "woningen": [
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Sumatrastraat",
+      "titel": "Appartement Schipluidenlaan",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/adef4a4b/sumatrastraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/68108287/schipluidenlaan/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-04T08:49:07.301898"
+      "gezien_sinds": "2026-09-04T13:55:08.533121"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bickersgracht",
+      "titel": "Appartement Olga de Haasstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/611b5f87/bickersgracht/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/dafec077/olga-de-haasstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-04T08:49:07.301898"
+      "gezien_sinds": "2026-09-04T13:55:08.533121"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Peursumstraat",
+      "titel": "Appartement Olga de Haasstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ffdb9bc4/peursumstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/801196da/olga-de-haasstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-04T08:49:07.301898"
+      "gezien_sinds": "2026-09-04T13:55:08.533121"
     },
     {
       "bron": "Pararius",
@@ -326,28 +326,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Verversstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/33c4669c/verversstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-01T18:49:24.485738"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Rinus Michelslaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3097f74a/rinus-michelslaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-01T18:49:24.485738"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Ottho Heldringstraat",
       "prijs": "",
       "details": "",
@@ -363,17 +341,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/ed5771e2/pieter-oosterhuisstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-01T21:43:06.274308"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Elzenhagensingel",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/14ab46f5/elzenhagensingel/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-01T21:43:06.274308"
@@ -485,6 +452,17 @@
       "details": "59 m² · 3 kamers · 2022",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/0882abfa/bullewijkpad",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-02T19:12:52.607408"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Jan van Galenstraat 556",
+      "prijs": "€ 1367 p/m",
+      "details": "Jan van Galenstraat 556 1061 AZ, AMSTERDAM € 1.367 p/m 34 m² A 1 Available from: 1-10-2026",
+      "plaatsingsdatum": "1-10-2026",
+      "link": "https://roofz.eu/huur/woningen/jan-van-galenstraat-556",
       "nieuw": false,
       "gezien_sinds": "2026-09-02T19:12:52.607408"
     },
@@ -676,6 +654,17 @@
       "gezien_sinds": "2026-09-03T15:35:01.755279"
     },
     {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Nieuwe Osdorpergracht 406 N",
+      "prijs": "€ 1070 p/m",
+      "details": "Nieuwe Osdorpergracht 406 N 1068 HV, AMSTERDAM € 1.070 p/m 47 m² A 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/nieuwe-osdorpergracht-406-n",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
+    },
+    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Elzenhagensingel",
@@ -740,6 +729,39 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-03T21:51:30.161936"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Sumatrastraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/adef4a4b/sumatrastraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-04T08:49:07.301898"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bickersgracht",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/611b5f87/bickersgracht/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-04T08:49:07.301898"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Peursumstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ffdb9bc4/peursumstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-04T08:49:07.301898"
     }
   ]
 }
