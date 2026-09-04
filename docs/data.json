@@ -1,19 +1,30 @@
 {
-  "bijgewerkt": "04 Sep 2026 om 20:32",
-  "bijgewerkt_iso": "2026-09-04T20:32:38.619096",
+  "bijgewerkt": "04 Sep 2026 om 23:05",
+  "bijgewerkt_iso": "2026-09-04T23:05:36.752308",
   "aantal": 71,
-  "nieuw": 1,
+  "nieuw": 2,
   "woningen": [
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Andoornstraat",
+      "titel": "Appartement Ottho Heldringstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/55513b02/andoornstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2a4db9fd/ottho-heldringstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-04T20:32:38.618999"
+      "gezien_sinds": "2026-09-04T23:05:36.752213"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Spaklerweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/42743b84/spaklerweg/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-04T23:05:36.752213"
     },
     {
       "bron": "Pararius",
@@ -300,28 +311,6 @@
       "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/90ba3b05/kleiburg",
       "nieuw": false,
       "gezien_sinds": "2026-08-31T21:42:11.299253"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kruitberg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/23560a77/kruitberg/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-02T10:56:37.403386"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Gooioord",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/364eaac8/gooioord/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-02T10:56:37.403386"
     },
     {
       "bron": "Pararius",
@@ -784,6 +773,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-04T17:26:40.647860"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Andoornstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/55513b02/andoornstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-04T20:32:38.618999"
     }
   ]
 }
