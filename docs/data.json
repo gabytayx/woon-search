@@ -1,41 +1,19 @@
 {
-  "bijgewerkt": "04 Sep 2026 om 17:26",
-  "bijgewerkt_iso": "2026-09-04T17:26:40.647957",
+  "bijgewerkt": "04 Sep 2026 om 20:32",
+  "bijgewerkt_iso": "2026-09-04T20:32:38.619096",
   "aantal": 71,
-  "nieuw": 3,
+  "nieuw": 1,
   "woningen": [
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Sierplein 72",
-      "prijs": "€ 1.022 per maand",
-      "details": "73 m² · 4 kamers · Kaal",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a7f6719d/sierplein",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-04T17:26:40.647860"
-    },
-    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Wibautstraat",
+      "titel": "Appartement Andoornstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/66f8443b/wibautstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/55513b02/andoornstraat/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-04T17:26:40.647860"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Oostenburgermiddenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/3ff7e257/oostenburgermiddenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-04T17:26:40.647860"
+      "gezien_sinds": "2026-09-04T20:32:38.618999"
     },
     {
       "bron": "Pararius",
@@ -775,15 +753,37 @@
       "gezien_sinds": "2026-09-04T13:55:08.533121"
     },
     {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Sierplein 72",
+      "prijs": "€ 1.022 per maand",
+      "details": "73 m² · 4 kamers · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a7f6719d/sierplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-04T17:26:40.647860"
+    },
+    {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Olga de Haasstraat",
+      "titel": "Appartement Wibautstraat",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/801196da/olga-de-haasstraat/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/66f8443b/wibautstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-09-04T13:55:08.533121"
+      "gezien_sinds": "2026-09-04T17:26:40.647860"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Oostenburgermiddenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/3ff7e257/oostenburgermiddenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-04T17:26:40.647860"
     }
   ]
 }
