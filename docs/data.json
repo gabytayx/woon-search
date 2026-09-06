@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "06 Sep 2026 om 11:34",
-  "bijgewerkt_iso": "2026-09-06T11:34:53.769459",
+  "bijgewerkt": "06 Sep 2026 om 15:08",
+  "bijgewerkt_iso": "2026-09-06T15:08:35.538433",
   "aantal": 71,
   "nieuw": 0,
   "woningen": [
@@ -293,6 +293,17 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ottho Heldringstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6e232f7b/ottho-heldringstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-01T21:43:06.274308"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Kruitberg",
       "prijs": "",
       "details": "",
@@ -330,17 +341,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/eff5be6c/karspeldreef/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-02T15:05:52.604610"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Rijnlandlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/cb195e98/rijnlandlaan/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-02T15:05:52.604610"
