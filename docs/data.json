@@ -1,42 +1,9 @@
 {
-  "bijgewerkt": "07 Sep 2026 om 21:12",
-  "bijgewerkt_iso": "2026-09-07T21:12:18.123610",
+  "bijgewerkt": "08 Sep 2026 om 00:01",
+  "bijgewerkt_iso": "2026-09-08T00:01:49.443838",
   "aantal": 72,
-  "nieuw": 3,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Kamer Willem Molengraaffstraat",
-      "prijs": "€ 900 per maand",
-      "details": "8 m² · 2 kamers · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/5b0f9578/willem-molengraaffstraat",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-07T21:12:18.123530"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Krijn Taconiskade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0413a2c/krijn-taconiskade/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-07T21:12:18.123530"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/j-h-hisgenpad-864-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-07T21:12:18.123530"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -795,6 +762,39 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-07T17:29:30.651427"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Kamer Willem Molengraaffstraat",
+      "prijs": "€ 900 per maand",
+      "details": "8 m² · 2 kamers · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/5b0f9578/willem-molengraaffstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-07T21:12:18.123530"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Krijn Taconiskade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0413a2c/krijn-taconiskade/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-07T21:12:18.123530"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/j-h-hisgenpad-864-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-07T21:12:18.123530"
     }
   ]
 }
