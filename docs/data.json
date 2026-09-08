@@ -1,63 +1,30 @@
 {
-  "bijgewerkt": "08 Sep 2026 om 19:20",
-  "bijgewerkt_iso": "2026-09-08T19:20:21.499426",
+  "bijgewerkt": "08 Sep 2026 om 22:01",
+  "bijgewerkt_iso": "2026-09-08T22:01:10.726270",
   "aantal": 74,
-  "nieuw": 5,
+  "nieuw": 2,
   "woningen": [
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Duifjessteeg 14",
-      "prijs": "€ 1.202 per maand",
-      "details": "65 m² · 2 kamers · 1990",
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Postjesweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/27f24072/postjesweg/",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/61196aab/duifjessteeg",
       "nieuw": true,
-      "gezien_sinds": "2026-09-08T19:20:21.499335"
+      "gezien_sinds": "2026-09-08T22:01:10.726159"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Duifjessteeg",
+      "titel": "Appartement Postjesweg",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/58934bd9/duifjessteeg/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1284a59b/postjesweg/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-08T19:20:21.499335"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Stoomgemaalstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/271ee607/stoomgemaalstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-08T19:20:21.499335"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Haarlemmerweg",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/26cbaf9f/haarlemmerweg/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-08T19:20:21.499335"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Johan van der Keukenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/b965a5d6/johan-van-der-keukenstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-08T19:20:21.499335"
+      "gezien_sinds": "2026-09-08T22:01:10.726159"
     },
     {
       "bron": "Eefje Voogd",
@@ -502,17 +469,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Dapperstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ab8e0c94/dapperstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-07T06:34:15.812260"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Jan Tooropstraat",
       "prijs": "",
       "details": "",
@@ -650,17 +606,6 @@
       "details": "8 m² · 2 kamers · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/5b0f9578/willem-molengraaffstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-07T21:12:18.123530"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Krijn Taconiskade",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d0413a2c/krijn-taconiskade/",
-      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-07T21:12:18.123530"
     },
@@ -817,6 +762,61 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-08T15:23:15.050999"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Duifjessteeg 14",
+      "prijs": "€ 1.202 per maand",
+      "details": "65 m² · 2 kamers · 1990",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/61196aab/duifjessteeg",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-08T19:20:21.499335"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Duifjessteeg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/58934bd9/duifjessteeg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-08T19:20:21.499335"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Stoomgemaalstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/271ee607/stoomgemaalstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-08T19:20:21.499335"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Haarlemmerweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/26cbaf9f/haarlemmerweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-08T19:20:21.499335"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Johan van der Keukenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b965a5d6/johan-van-der-keukenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-08T19:20:21.499335"
     }
   ]
 }
