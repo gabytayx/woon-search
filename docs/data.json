@@ -1,30 +1,107 @@
 {
-  "bijgewerkt": "08 Sep 2026 om 06:31",
-  "bijgewerkt_iso": "2026-09-08T06:31:49.130071",
-  "aantal": 72,
-  "nieuw": 2,
+  "bijgewerkt": "08 Sep 2026 om 11:01",
+  "bijgewerkt_iso": "2026-09-08T11:01:38.410581",
+  "aantal": 75,
+  "nieuw": 8,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Naardermeerstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/99b33fe5/naardermeerstraat/",
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Haarlemmerweg 1156 W",
+      "prijs": "€ 1.152 per maand",
+      "details": "51 m² · 3 kamers · Kaal",
       "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b5c2e252/haarlemmerweg",
       "nieuw": true,
-      "gezien_sinds": "2026-09-08T06:31:49.129986"
+      "gezien_sinds": "2026-09-08T11:01:38.410480"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement August Allebéplein 278",
+      "prijs": "€ 915 per maand",
+      "details": "29 m² · 1 kamer · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/aa766a2c/august-allebeplein",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-08T11:01:38.410480"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Schipluidenlaan 806",
+      "prijs": "€ 1063 p/m",
+      "details": "Schipluidenlaan 806 1062 HE, AMSTERDAM € 1.063 p/m 41 m² A 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-806",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-08T11:01:38.410480"
     },
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Tussen Meer",
+      "titel": "Appartement Pieter Holmplein",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/90a6e384/tussen-meer/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b6ccb0c6/pieter-holmplein/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-08T06:31:49.129986"
+      "gezien_sinds": "2026-09-08T11:01:38.410480"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bovenkruier",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ef4c971c/bovenkruier/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-08T11:01:38.410480"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement August Allebéplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/0cd09641/august-allebeplein/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-08T11:01:38.410480"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Haarlemmerweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/a77f76c9/haarlemmerweg/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-08T11:01:38.410480"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Develstein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/59624c02/develstein/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-08T11:01:38.410480"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Distelweg 78R 93",
+      "prijs": "Verhuurd onder voorbehoud",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-06-24T10:27:53.552902"
     },
     {
       "bron": "Pararius",
@@ -280,6 +357,17 @@
       "gezien_sinds": "2026-08-27T18:50:36.609809"
     },
     {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Spaklerweg 14 G-12",
+      "prijs": "€ 1298 p/m",
+      "details": "Spaklerweg 14 G-12 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-g-12",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-27T18:50:36.609809"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement August Allebéplein 884",
@@ -309,39 +397,6 @@
       "details": "25 m² · 1 kamer · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/90ba3b05/kleiburg",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-31T21:42:11.299253"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Schipluidenlaan 834",
-      "prijs": "€ 1070 p/m",
-      "details": "Schipluidenlaan 834 1062 HE, AMSTERDAM € 1.070 p/m 41 m² A 1",
-      "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-834",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-31T21:42:11.299253"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Schipluidenlaan 434",
-      "prijs": "€ 1049 p/m",
-      "details": "Schipluidenlaan 434 1062 HE, AMSTERDAM € 1.049 p/m 41 m² A",
-      "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-434",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-31T21:42:11.299253"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Schipluidenlaan 420",
-      "prijs": "€ 1035 p/m",
-      "details": "Schipluidenlaan 420 1062 HE, AMSTERDAM € 1.035 p/m 39 m² A 1",
-      "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-420",
       "nieuw": false,
       "gezien_sinds": "2026-08-31T21:42:11.299253"
     },
@@ -386,6 +441,17 @@
       "details": "59 m² · 3 kamers · 2022",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/huis-te-huur/amsterdam/0882abfa/bullewijkpad",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-02T19:12:52.607408"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Jan van Galenstraat 556",
+      "prijs": "€ 1367 p/m",
+      "details": "Jan van Galenstraat 556 1061 AZ, AMSTERDAM € 1.367 p/m 34 m² A 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/jan-van-galenstraat-556",
       "nieuw": false,
       "gezien_sinds": "2026-09-02T19:12:52.607408"
     },
@@ -458,65 +524,10 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Berkmeerpad",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d06c0d53/berkmeerpad/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-03T21:51:30.161936"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Sumatrastraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/adef4a4b/sumatrastraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-04T08:49:07.301898"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bickersgracht",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/611b5f87/bickersgracht/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-04T08:49:07.301898"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Peursumstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ffdb9bc4/peursumstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-04T08:49:07.301898"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Schipluidenlaan",
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/68108287/schipluidenlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-04T13:55:08.533121"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Olga de Haasstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/dafec077/olga-de-haasstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-04T13:55:08.533121"
@@ -795,6 +806,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-07T21:12:18.123530"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Naardermeerstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/99b33fe5/naardermeerstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-08T06:31:49.129986"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Tussen Meer",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/90a6e384/tussen-meer/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-08T06:31:49.129986"
     }
   ]
 }
