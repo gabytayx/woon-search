@@ -1,9 +1,53 @@
 {
-  "bijgewerkt": "09 Sep 2026 om 02:25",
-  "bijgewerkt_iso": "2026-09-09T02:25:22.420421",
+  "bijgewerkt": "09 Sep 2026 om 06:58",
+  "bijgewerkt_iso": "2026-09-09T06:58:05.167148",
   "aantal": 74,
-  "nieuw": 0,
+  "nieuw": 4,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Anske Lammingastraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/9af22e44/anske-lammingastraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-09T06:58:05.167003"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Hogendorpplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/86b0294c/van-hogendorpplein/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-09T06:58:05.167003"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Trijn Hullemanlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/0425813d/trijn-hullemanlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-09T06:58:05.167003"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Thorn Prikkerstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/77e2f931/thorn-prikkerstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-09T06:58:05.167003"
+    },
     {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
@@ -436,17 +480,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Nieuwlandhof",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/ae789e7b/nieuwlandhof/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-07T06:34:15.812260"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Jan Tooropstraat",
       "prijs": "",
       "details": "",
@@ -539,39 +572,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/deeec717/meibergdreef/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-07T17:29:30.651427"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Kraanspoor",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/4992f63c/kraanspoor/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-07T17:29:30.651427"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Holendrechtstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/d02f44b1/holendrechtstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-07T17:29:30.651427"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement De Egmondenstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/8c27ff80/de-egmondenstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-07T17:29:30.651427"
