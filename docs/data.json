@@ -1,19 +1,30 @@
 {
-  "bijgewerkt": "09 Sep 2026 om 11:20",
-  "bijgewerkt_iso": "2026-09-09T11:20:57.346650",
+  "bijgewerkt": "09 Sep 2026 om 15:49",
+  "bijgewerkt_iso": "2026-09-09T15:49:46.735519",
   "aantal": 75,
-  "nieuw": 1,
+  "nieuw": 2,
   "woningen": [
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Osdorper Ban",
+      "titel": "Appartement Haringbuisdijk",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6a79ff65/osdorper-ban/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/f3e0e500/haringbuisdijk/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-09T11:20:57.346559"
+      "gezien_sinds": "2026-09-09T15:49:46.735408"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Rijnlandlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e8f78ce8/rijnlandlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-09T15:49:46.735408"
     },
     {
       "bron": "Eefje Voogd",
@@ -258,6 +269,17 @@
       "gezien_sinds": "2026-08-27T18:50:36.609809"
     },
     {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Spaklerweg 14 F-13",
+      "prijs": "€ 1298 p/m",
+      "details": "Spaklerweg 14 F-13 1096 BA, AMSTERDAM € 1.298 p/m 32 m² A 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-f-13",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-28T14:48:28.866348"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement August Allebéplein 884",
@@ -287,6 +309,28 @@
       "details": "25 m² · 1 kamer · Gemeubileerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/90ba3b05/kleiburg",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-31T21:42:11.299253"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Schipluidenlaan 434",
+      "prijs": "€ 1049 p/m",
+      "details": "Schipluidenlaan 434 1062 HE, AMSTERDAM € 1.049 p/m 41 m² A",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-434",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-31T21:42:11.299253"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Schipluidenlaan 420",
+      "prijs": "€ 1035 p/m",
+      "details": "Schipluidenlaan 420 1062 HE, AMSTERDAM € 1.035 p/m 39 m² A 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-420",
       "nieuw": false,
       "gezien_sinds": "2026-08-31T21:42:11.299253"
     },
@@ -401,28 +445,6 @@
       "gezien_sinds": "2026-09-03T15:35:01.755279"
     },
     {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Nieuwe Osdorpergracht 406 N",
-      "prijs": "€ 1070 p/m",
-      "details": "Nieuwe Osdorpergracht 406 N 1068 HV, AMSTERDAM € 1.070 p/m 47 m² A 1",
-      "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/nieuwe-osdorpergracht-406-n",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-03T15:35:01.755279"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Schipluidenlaan 492",
-      "prijs": "€ 1049 p/m",
-      "details": "Schipluidenlaan 492 1062 HE, AMSTERDAM € 1.049 p/m 41 m² A 1",
-      "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-492",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-03T15:35:01.755279"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Korsjespoortsteeg",
@@ -480,17 +502,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Meibergdreef",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/eb00c5e4/meibergdreef/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-07T17:29:30.651427"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Rijswijkstraat",
       "prijs": "",
       "details": "",
@@ -516,18 +527,7 @@
       "titel": "Appartement Meibergdreef",
       "prijs": "",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/a92bbf64/meibergdreef/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-07T17:29:30.651427"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Meibergdreef",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/9b0ed50e/meibergdreef/",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/deeec717/meibergdreef/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-07T17:29:30.651427"
@@ -584,17 +584,6 @@
       "details": "29 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/aa766a2c/august-allebeplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-08T11:01:38.410480"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Schipluidenlaan 806",
-      "prijs": "€ 1063 p/m",
-      "details": "Schipluidenlaan 806 1062 HE, AMSTERDAM € 1.063 p/m 41 m² A 1",
-      "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-806",
       "nieuw": false,
       "gezien_sinds": "2026-09-08T11:01:38.410480"
     },
@@ -828,6 +817,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-09T06:58:05.167003"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Osdorper Ban",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6a79ff65/osdorper-ban/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-09T11:20:57.346559"
     }
   ]
 }
