@@ -1,9 +1,31 @@
 {
-  "bijgewerkt": "10 Sep 2026 om 15:37",
-  "bijgewerkt_iso": "2026-09-10T15:37:36.583796",
-  "aantal": 72,
-  "nieuw": 0,
+  "bijgewerkt": "10 Sep 2026 om 19:15",
+  "bijgewerkt_iso": "2026-09-10T19:15:31.890409",
+  "aantal": 71,
+  "nieuw": 2,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bert Haanstrakade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/34a1c882/bert-haanstrakade/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-10T19:15:31.890325"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/onacklaan-242-capelle-aan-den-ijssel/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-10T19:15:31.890325"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -23,17 +45,6 @@
       "details": "66 m² · 2 kamers · Kaal",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/dd3468b1/beemsterstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Kamer Klaas Katerstraat",
-      "prijs": "€ 638 per maand",
-      "details": "10 m² · 1 kamer · Gemeubileerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/2837e837/klaas-katerstraat",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
@@ -577,17 +588,6 @@
       "gezien_sinds": "2026-09-08T15:23:15.050999"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/de-burcht-16-purmerend/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-08T15:23:15.050999"
-    },
-    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Duifjessteeg 14",
@@ -718,17 +718,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-09T15:49:46.735408"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Sausalitolaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/85ba6269/sausalitolaan/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-09T19:26:50.671927"
     },
     {
       "bron": "Huurwoningen.nl",
