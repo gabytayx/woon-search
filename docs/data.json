@@ -1,30 +1,118 @@
 {
-  "bijgewerkt": "10 Sep 2026 om 19:15",
-  "bijgewerkt_iso": "2026-09-10T19:15:31.890409",
-  "aantal": 71,
-  "nieuw": 2,
+  "bijgewerkt": "10 Sep 2026 om 21:42",
+  "bijgewerkt_iso": "2026-09-10T21:42:17.371847",
+  "aantal": 81,
+  "nieuw": 10,
   "woningen": [
     {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Bert Haanstrakade",
-      "prijs": "",
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 2.150 p/m | 87m2",
+      "prijs": "Zie website",
       "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/34a1c882/bert-haanstrakade/",
+      "link": "https://www.eefjevoogd.nl/woningen/naritaweg-195-d/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-10T19:15:31.890325"
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 2.175 p/m | 67m2",
+      "prijs": "Zie website",
       "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/onacklaan-242-capelle-aan-den-ijssel/",
+      "link": "https://www.eefjevoogd.nl/woningen/distelweg-261/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-10T19:15:31.890325"
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 2.565 p/m | 85m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/distelweg-78-r-93/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 1.950 p/m | 64m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/distelweg-267/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "De Kwakel | € 1.696 p/m | 85m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/vuurliniehof-158/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 2.250 Per Maand | 96m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/nydia-ecurystraat-6-e/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 4.000 Per Maand | 94m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/koninginneweg-152-4/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 3.250 p/m | 64m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/prins-hendrikkade-16-e/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 3.350 p/m | 67m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/prins-hendrikkade-16-d/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 2.650 p/m | 57m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/prins-hendrikkade-16-c/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
     },
     {
       "bron": "Pararius",
@@ -784,6 +872,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-10T06:40:31.384187"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Bert Haanstrakade",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/34a1c882/bert-haanstrakade/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-10T19:15:31.890325"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/onacklaan-242-capelle-aan-den-ijssel/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-10T19:15:31.890325"
     }
   ]
 }
