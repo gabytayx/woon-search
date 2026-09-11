@@ -1,19 +1,19 @@
 {
-  "bijgewerkt": "11 Sep 2026 om 13:38",
-  "bijgewerkt_iso": "2026-09-11T13:38:29.173199",
-  "aantal": 74,
+  "bijgewerkt": "11 Sep 2026 om 17:13",
+  "bijgewerkt_iso": "2026-09-11T17:13:45.829190",
+  "aantal": 82,
   "nieuw": 1,
   "woningen": [
     {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Utrecht | € 1.750 p/m | 70m2",
-      "prijs": "Zie website",
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
       "details": "",
-      "link": "https://www.eefjevoogd.nl/woningen/van-vollenhovenlaan-617/",
+      "link": "https://fris.nl/volledige-woningaanbod/gelrestraat-173-amsterdam/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-09-11T13:38:29.173123"
+      "gezien_sinds": "2026-09-11T17:13:45.829098"
     },
     {
       "bron": "Pararius",
@@ -34,6 +34,72 @@
       "details": "66 m² · 2 kamers · Kaal",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/dd3468b1/beemsterstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Haaksbergweg",
+      "prijs": "€ 1.300 per maand",
+      "details": "62 m² · 2 kamers · 2026",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/b0966966/haaksbergweg",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Bijlmerplein",
+      "prijs": "€ 1.495 per maand",
+      "details": "65 m² · 2 kamers · 2023",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/05db97a8/bijlmerplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Kamer Tourniairestraat 1",
+      "prijs": "€ 580 per maandTransparantMeer informatie",
+      "details": "20 m² · 1 kamer · Gemeubileerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/3ff6ff5a/tourniairestraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Kamer Duivendrechtsekade 42",
+      "prijs": "€ 856 per maand",
+      "details": "23 m² · 1 kamer · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/4be8a3e7/duivendrechtsekade",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Karspeldreef",
+      "prijs": "€ 1.306 per maand",
+      "details": "50 m² · 2 kamers · 2025",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c1cf07d5/karspeldreef",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Karspeldreef",
+      "prijs": "€ 1.306 per maand",
+      "details": "55 m² · 2 kamers · 2025",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bf611a82/karspeldreef",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
@@ -91,6 +157,17 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a2b85e86/august-allebeplein",
       "nieuw": false,
       "gezien_sinds": "2026-08-21T16:06:57.941119"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Beemsterstraat 542 A 2",
+      "prijs": "€ 1.400 per maand",
+      "details": "83 m² · 3 kamers · 1997",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/07ca073e/beemsterstraat",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-24T12:03:17.174568"
     },
     {
       "bron": "Pararius",
@@ -258,17 +335,6 @@
       "gezien_sinds": "2026-09-02T19:12:52.607408"
     },
     {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Jan van Galenstraat 556",
-      "prijs": "€ 1367 p/m",
-      "details": "Jan van Galenstraat 556 1061 AZ, AMSTERDAM € 1.367 p/m 34 m² A 1",
-      "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/jan-van-galenstraat-556",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-02T19:12:52.607408"
-    },
-    {
       "bron": "Huurstunt",
       "bron_url": "https://www.huurstunt.nl",
       "titel": "Meer zien",
@@ -320,6 +386,17 @@
       "details": "27 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c4ed36d9/elizabeth-cady-stantonplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-03T15:35:01.755279"
+    },
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Schipluidenlaan 492",
+      "prijs": "€ 1049 p/m",
+      "details": "Schipluidenlaan 492 1062 HE, AMSTERDAM € 1.049 p/m 41 m² A 1",
+      "plaatsingsdatum": "",
+      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-492",
       "nieuw": false,
       "gezien_sinds": "2026-09-03T15:35:01.755279"
     },
@@ -817,6 +894,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-11T08:23:33.578806"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Utrecht | € 1.750 p/m | 70m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/van-vollenhovenlaan-617/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-11T13:38:29.173123"
     }
   ]
 }
