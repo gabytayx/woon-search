@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "11 Sep 2026 om 20:31",
-  "bijgewerkt_iso": "2026-09-11T20:31:52.921919",
+  "bijgewerkt": "11 Sep 2026 om 23:11",
+  "bijgewerkt_iso": "2026-09-11T23:11:53.598189",
   "aantal": 83,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-327-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-11T20:31:52.921841"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -916,6 +905,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-11T13:38:29.173123"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-327-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-11T20:31:52.921841"
     }
   ]
 }
