@@ -1,9 +1,42 @@
 {
-  "bijgewerkt": "12 Sep 2026 om 22:58",
-  "bijgewerkt_iso": "2026-09-12T22:58:25.667556",
-  "aantal": 75,
+  "bijgewerkt": "13 Sep 2026 om 00:46",
+  "bijgewerkt_iso": "2026-09-13T00:46:14.050927",
+  "aantal": 78,
   "nieuw": 0,
   "woningen": [
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Kamer Duivendrechtsekade 42",
+      "prijs": "€ 856 per maand",
+      "details": "23 m² · 1 kamer · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/4be8a3e7/duivendrechtsekade",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Karspeldreef",
+      "prijs": "€ 1.306 per maand",
+      "details": "50 m² · 2 kamers · 2025",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c1cf07d5/karspeldreef",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Karspeldreef",
+      "prijs": "€ 1.306 per maand",
+      "details": "55 m² · 2 kamers · 2025",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bf611a82/karspeldreef",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
