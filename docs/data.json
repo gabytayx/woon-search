@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "13 Sep 2026 om 23:42",
-  "bijgewerkt_iso": "2026-09-13T23:42:46.905847",
+  "bijgewerkt": "14 Sep 2026 om 01:31",
+  "bijgewerkt_iso": "2026-09-14T01:31:52.703256",
   "aantal": 83,
   "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Paradijsplein 11",
-      "prijs": "€ 1.122 per maand",
-      "details": "41 m² · 2 kamers · 2015",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a669f64a/paradijsplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -89,6 +78,17 @@
       "details": "55 m² · 2 kamers · 2025",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bf611a82/karspeldreef",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Paradijsplein 11",
+      "prijs": "€ 1.122 per maand",
+      "details": "41 m² · 2 kamers · 2015",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/a669f64a/paradijsplein",
       "nieuw": false,
       "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
