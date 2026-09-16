@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "16 Sep 2026 om 19:25",
-  "bijgewerkt_iso": "2026-09-16T19:25:27.946469",
+  "bijgewerkt": "16 Sep 2026 om 22:19",
+  "bijgewerkt_iso": "2026-09-16T22:19:05.732001",
   "aantal": 84,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/1e-lulofsdwarsstraat-18-n-s-gravenhage/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-16T19:25:27.946365"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -927,6 +916,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-16T09:49:50.586945"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/1e-lulofsdwarsstraat-18-n-s-gravenhage/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-16T19:25:27.946365"
     }
   ]
 }
