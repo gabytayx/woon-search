@@ -1,30 +1,19 @@
 {
-  "bijgewerkt": "18 Sep 2026 om 15:52",
-  "bijgewerkt_iso": "2026-09-18T15:52:16.285319",
-  "aantal": 53,
+  "bijgewerkt": "18 Sep 2026 om 19:23",
+  "bijgewerkt_iso": "2026-09-18T19:23:52.138206",
+  "aantal": 51,
   "nieuw": 1,
   "woningen": [
     {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Jan van Galenstraat 522",
-      "prijs": "€ 1063 p/m",
-      "details": "Jan van Galenstraat 522 1061 AZ, AMSTERDAM € 1.063 p/m 42 m² A 1",
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/van-woustraat-39-2-amsterdam/",
       "plaatsingsdatum": "",
-      "link": "https://roofz.eu/huur/woningen/jan-van-galenstraat-522",
       "nieuw": true,
-      "gezien_sinds": "2026-09-18T15:52:16.285248"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Beemsterstraat 546 H 3",
-      "prijs": "€ 1.077 per maand",
-      "details": "66 m² · 2 kamers · Kaal",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/dd3468b1/beemsterstraat",
-      "nieuw": false,
-      "gezien_sinds": "2026-08-17T15:15:26.343309"
+      "gezien_sinds": "2026-09-18T19:23:52.138130"
     },
     {
       "bron": "Pararius",
@@ -106,13 +95,13 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Haarlemmerweg 858",
-      "prijs": "€ 1.485 per maand",
-      "details": "46 m² · 2 kamers · Kaal",
+      "titel": "Appartement Beemsterstraat 546 H 3",
+      "prijs": "€ 1.077 per maand",
+      "details": "66 m² · 2 kamers · Kaal",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/832a2149/haarlemmerweg",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/dd3468b1/beemsterstraat",
       "nieuw": false,
-      "gezien_sinds": "2026-08-20T10:55:43.063095"
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
     },
     {
       "bron": "Pararius",
@@ -256,17 +245,6 @@
       "link": "https://www.huurstunt.nl/huurwoning/huren/in/amsterdam/silodam/fjp1E",
       "nieuw": false,
       "gezien_sinds": "2026-09-02T19:12:52.607408"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein 303",
-      "prijs": "€ 815 per maand",
-      "details": "27 m² · 1 kamer · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c4ed36d9/elizabeth-cady-stantonplein",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-03T15:35:01.755279"
     },
     {
       "bron": "Roofz",
@@ -500,17 +478,6 @@
       "gezien_sinds": "2026-09-15T17:02:32.250511"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/1e-lulofsdwarsstraat-18-n-s-gravenhage/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-16T19:25:27.946365"
-    },
-    {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
       "titel": "Utrecht | € 1.600 p/m | 66m2",
@@ -568,6 +535,17 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein 614",
+      "prijs": "€ 832 per maand",
+      "details": "27 m² · 1 kamer · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0770d504/elizabeth-cady-stantonplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-18T11:44:14.920114"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement August Allebéplein 264",
       "prijs": "€ 915 per maand",
       "details": "28 m² · 1 kamer · Gestoffeerd",
@@ -577,15 +555,15 @@
       "gezien_sinds": "2026-09-18T11:44:14.920114"
     },
     {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein 614",
-      "prijs": "€ 832 per maand",
-      "details": "27 m² · 1 kamer · Gestoffeerd",
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Jan van Galenstraat 522",
+      "prijs": "€ 1063 p/m",
+      "details": "Jan van Galenstraat 522 1061 AZ, AMSTERDAM € 1.063 p/m 42 m² A 1",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0770d504/elizabeth-cady-stantonplein",
+      "link": "https://roofz.eu/huur/woningen/jan-van-galenstraat-522",
       "nieuw": false,
-      "gezien_sinds": "2026-09-18T11:44:14.920114"
+      "gezien_sinds": "2026-09-18T15:52:16.285248"
     }
   ]
 }
