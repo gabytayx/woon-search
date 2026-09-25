@@ -1,9 +1,42 @@
 {
-  "bijgewerkt": "25 Sep 2026 om 22:37",
-  "bijgewerkt_iso": "2026-09-25T22:37:25.473672",
-  "aantal": 44,
-  "nieuw": 0,
+  "bijgewerkt": "26 Sep 2026 om 01:33",
+  "bijgewerkt_iso": "2026-09-26T01:33:55.649717",
+  "aantal": 73,
+  "nieuw": 3,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Berthold Brechtstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/652d6594/berthold-brechtstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-26T01:33:55.649617"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Dijkstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/1415263b/dijkstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-26T01:33:55.649617"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Sassenheimstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/d2af1016/sassenheimstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-09-26T01:33:55.649617"
+    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -73,6 +106,28 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Karspeldreef",
+      "prijs": "€ 1.307 per maand",
+      "details": "44 m² · 2 kamers · 2025",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c1cf07d5/karspeldreef",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Karspeldreef",
+      "prijs": "€ 1.306 per maand",
+      "details": "55 m² · 2 kamers · 2025",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/bf611a82/karspeldreef",
+      "nieuw": false,
+      "gezien_sinds": "2026-08-17T15:15:26.343309"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Elizabeth Cady Stantonplein 232",
       "prijs": "€ 776 per maand",
       "details": "27 m² · 1 kamer · Gestoffeerd",
@@ -113,28 +168,6 @@
       "link": "https://www.pararius.nl/kamer-te-huur/amsterdam/90ba3b05/kleiburg",
       "nieuw": false,
       "gezien_sinds": "2026-08-31T21:42:11.299253"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Karspeldreef 4 71",
-      "prijs": "€ 1.358 per maand",
-      "details": "58 m² · 2 kamers · 2022",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/06f398be/karspeldreef",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-02T19:12:52.607408"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Bullewijkpad 3 90",
-      "prijs": "€ 1.358 per maand",
-      "details": "59 m² · 3 kamers · 2022",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/0882abfa/bullewijkpad",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-02T19:12:52.607408"
     },
     {
       "bron": "Huurstunt",
@@ -315,11 +348,11 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein 614",
-      "prijs": "€ 832 per maand",
-      "details": "27 m² · 1 kamer · Gestoffeerd",
+      "titel": "Appartement August Allebéplein 264",
+      "prijs": "€ 915 per maand",
+      "details": "28 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0770d504/elizabeth-cady-stantonplein",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/819596b5/august-allebeplein",
       "nieuw": false,
       "gezien_sinds": "2026-09-18T11:44:14.920114"
     },
@@ -337,11 +370,11 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement August Allebéplein 264",
-      "prijs": "€ 915 per maand",
-      "details": "28 m² · 1 kamer · Gestoffeerd",
+      "titel": "Appartement Elizabeth Cady Stantonplein 614",
+      "prijs": "€ 832 per maand",
+      "details": "27 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/819596b5/august-allebeplein",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0770d504/elizabeth-cady-stantonplein",
       "nieuw": false,
       "gezien_sinds": "2026-09-18T11:44:14.920114"
     },
@@ -355,17 +388,6 @@
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/69f2498f/rusland",
       "nieuw": false,
       "gezien_sinds": "2026-09-21T16:05:01.532249"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Karspeldreef 4 53",
-      "prijs": "€ 1.358 per maand",
-      "details": "69 m² · 3 kamers · 2022",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/3eca7b88/karspeldreef",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-21T21:25:21.993528"
     },
     {
       "bron": "Eefje Voogd",
@@ -423,6 +445,50 @@
       "gezien_sinds": "2026-09-22T21:10:48.002254"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Carolina MacGillavrylaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b4f5e892/carolina-macgillavrylaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-23T20:31:43.272758"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Alblasstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/02ea4b0a/alblasstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-23T20:31:43.272758"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ottho Heldringstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/30d75397/ottho-heldringstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-23T20:31:43.272758"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Ottho Heldringstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e5037c6a/ottho-heldringstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-23T23:42:20.483612"
+    },
+    {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
       "titel": "Appartement Elizabeth Cady Stantonplein 346",
@@ -434,6 +500,72 @@
       "gezien_sinds": "2026-09-24T09:51:16.862796"
     },
     {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Marnixstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/0950aeae/marnixstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-24T15:03:00.178911"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Van Speijkstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/dcba3c1a/van-speijkstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-24T15:03:00.178911"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Huidekoperstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/63083e6e/huidekoperstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-24T15:03:00.178911"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Elizabeth Cady Stantonplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/977d8d38/elizabeth-cady-stantonplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-24T15:03:00.178911"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Stadionweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/726e625e/stadionweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-24T15:03:00.178911"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Zeeburgerdijk",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2935b045/zeeburgerdijk/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-24T15:03:00.178911"
+    },
+    {
       "bron": "Roofz",
       "bron_url": "https://roofz.eu",
       "titel": "Spaklerweg 14 E-14",
@@ -443,6 +575,39 @@
       "link": "https://roofz.eu/huur/woningen/spaklerweg-14-e-14",
       "nieuw": false,
       "gezien_sinds": "2026-09-24T19:52:57.324105"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Duinluststraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/bc5c8f9b/duinluststraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-24T22:57:15.653897"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Barajasweg",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/7a6e6137/barajasweg/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-24T22:57:15.653897"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Albardagracht",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6017ef50/albardagracht/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-24T22:57:15.653897"
     },
     {
       "bron": "Pararius",
@@ -463,6 +628,160 @@
       "details": "28 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
       "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/171f9d3c/august-allebeplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Commelinstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6e9504aa/commelinstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Amazonenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c9795eae/amazonenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Amazonenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/b875cf96/amazonenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Marnixstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/ae8c3569/marnixstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Studio Johan van der Keukenstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/2387cf9b/johan-van-der-keukenstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Baffinstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/dc7860f8/baffinstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement August Allebéplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/8b154d1b/august-allebeplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Boetonstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/6b0c55c3/boetonstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Banneplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/792e4de1/banneplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement August Allebéplein",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/97ed6ae9/august-allebeplein/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Lindengracht",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/8465b4bc/lindengracht/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Willeskopstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/e96815cc/willeskopstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Huis Louis Moorhof",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c259a5e4/louis-moorhof/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-25T19:25:45.222209"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Haarlemmer Houttuinen",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/4246f9cf/haarlemmer-houttuinen/",
+      "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-25T19:25:45.222209"
     },
