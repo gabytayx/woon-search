@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "27 Sep 2026 om 12:49",
-  "bijgewerkt_iso": "2026-09-27T12:49:17.400506",
+  "bijgewerkt": "27 Sep 2026 om 17:29",
+  "bijgewerkt_iso": "2026-09-27T17:29:17.497481",
   "aantal": 44,
   "nieuw": 0,
   "woningen": [
@@ -315,22 +315,22 @@
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein 614",
-      "prijs": "€ 832 per maand",
-      "details": "27 m² · 1 kamer · Gestoffeerd",
+      "titel": "Appartement Elizabeth Cady Stantonplein 153",
+      "prijs": "€ 872 per maand",
+      "details": "34 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0770d504/elizabeth-cady-stantonplein",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e8d679ef/elizabeth-cady-stantonplein",
       "nieuw": false,
       "gezien_sinds": "2026-09-18T11:44:14.920114"
     },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Elizabeth Cady Stantonplein 153",
-      "prijs": "€ 872 per maand",
-      "details": "34 m² · 1 kamer · Gestoffeerd",
+      "titel": "Appartement Elizabeth Cady Stantonplein 614",
+      "prijs": "€ 832 per maand",
+      "details": "27 m² · 1 kamer · Gestoffeerd",
       "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/e8d679ef/elizabeth-cady-stantonplein",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/0770d504/elizabeth-cady-stantonplein",
       "nieuw": false,
       "gezien_sinds": "2026-09-18T11:44:14.920114"
     },
