@@ -1,64 +1,9 @@
 {
-  "bijgewerkt": "30 Sep 2026 om 19:01",
-  "bijgewerkt_iso": "2026-09-30T19:01:55.470186",
+  "bijgewerkt": "30 Sep 2026 om 23:19",
+  "bijgewerkt_iso": "2026-09-30T23:19:53.333946",
   "aantal": 46,
-  "nieuw": 5,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement IJdoornlaan 475",
-      "prijs": "€ 913 per maand",
-      "details": "40 m² · 2 kamers · Kaal",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/07a14bb9/ijdoornlaan",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-30T19:01:55.470123"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement August Allebéplein 422",
-      "prijs": "€ 915 per maand",
-      "details": "28 m² · 1 kamer · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/64cc2bad/august-allebeplein",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-30T19:01:55.470123"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement August Allebéplein 862",
-      "prijs": "€ 915 per maand",
-      "details": "28 m² · 1 kamer · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/5bf9bff9/august-allebeplein",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-30T19:01:55.470123"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Groenhoven 528",
-      "prijs": "€ 899 per maandTransparantMeer informatie",
-      "details": "54 m² · 2 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c99fb842/groenhoven",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-30T19:01:55.470123"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Min priceMax price",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/bercylaan-553-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-09-30T19:01:55.470123"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -509,6 +454,61 @@
       "link": "https://roofz.eu/huur/woningen/spaklerweg-14-e-15",
       "nieuw": false,
       "gezien_sinds": "2026-09-30T13:35:45.804551"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement IJdoornlaan 475",
+      "prijs": "€ 913 per maand",
+      "details": "40 m² · 2 kamers · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/07a14bb9/ijdoornlaan",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-30T19:01:55.470123"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement August Allebéplein 422",
+      "prijs": "€ 915 per maand",
+      "details": "28 m² · 1 kamer · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/64cc2bad/august-allebeplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-30T19:01:55.470123"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement August Allebéplein 862",
+      "prijs": "€ 915 per maand",
+      "details": "28 m² · 1 kamer · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/5bf9bff9/august-allebeplein",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-30T19:01:55.470123"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Groenhoven 528",
+      "prijs": "€ 899 per maandTransparantMeer informatie",
+      "details": "54 m² · 2 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/c99fb842/groenhoven",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-30T19:01:55.470123"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Min priceMax price",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/bercylaan-553-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-30T19:01:55.470123"
     }
   ]
 }
