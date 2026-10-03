@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "03 Oct 2026 om 09:35",
-  "bijgewerkt_iso": "2026-10-03T09:35:56.561951",
-  "aantal": 49,
-  "nieuw": 1,
+  "bijgewerkt": "03 Oct 2026 om 14:45",
+  "bijgewerkt_iso": "2026-10-03T14:45:27.131070",
+  "aantal": 47,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Rusland",
-      "prijs": "€ 1.200 per maand",
-      "details": "40 m² · 2 kamers · Gestoffeerd",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/9f2c2a29/rusland",
-      "nieuw": true,
-      "gezien_sinds": "2026-10-03T09:35:56.561883"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -511,28 +500,6 @@
       "gezien_sinds": "2026-10-02T16:56:01.573532"
     },
     {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Schipluidenlaan 804",
-      "prijs": "€ 1063 p/m",
-      "details": "Schipluidenlaan 804 1062 HE, AMSTERDAM € 1.063 p/m 41 m² A 1 Available from: 1-11-2026",
-      "plaatsingsdatum": "1-11-2026",
-      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-804",
-      "nieuw": false,
-      "gezien_sinds": "2026-10-02T16:56:01.573532"
-    },
-    {
-      "bron": "Roofz",
-      "bron_url": "https://roofz.eu",
-      "titel": "Schipluidenlaan 838",
-      "prijs": "€ 1063 p/m",
-      "details": "Schipluidenlaan 838 1062 HE, AMSTERDAM € 1.063 p/m 41 m² A 1 Available from: 1-11-2026",
-      "plaatsingsdatum": "1-11-2026",
-      "link": "https://roofz.eu/huur/woningen/schipluidenlaan-838",
-      "nieuw": false,
-      "gezien_sinds": "2026-10-02T16:56:01.573532"
-    },
-    {
       "bron": "Fris",
       "bron_url": "https://fris.nl",
       "titel": "Adres",
@@ -542,6 +509,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-10-02T21:41:20.017485"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Rusland",
+      "prijs": "€ 1.200 per maand",
+      "details": "40 m² · 2 kamers · Gestoffeerd",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/9f2c2a29/rusland",
+      "nieuw": false,
+      "gezien_sinds": "2026-10-03T09:35:56.561883"
     }
   ]
 }
