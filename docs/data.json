@@ -1,6 +1,6 @@
 {
-  "bijgewerkt": "12 Oct 2026 om 05:16",
-  "bijgewerkt_iso": "2026-10-12T05:16:02.454691",
+  "bijgewerkt": "12 Oct 2026 om 12:56",
+  "bijgewerkt_iso": "2026-10-12T12:56:29.055912",
   "aantal": 17,
   "nieuw": 0,
   "woningen": [
@@ -62,6 +62,28 @@
     {
       "bron": "Eefje Voogd",
       "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 2.050 p/m | 87m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/naritaweg-195-d/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Utrecht | € 1.750 p/m | 70m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/van-vollenhovenlaan-509/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-15T17:02:32.250511"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
       "titel": "Utrecht | € 1.600 p/m | 66m2",
       "prijs": "Zie website",
       "details": "",
@@ -102,17 +124,6 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-25T19:25:45.222209"
-    },
-    {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Amsterdam | € 2.665 p/m | 85m2",
-      "prijs": "Zie website",
-      "details": "",
-      "link": "https://www.eefjevoogd.nl/woningen/distelweg-78-r-104/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-28T00:07:57.487222"
     },
     {
       "bron": "Roofz",
@@ -176,17 +187,6 @@
       "prijs": "Min priceMax price",
       "details": "",
       "link": "https://fris.nl/volledige-woningaanbod/j-h-hisgenpad-872-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-10-09T18:26:04.860897"
-    },
-    {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Utrecht | € 1.750 p/m | 70m2",
-      "prijs": "Zie website",
-      "details": "",
-      "link": "https://www.eefjevoogd.nl/woningen/van-vollenhovenlaan-523/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-10-09T18:26:04.860897"
