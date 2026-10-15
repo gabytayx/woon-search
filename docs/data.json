@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "15 Oct 2026 om 17:00",
-  "bijgewerkt_iso": "2026-10-15T17:00:31.485117",
+  "bijgewerkt": "15 Oct 2026 om 20:54",
+  "bijgewerkt_iso": "2026-10-15T20:54:24.322594",
   "aantal": 16,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/generaal-spoorlaan-561-a-rijswijk/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-10-15T20:54:24.322553"
+    },
     {
       "bron": "Huurstunt",
       "bron_url": "https://www.huurstunt.nl",
@@ -168,17 +179,6 @@
       "link": "https://roofz.eu/huur/woningen/panamalaan-269",
       "nieuw": false,
       "gezien_sinds": "2026-10-08T19:41:24.323399"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Minimale prijsMaximale prijs",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/calandkade-70-s-gravenhage/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-10-15T12:10:07.487557"
     }
   ]
 }
