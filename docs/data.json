@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "16 Oct 2026 om 19:24",
-  "bijgewerkt_iso": "2026-10-16T19:24:52.130170",
-  "aantal": 16,
-  "nieuw": 1,
+  "bijgewerkt": "16 Oct 2026 om 22:02",
+  "bijgewerkt_iso": "2026-10-16T22:02:03.480637",
+  "aantal": 15,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Minimale prijsMaximale prijs",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-257-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-10-16T19:24:52.130129"
-    },
     {
       "bron": "Huurstunt",
       "bron_url": "https://www.huurstunt.nl",
