@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "16 Oct 2026 om 15:14",
-  "bijgewerkt_iso": "2026-10-16T15:14:52.807711",
+  "bijgewerkt": "16 Oct 2026 om 19:24",
+  "bijgewerkt_iso": "2026-10-16T19:24:52.130170",
   "aantal": 16,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-257-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-10-16T19:24:52.130129"
+    },
     {
       "bron": "Huurstunt",
       "bron_url": "https://www.huurstunt.nl",
@@ -14,17 +25,6 @@
       "link": "https://www.huurstunt.nl/huurwoning/huren/in/amsterdam/silodam/fjp1E",
       "nieuw": false,
       "gezien_sinds": "2026-09-02T19:12:52.607408"
-    },
-    {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Amsterdam | € 4.000 p/m | 94m2",
-      "prijs": "Zie website",
-      "details": "",
-      "link": "https://www.eefjevoogd.nl/woningen/koninginneweg-152-4/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-10T21:42:17.371748"
     },
     {
       "bron": "Eefje Voogd",
@@ -55,6 +55,17 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.eefjevoogd.nl/woningen/prins-hendrikkade-16-c/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-09-10T21:42:17.371748"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 4.000 p/m | 94m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/koninginneweg-152-4/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-10T21:42:17.371748"
@@ -168,17 +179,6 @@
       "link": "https://roofz.eu/huur/woningen/panamalaan-269",
       "nieuw": false,
       "gezien_sinds": "2026-10-08T19:41:24.323399"
-    },
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Minimale prijsMaximale prijs",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/generaal-spoorlaan-561-a-rijswijk/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-10-15T20:54:24.322553"
     }
   ]
 }
