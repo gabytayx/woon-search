@@ -1,9 +1,31 @@
 {
-  "bijgewerkt": "18 Oct 2026 om 06:58",
-  "bijgewerkt_iso": "2026-10-18T06:58:42.515680",
-  "aantal": 45,
-  "nieuw": 0,
+  "bijgewerkt": "18 Oct 2026 om 11:17",
+  "bijgewerkt_iso": "2026-10-18T11:17:55.531762",
+  "aantal": 46,
+  "nieuw": 2,
   "woningen": [
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Okeghemstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c423c60b/okeghemstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-10-18T11:17:55.531697"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Boeninlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/8e8d9683/boeninlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-10-18T11:17:55.531697"
+    },
     {
       "bron": "Huurstunt",
       "bron_url": "https://www.huurstunt.nl",
@@ -168,6 +190,17 @@
       "link": "https://roofz.eu/huur/woningen/panamalaan-269",
       "nieuw": false,
       "gezien_sinds": "2026-10-08T19:41:24.323399"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-257-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-10-16T19:24:52.130129"
     },
     {
       "bron": "Huurwoningen.nl",
@@ -348,17 +381,6 @@
     {
       "bron": "Huurwoningen.nl",
       "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Czaar Peterstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/6ab327bb/czaar-peterstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-10-17T07:12:42.074947"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
       "titel": "Appartement Wibautstraat",
       "prijs": "",
       "details": "",
@@ -407,17 +429,6 @@
       "prijs": "",
       "details": "",
       "link": "https://www.huurwoningen.nl/huren/amsterdam/6f0de922/willem-passtoorsstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-10-17T07:12:42.074947"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Retiefstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/5fa205bc/retiefstraat/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-10-17T07:12:42.074947"
