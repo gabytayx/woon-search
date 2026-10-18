@@ -1,31 +1,9 @@
 {
-  "bijgewerkt": "18 Oct 2026 om 11:17",
-  "bijgewerkt_iso": "2026-10-18T11:17:55.531762",
+  "bijgewerkt": "18 Oct 2026 om 15:25",
+  "bijgewerkt_iso": "2026-10-18T15:25:25.485224",
   "aantal": 46,
-  "nieuw": 2,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Okeghemstraat",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/c423c60b/okeghemstraat/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-10-18T11:17:55.531697"
-    },
-    {
-      "bron": "Huurwoningen.nl",
-      "bron_url": "https://www.huurwoningen.nl",
-      "titel": "Appartement Boeninlaan",
-      "prijs": "",
-      "details": "",
-      "link": "https://www.huurwoningen.nl/huren/amsterdam/8e8d9683/boeninlaan/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-10-18T11:17:55.531697"
-    },
     {
       "bron": "Huurstunt",
       "bron_url": "https://www.huurstunt.nl",
@@ -509,6 +487,28 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-10-17T20:40:30.254776"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Okeghemstraat",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/c423c60b/okeghemstraat/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-10-18T11:17:55.531697"
+    },
+    {
+      "bron": "Huurwoningen.nl",
+      "bron_url": "https://www.huurwoningen.nl",
+      "titel": "Appartement Boeninlaan",
+      "prijs": "",
+      "details": "",
+      "link": "https://www.huurwoningen.nl/huren/amsterdam/8e8d9683/boeninlaan/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-10-18T11:17:55.531697"
     }
   ]
 }
