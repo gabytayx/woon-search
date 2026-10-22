@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "22 Oct 2026 om 01:18",
-  "bijgewerkt_iso": "2026-10-22T01:18:34.300528",
-  "aantal": 1,
-  "nieuw": 0,
+  "bijgewerkt": "22 Oct 2026 om 03:42",
+  "bijgewerkt_iso": "2026-10-22T03:42:21.955559",
+  "aantal": 2,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/onacklaan-222-capelle-aan-den-ijssel/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-10-22T03:42:21.955524"
+    },
     {
       "bron": "Huurstunt",
       "bron_url": "https://www.huurstunt.nl",
