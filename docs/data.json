@@ -1,42 +1,9 @@
 {
-  "bijgewerkt": "23 Oct 2026 om 19:27",
-  "bijgewerkt_iso": "2026-10-23T19:27:13.167202",
+  "bijgewerkt": "23 Oct 2026 om 22:43",
+  "bijgewerkt_iso": "2026-10-23T22:43:50.513590",
   "aantal": 43,
-  "nieuw": 3,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Appartement Haarlemmerweg 1156 N",
-      "prijs": "€ 1.143 per maand",
-      "details": "50 m² · 3 kamers · Kaal",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/37d0dd36/haarlemmerweg",
-      "nieuw": true,
-      "gezien_sinds": "2026-10-23T19:27:13.167138"
-    },
-    {
-      "bron": "Pararius",
-      "bron_url": "https://www.pararius.nl",
-      "titel": "Huis Ertskade 148",
-      "prijs": "€ 1.267 per maand",
-      "details": "53 m² · 2 kamers · 2018",
-      "plaatsingsdatum": "",
-      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/563dd616/ertskade",
-      "nieuw": true,
-      "gezien_sinds": "2026-10-23T19:27:13.167138"
-    },
-    {
-      "bron": "Huurstunt",
-      "bron_url": "https://www.huurstunt.nl",
-      "titel": "Voor het bekijken van deze woning heb je een account nodigModal openen",
-      "prijs": "Zie website",
-      "details": "",
-      "plaatsingsdatum": "",
-      "link": "https://www.huurstunt.nl/huurwoning/huren/in/amsterdam/heathrowstraat/gHvcG",
-      "nieuw": true,
-      "gezien_sinds": "2026-10-23T19:27:13.167138"
-    },
     {
       "bron": "Pararius",
       "bron_url": "https://www.pararius.nl",
@@ -476,6 +443,39 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-10-22T19:26:41.066340"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Appartement Haarlemmerweg 1156 N",
+      "prijs": "€ 1.143 per maand",
+      "details": "50 m² · 3 kamers · Kaal",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/appartement-te-huur/amsterdam/37d0dd36/haarlemmerweg",
+      "nieuw": false,
+      "gezien_sinds": "2026-10-23T19:27:13.167138"
+    },
+    {
+      "bron": "Pararius",
+      "bron_url": "https://www.pararius.nl",
+      "titel": "Huis Ertskade 148",
+      "prijs": "€ 1.267 per maand",
+      "details": "53 m² · 2 kamers · 2018",
+      "plaatsingsdatum": "",
+      "link": "https://www.pararius.nl/huis-te-huur/amsterdam/563dd616/ertskade",
+      "nieuw": false,
+      "gezien_sinds": "2026-10-23T19:27:13.167138"
+    },
+    {
+      "bron": "Huurstunt",
+      "bron_url": "https://www.huurstunt.nl",
+      "titel": "Voor het bekijken van deze woning heb je een account nodigModal openen",
+      "prijs": "Zie website",
+      "details": "",
+      "plaatsingsdatum": "",
+      "link": "https://www.huurstunt.nl/huurwoning/huren/in/amsterdam/heathrowstraat/gHvcG",
+      "nieuw": false,
+      "gezien_sinds": "2026-10-23T19:27:13.167138"
     }
   ]
 }
