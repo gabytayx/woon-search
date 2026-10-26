@@ -1,9 +1,20 @@
 {
-  "bijgewerkt": "26 Oct 2026 om 12:04",
-  "bijgewerkt_iso": "2026-10-26T12:04:23.610606",
+  "bijgewerkt": "26 Oct 2026 om 18:21",
+  "bijgewerkt_iso": "2026-10-26T18:21:53.569074",
   "aantal": 14,
-  "nieuw": 0,
+  "nieuw": 1,
   "woningen": [
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/sarphatistraat-209-2-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": true,
+      "gezien_sinds": "2026-10-26T18:21:53.569024"
+    },
     {
       "bron": "Huurstunt",
       "bron_url": "https://www.huurstunt.nl",
@@ -55,17 +66,6 @@
       "prijs": "Zie website",
       "details": "",
       "link": "https://www.eefjevoogd.nl/woningen/koninginneweg-152-4/",
-      "plaatsingsdatum": "",
-      "nieuw": false,
-      "gezien_sinds": "2026-09-10T21:42:17.371748"
-    },
-    {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Amsterdam | € 2.050 p/m | 87m2",
-      "prijs": "Zie website",
-      "details": "",
-      "link": "https://www.eefjevoogd.nl/woningen/naritaweg-195-d/",
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-09-10T21:42:17.371748"
@@ -148,15 +148,15 @@
       "gezien_sinds": "2026-10-07T21:48:21.174526"
     },
     {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Minimale prijsMaximale prijs",
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Utrecht | € 1.750 p/m | 70m2",
+      "prijs": "Zie website",
       "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/elzenhagensingel-282-amsterdam/",
+      "link": "https://www.eefjevoogd.nl/woningen/van-vollenhovenlaan-523/",
       "plaatsingsdatum": "",
       "nieuw": false,
-      "gezien_sinds": "2026-10-22T19:26:41.066340"
+      "gezien_sinds": "2026-10-09T18:26:04.860897"
     }
   ]
 }
