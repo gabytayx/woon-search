@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "26 Oct 2026 om 18:21",
-  "bijgewerkt_iso": "2026-10-26T18:21:53.569074",
+  "bijgewerkt": "26 Oct 2026 om 22:45",
+  "bijgewerkt_iso": "2026-10-26T22:45:18.898154",
   "aantal": 14,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Minimale prijsMaximale prijs",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/sarphatistraat-209-2-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-10-26T18:21:53.569024"
-    },
     {
       "bron": "Huurstunt",
       "bron_url": "https://www.huurstunt.nl",
@@ -157,6 +146,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-10-09T18:26:04.860897"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/sarphatistraat-209-2-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-10-26T18:21:53.569024"
     }
   ]
 }
