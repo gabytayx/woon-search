@@ -1,30 +1,30 @@
 {
-  "bijgewerkt": "28 Oct 2026 om 12:41",
-  "bijgewerkt_iso": "2026-10-28T12:41:01.839006",
-  "aantal": 14,
+  "bijgewerkt": "28 Oct 2026 om 18:24",
+  "bijgewerkt_iso": "2026-10-28T18:24:50.339221",
+  "aantal": 15,
   "nieuw": 2,
   "woningen": [
+    {
+      "bron": "Roofz",
+      "bron_url": "https://roofz.eu",
+      "titel": "Spaklerweg 14 F-1",
+      "prijs": "€ 1356 p/m",
+      "details": "Spaklerweg 14 F-1 1096 BA, AMSTERDAM € 1.356 p/m 32 m² A 1 Available from: 1-12-2026",
+      "plaatsingsdatum": "1-12-2026",
+      "link": "https://roofz.eu/huur/woningen/spaklerweg-14-f-1",
+      "nieuw": true,
+      "gezien_sinds": "2026-10-28T18:24:50.339174"
+    },
     {
       "bron": "Fris",
       "bron_url": "https://fris.nl",
       "titel": "Adres",
       "prijs": "Minimale prijsMaximale prijs",
       "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/van-ostadestraat-155-4-amsterdam/",
+      "link": "https://fris.nl/volledige-woningaanbod/vechtstraat-102-3-amsterdam/",
       "plaatsingsdatum": "",
       "nieuw": true,
-      "gezien_sinds": "2026-10-28T12:41:01.838962"
-    },
-    {
-      "bron": "Eefje Voogd",
-      "bron_url": "https://www.eefjevoogd.nl",
-      "titel": "Amsterdam | € 1.070 p/m | 40m2",
-      "prijs": "Zie website",
-      "details": "",
-      "link": "https://www.eefjevoogd.nl/woningen/zinranapad-153/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-10-28T12:41:01.838962"
+      "gezien_sinds": "2026-10-28T18:24:50.339174"
     },
     {
       "bron": "Huurstunt",
@@ -157,6 +157,17 @@
       "plaatsingsdatum": "",
       "nieuw": false,
       "gezien_sinds": "2026-10-09T18:26:04.860897"
+    },
+    {
+      "bron": "Eefje Voogd",
+      "bron_url": "https://www.eefjevoogd.nl",
+      "titel": "Amsterdam | € 1.070 p/m | 40m2",
+      "prijs": "Zie website",
+      "details": "",
+      "link": "https://www.eefjevoogd.nl/woningen/zinranapad-153/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-10-28T12:41:01.838962"
     }
   ]
 }
