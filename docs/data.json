@@ -1,20 +1,9 @@
 {
-  "bijgewerkt": "30 Oct 2026 om 17:14",
-  "bijgewerkt_iso": "2026-10-30T17:14:52.341987",
+  "bijgewerkt": "30 Oct 2026 om 21:49",
+  "bijgewerkt_iso": "2026-10-30T21:49:28.796739",
   "aantal": 15,
-  "nieuw": 1,
+  "nieuw": 0,
   "woningen": [
-    {
-      "bron": "Fris",
-      "bron_url": "https://fris.nl",
-      "titel": "Adres",
-      "prijs": "Minimale prijsMaximale prijs",
-      "details": "",
-      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-271-amsterdam/",
-      "plaatsingsdatum": "",
-      "nieuw": true,
-      "gezien_sinds": "2026-10-30T17:14:52.341946"
-    },
     {
       "bron": "Huurstunt",
       "bron_url": "https://www.huurstunt.nl",
@@ -168,6 +157,17 @@
       "link": "https://roofz.eu/huur/woningen/spaklerweg-14-f-1",
       "nieuw": false,
       "gezien_sinds": "2026-10-28T18:24:50.339174"
+    },
+    {
+      "bron": "Fris",
+      "bron_url": "https://fris.nl",
+      "titel": "Adres",
+      "prijs": "Minimale prijsMaximale prijs",
+      "details": "",
+      "link": "https://fris.nl/volledige-woningaanbod/gaasterlandstraat-271-amsterdam/",
+      "plaatsingsdatum": "",
+      "nieuw": false,
+      "gezien_sinds": "2026-10-30T17:14:52.341946"
     }
   ]
 }
